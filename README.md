@@ -1,3 +1,3 @@
-# Website of the SECOMP project
+# Source for SECOMP project website
 
-Available at https://secure-compilation.github.io
+Actual website available at https://secure-compilation.github.io
