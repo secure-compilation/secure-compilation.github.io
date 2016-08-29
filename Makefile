@@ -1,13 +1,14 @@
 .PHONY: build server clean open-http open-file
 
-NAME=sample-site
+NAME=secure-compilation
 
 build: stack.yaml
 	stack build
 	stack exec site build
 
 stack.yaml: $(NAME).cabal
-	stack init
+	stack init --force   # CH: --force not clean(?)
+                             # but for now that's generated code
 
 server:
 	stack exec site watch
