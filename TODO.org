@@ -1,0 +1,12 @@
+* TODO A better CSS style would be great
+** TODO Menu should be visible at the top at all times
+See for instance http://www.ieee-security.org/TC/EuroSP2017/index.php
+** TODO Nicer font
+For instance http://www.ieee-security.org/TC/EuroSP2017/index.php
+* TODO Make navigation easier (solvable by CSS too?)
+- The only part that gets in the way is the subsections of the Open
+  Positions part, but maybe those can initially be "folded away" and
+  only shown if the viewer clicks?
+- Otherwise consider splitting the main page into 4 separate pages?
+* TODO A nice SECOMP logo would be nice
+* TODO A similar website for the Micro-Policies project would be nice
