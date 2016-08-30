@@ -19,7 +19,7 @@ stack exec site rebuild
 
 # Get previous files
 git fetch --all
-git checkout master
+git checkout -b master --track origin/master
 
 # Overwrite existing files with new files
 cp -a _site/. .
