@@ -8,5 +8,12 @@ For instance http://www.ieee-security.org/TC/EuroSP2017/index.php
   Positions part, but maybe those can initially be "folded away" and
   only shown if the viewer clicks?
 - Otherwise consider splitting the main page into 4 separate pages?
+* TODO More info about pay?
+Starting Researcher:
+- I actually have the scale
+
+PostDocs:
+https://www.inria.fr/en/institute/recruitment/offers/post-doctoral-research-fellowships/faq#section7
+- but it's probably on a scale too
 * TODO A nice SECOMP logo would be nice
 * TODO A similar website for the Micro-Policies project would be nice
