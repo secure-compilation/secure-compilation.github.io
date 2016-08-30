@@ -5,14 +5,13 @@ title: Efficient Formally Secure Compilers to a Tagged Architecture
 **SECOMP** is a new research project aimed at building the first efficient
 formally secure compilers for realistic programming languages
 (see [project description](#project) below).
-The project is funded for 5 years (roughly between 2017 and 2021) by an
-[ERC Starting Grant].
+The project is generously funded for 5 years (roughly between 2017 and
+2021) by an [ERC Starting Grant].
 Over the duration of the project we are looking to hire several excellent
-Interns, PhD Students, PostDocs, Starting
-Researchers, and Research Engineers to work under the
+students and young researchers to work under the
 supervision of [Cătălin Hriţcu] at [Inria Paris] (see
 [open positions](#positions) below).
-We also have funding for sabbaticals and short-term visits for
+We also have funding for sabbaticals and short-term visits to Paris for
 researchers with an interest in secure compilation.
 
 [ERC Starting Grant]: https://erc.europa.eu/funding-and-grants/funding-schemes/starting-grants
@@ -41,7 +40,8 @@ PhD students at other institutions who are interested in getting hands
 on experience with research on the SECOMP project. Successful
 internships normally result in a research publication at a good
 international conference, and most often the BSc and MSc students we
-advise continue with a PhD. Research internships at Inria are very
+advise [continue with a PhD](http://prosecco.gforge.inria.fr/personal/hritcu/students.html).
+Research internships at Inria are very
 flexible: they usually take between 3 and 6 months and can happen any
 time of the year, not just in the summer.
 
@@ -57,7 +57,7 @@ We are especially interested in interns with previous exposure or strong desire 
 ## PhD Student Positions {#phd}
 
 We are seeking exceptional PhD candidates with a strong theoretical
-and practical background and eager to strike a balance between solving
+background and eager to strike a balance between solving
 deep foundational problems and achieving a practical impact by
 building innovative security and verification tools.
 We are particularly looking for candidates with some prior exposure to
@@ -68,14 +68,17 @@ state-of-the-art research in
 - formal security (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
-In France, an MSc degree or equivalent is required for pursuing a
-PhD. A PhD at Inria typically takes 3 years, and involves very little
+In France, an MSc degree or equivalent is strictly required for pursuing a
+PhD. A PhD typically takes 3 years, and involves very little
 to no course-work, so a strong theoretical background and previous
 exposure to research are *pre-requisites* for a successful PhD. We
 thus strongly encourage prospective PhD students without a strong
 research background to follow at least the 2nd year of the [MPRI]
 programme, an intensive, research-oriented MSc programme in computer
-science offered by some of the best researchers in Paris.
+science taught by some of the best researchers in Paris.
+The 2nd year in the [MPRI] ends with a 4.5 month
+[research internship](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=stages),
+and, as mentioned above, SECOMP is also looking for good interns.
 
 [MPRI]: https://wikimpri.dptinfo.ens-cachan.fr/doku.php
 
@@ -97,7 +100,7 @@ programming languages, formal verification, or security. Particularly
 interesting research areas are:
 
 - formal verification in a proof assistant like Coq and verified compilation in particular
-- formal security (e.g. full abstraction, noninterference);
+- formal security (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
 PostDocs and Starting Researchers can propose and follow their own
@@ -115,25 +118,29 @@ position on SECOMP could be well-suited for you.
 
 ## Support for Permanent Researcher Positions at Inria {#cr}
 
-[Permanent researcher positions at Inria](https://www.inria.fr/en/institute/recruitment/offers/young-graduate-scientist/competitive-selection-cr2)
-are awarded via a highly-competitive national contest, and the
-[Prosecco team at Inria] can support **one** exceptional candidate each
-year in this competition. If you are interested in obtaining our
-support for this, the right time to get in touch with us is
-before the end of December.
+[Researcher positions at Inria](https://www.inria.fr/en/institute/recruitment/offers/young-graduate-scientist/competitive-selection-cr2)
+are permanent and are awarded via an extremely competitive contest, and
+each Inria team can realistically support **at most one** candidate each
+year in this competition. If you are an exceptional candidate
+interested in working in the [Prosecco] team,
+the right time to get in touch with us is before the end of December.
+Working in [Prosecco] as a PostDoc or Starting Researcher can
+help in obtaining our support for a permanent position.
 
-[Prosecco team at Inria]: http://prosecco.gforge.inria.fr/
+[Prosecco]: http://prosecco.gforge.inria.fr/
 
-## Some General Information
+## Flexible Starting Dates, but Long Hiring Process
 
-The positions above can be filled over several years with significant
-flexibility, so starting dates are negotiable. Please be advised
+The non-permanent positions above can be filled over several years,
+so the starting dates are very flexible. Please be advised
 though that the hiring process at Inria Paris normally takes 2-3
-months, irrespective of the level at which you apply (so including
-internships!). Getting in touch with us early enough is thus much
-appreciated.
+months, irrespective of the level at which you apply (including
+internships!). Getting in touch with us early enough would thus be
+much appreciated.
 
-The language of communication in the SECOMP project is English and
+## Pardon My French
+
+The language of communication in the SECOMP project is **English** and
 normally one can get along just fine in Paris with only a minimal
 level of French. Inria Paris provides free French courses to
 interested students and researchers.
@@ -301,11 +308,11 @@ components than a component in the secure source language already could.
 [David Pichardie]: https://www.irisa.fr/celtique/pichardie/
 [Randy Pollack]: http://homepages.inf.ed.ac.uk/rpollack/
 
-## Other Relevant Projects
+## Related Projects
 
 - **Micro-Policies** is an ongoing project aimed at showing how a rich
-  set of _micro-policies_ (instruction-level security monitoring
-  mechanisms based on fine-grained metadata tags) can be described as
+  set of _micro-policies_ -- instruction-level security monitoring
+  mechanisms based on fine-grained metadata tags -- can be described as
   instances of a common dynamic monitoring framework, formalized and
   reasoned about with unified verification tools, and efficiently
   implemented using programmable metadata-propagation hardware. This

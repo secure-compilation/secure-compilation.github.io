@@ -3,6 +3,7 @@
 See for instance http://www.ieee-security.org/TC/EuroSP2017/index.php
 ** TODO Nicer font
 For instance http://www.ieee-security.org/TC/EuroSP2017/index.php
+** TODO More colors
 * TODO Make navigation easier (solvable by CSS too?)
 - The only part that gets in the way is the subsections of the Open
   Positions part, but maybe those can initially be "folded away" and
@@ -16,4 +17,5 @@ PostDocs:
 https://www.inria.fr/en/institute/recruitment/offers/post-doctoral-research-fellowships/faq#section7
 - but it's probably on a scale too
 * TODO A nice SECOMP logo would be nice
-* TODO A similar website for the Micro-Policies project would be nice
+* TODO A similar website for the Micro-Policies project would be nice at some point
+* TODO Longer term, generate 
