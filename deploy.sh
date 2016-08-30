@@ -34,4 +34,4 @@ git push origin master:master
 # Restoration
 git checkout develop
 git branch -D master
-git stash pop
+git stash pop || true
