@@ -18,139 +18,6 @@ researchers with an interest in secure compilation.
 [Cătălin Hriţcu]: http://prosecco.gforge.inria.fr/personal/hritcu/
 [Inria Paris]: https://www.inria.fr/en/centre/paris
 
-# Open Positions {#positions}
-
-We are looking for excellent, highly motivated students and young
-researchers for
-[Research Internship](#intern),
-[PhD Student](#phd),
-[PostDoc](#postdoc),
-[Starting Researcher](#postdoc),
-and [Research Engineer](#engineer) positions at [Inria Paris],
-under the supervision of [Cătălin Hriţcu].
-We can additionally support exceptional candidates for
-permanent [Researcher](#cr) positions funded and awarded competitively by Inria.
-More details about each of these follow.
-
-## Research Internships {#intern}
-
-The research internships are for excellent students at the BSc and MSc
-levels interested in getting an initial contact with research and for
-PhD students at other institutions who are interested in getting hands
-on experience with research on the SECOMP project. Successful
-internships normally result in a research publication at a good
-international conference, and most often the BSc and MSc students we
-advise [continue with a PhD](http://prosecco.gforge.inria.fr/personal/hritcu/students.html).
-Research internships at Inria are very
-flexible: they usually take between 3 and 6 months and can happen any
-time of the year, not just in the summer.
-
-We are especially interested in interns with previous exposure or strong desire to learn:
-
-- functional programming (e.g., ML or Haskell);
-- compilation (for imperative or functional languages);
-- formal security (e.g. full abstraction, noninterference, and other security properties);
-- formal verification, especially in a proof assistant like
-  Coq (or [F*](https://www.fstar-lang.org/));
-- building secure systems
-
-## PhD Student Positions {#phd}
-
-We are seeking exceptional PhD candidates with a strong theoretical
-background and eager to strike a balance between solving
-deep foundational problems and achieving a practical impact by
-building innovative security and verification tools.
-We are particularly looking for candidates with some prior exposure to
-state-of-the-art research in
-
-- programming languages in general and functional programming in particular;
-- formal verification in a proof assistant like Coq and verified compilation in particular
-- formal security (e.g. full abstraction, noninterference, and other security properties);
-- building secure systems
-
-In France, an MSc degree or equivalent is strictly required for pursuing a
-PhD. A PhD typically takes 3 years, and involves very little
-to no course-work, so a strong theoretical background and previous
-exposure to research are *pre-requisites* for a successful PhD. We
-thus strongly encourage prospective PhD students without a strong
-research background to follow at least the 2nd year of the [MPRI]
-programme, an intensive, research-oriented MSc programme in computer
-science taught by some of the best researchers in Paris.
-The 2nd year in the [MPRI] ends with a 4.5 month
-[research internship](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=stages),
-and, as mentioned above, SECOMP is also looking for good interns.
-
-[MPRI]: https://wikimpri.dptinfo.ens-cachan.fr/doku.php
-
-Inria PhD students are
-[payed a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4)
-of €1958 per month for their first and second year and €2059 per month
-for their third year. For more information about doing a PhDs at Inria
-please consult
-[Xavier Leroy's post on the topic](http://gallium.inria.fr/~xleroy/these.html)
-or the
-[official Inria FAQ](https://www.inria.fr/en/institute/recruitment/offers/phd/faq).
-
-## PostDoc and Starting Researcher Positions {#postdoc}
-
-For the PostDoc (2+ year contract) and Starting Researcher
-(3+ year contract) positions we are seeking exceptional candidates
-with a strong, internationally competitive track record of research in
-programming languages, formal verification, or security. Particularly
-interesting research areas are:
-
-- formal verification in a proof assistant like Coq and verified compilation in particular
-- formal security (e.g. full abstraction, noninterference, and other security properties);
-- building secure systems
-
-PostDocs and Starting Researchers can propose and follow their own
-research agenda in secure compilation and be fairly independent.
-They are expected to work collaboratively and co-advise interns and PhD students.
-
-## Research Engineer Positions {#engineer}
-
-Are you an amazing hacker with an interest in state-of-the-art
-security and verification tools? Are you experienced at programming in
-C and/or ML and/or Haskell? Have you worked on a compiler before? Can
-you envision hacking in Coq or [F*](https://www.fstar-lang.org/)? If
-you answered yes to some of these questions a Research Engineer
-position on SECOMP could be well-suited for you.
-
-## Support for Permanent Researcher Positions at Inria {#cr}
-
-[Researcher positions at Inria](https://www.inria.fr/en/institute/recruitment/offers/young-graduate-scientist/competitive-selection-cr2)
-are permanent and are awarded via an extremely competitive contest, and
-each Inria team can realistically support **at most one** candidate each
-year in this competition. If you are an exceptional candidate
-interested in working in the [Prosecco] team,
-the right time to get in touch with us is before the end of December.
-Working in [Prosecco] as a PostDoc or Starting Researcher can
-help in obtaining our support for a permanent position.
-
-[Prosecco]: http://prosecco.gforge.inria.fr/
-
-## Flexible Starting Dates, but Long Hiring Process
-
-The non-permanent positions above can be filled over several years,
-so the starting dates are very flexible. Please be advised
-though that the hiring process at Inria Paris normally takes 2-3
-months, irrespective of the level at which you apply (including
-internships!). Getting in touch with us early enough would thus be
-much appreciated.
-
-## Pardon My French
-
-The language of communication in the SECOMP project is **English** and
-normally one can get along just fine in Paris with only a minimal
-level of French. Inria Paris provides free French courses to
-interested students and researchers.
-
-## How to Apply
-
-If you are interested in applying for a position on the SECOMP project
-please send an email to <catalin.hritcu@inria.fr> including an updated
-curriculum vitae. For any questions please use the same email address.
-
 # Current Team {#team}
 
 The current SECOMP team includes [Cătălin Hriţcu] from [Inria Paris]
@@ -343,3 +210,136 @@ components than a component in the secure source language already could.
 
 - <https://github.com/secure-compilation>
 - <https://github.com/micro-policies>
+
+# Open Positions {#positions}
+
+We are looking for excellent, highly motivated students and young
+researchers for
+[Research Internship](#intern),
+[PhD Student](#phd),
+[PostDoc](#postdoc),
+[Starting Researcher](#postdoc),
+and [Research Engineer](#engineer) positions at [Inria Paris],
+under the supervision of [Cătălin Hriţcu].
+We can additionally support exceptional candidates for
+permanent [Researcher](#cr) positions funded and awarded competitively by Inria.
+More details about each of these follow.
+
+## Research Internships {#intern}
+
+The research internships are for excellent students at the BSc and MSc
+levels interested in getting an initial contact with research and for
+PhD students at other institutions who are interested in getting hands
+on experience with research on the SECOMP project. Successful
+internships normally result in a research publication at a good
+international conference, and most often the BSc and MSc students we
+advise [continue with a PhD](http://prosecco.gforge.inria.fr/personal/hritcu/students.html).
+Research internships at Inria are very
+flexible: they usually take between 3 and 6 months and can happen any
+time of the year, not just in the summer.
+
+We are especially interested in interns with previous exposure or strong desire to learn:
+
+- functional programming (e.g., ML or Haskell);
+- compilation (for imperative or functional languages);
+- formal security (e.g. full abstraction, noninterference, and other security properties);
+- formal verification, especially in a proof assistant like
+  Coq (or [F*](https://www.fstar-lang.org/));
+- building secure systems
+
+## PhD Student Positions {#phd}
+
+We are seeking exceptional PhD candidates with a strong theoretical
+background and eager to strike a balance between solving
+deep foundational problems and achieving a practical impact by
+building innovative security and verification tools.
+We are particularly looking for candidates with some prior exposure to
+state-of-the-art research in
+
+- programming languages in general and functional programming in particular;
+- formal verification in a proof assistant like Coq and verified compilation in particular
+- formal security (e.g. full abstraction, noninterference, and other security properties);
+- building secure systems
+
+In France, an MSc degree or equivalent is strictly required for pursuing a
+PhD. A PhD typically takes 3 years, and involves very little
+to no course-work, so a strong theoretical background and previous
+exposure to research are *pre-requisites* for a successful PhD. We
+thus strongly encourage prospective PhD students without a strong
+research background to follow at least the 2nd year of the [MPRI]
+programme, an intensive, research-oriented MSc programme in computer
+science taught by some of the best researchers in Paris.
+The 2nd year in the [MPRI] ends with a 4.5 month
+[research internship](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=stages),
+and, as mentioned above, SECOMP is also looking for good interns.
+
+[MPRI]: https://wikimpri.dptinfo.ens-cachan.fr/doku.php
+
+Inria PhD students are
+[payed a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4)
+of €1958 per month for their first and second year and €2059 per month
+for their third year. For more information about doing a PhDs at Inria
+please consult
+[Xavier Leroy's post on the topic](http://gallium.inria.fr/~xleroy/these.html)
+or the
+[official Inria FAQ](https://www.inria.fr/en/institute/recruitment/offers/phd/faq).
+
+## PostDoc and Starting Researcher Positions {#postdoc}
+
+For the PostDoc (2+ year contract) and Starting Researcher
+(3+ year contract) positions we are seeking exceptional candidates
+with a strong, internationally competitive track record of research in
+programming languages, formal verification, or security. Particularly
+interesting research areas are:
+
+- formal verification in a proof assistant like Coq and verified compilation in particular
+- formal security (e.g. full abstraction, noninterference, and other security properties);
+- building secure systems
+
+PostDocs and Starting Researchers can propose and follow their own
+research agenda in secure compilation and be fairly independent.
+They are expected to work collaboratively and co-advise interns and PhD students.
+
+## Research Engineer Positions {#engineer}
+
+Are you an amazing hacker with an interest in state-of-the-art
+security and verification tools? Are you experienced at programming in
+C and/or ML and/or Haskell? Have you worked on a compiler before? Can
+you envision hacking in Coq or [F*](https://www.fstar-lang.org/)? If
+you answered yes to some of these questions a Research Engineer
+position on SECOMP could be well-suited for you.
+
+## Support for Permanent Researcher Positions at Inria {#cr}
+
+[Researcher positions at Inria](https://www.inria.fr/en/institute/recruitment/offers/young-graduate-scientist/competitive-selection-cr2)
+are permanent and are awarded via an extremely competitive contest, and
+each Inria team can realistically support **at most one** candidate each
+year in this competition. If you are an exceptional candidate
+interested in working in the [Prosecco] team,
+the right time to get in touch with us is before the end of December.
+Working in [Prosecco] as a PostDoc or Starting Researcher can
+help in obtaining our support for a permanent position.
+
+[Prosecco]: http://prosecco.gforge.inria.fr/
+
+## Flexible Starting Dates, but Long Hiring Process
+
+The non-permanent positions above can be filled over several years,
+so the starting dates are very flexible. Please be advised
+though that the hiring process at Inria Paris normally takes 2-3
+months, irrespective of the level at which you apply (including
+internships!). Getting in touch with us early enough would thus be
+much appreciated.
+
+## Pardon My French
+
+The language of communication in the SECOMP project is **English** and
+normally one can get along just fine in Paris with only a minimal
+level of French. Inria Paris provides free French courses to
+interested students and researchers.
+
+## How to Apply
+
+If you are interested in applying for a position on the SECOMP project
+please send an email to <catalin.hritcu@inria.fr> including an updated
+curriculum vitae. For any questions please use the same email address.
