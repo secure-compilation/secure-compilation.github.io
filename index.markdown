@@ -82,7 +82,8 @@ components than a component in the secure source language already could.
 
 - **Upcoming**:
   [Inria Gallium](http://gallium.inria.fr/)
-  [seminar](http://gallium.inria.fr/seminar.html)
+  [seminar](http://gallium.inria.fr/seminar.html):
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-09-02-Secure-Compilation-Gallium.pdf)
   (2016-09-02)
 - Secure compilation mini-workshop at Inria Paris:
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-08-17-Secure-Compilation-Mini-Workshop-Paris.pdf)
@@ -213,7 +214,7 @@ components than a component in the secure source language already could.
 
 # Open Positions {#positions}
 
-We are looking for excellent, highly motivated students and young
+We are looking for excellent students and young
 researchers for
 [Research Internship](#intern),
 [PhD Student](#phd),
@@ -223,11 +224,12 @@ and [Research Engineer](#engineer) positions at [Inria Paris],
 under the supervision of [Cătălin Hriţcu].
 We can additionally support exceptional candidates for
 permanent [Researcher](#cr) positions funded and awarded competitively by Inria.
-More details about each of these follow.
+More details about each of these positions are followed by some
+[general information](#general) about all of them.
 
 ## Research Internships {#intern}
 
-The research internships are for excellent students at the BSc and MSc
+The research internships are for highly motivated students at the BSc and MSc
 levels interested in getting an initial contact with research and for
 PhD students at other institutions who are interested in getting hands
 on experience with research on the SECOMP project. Successful
@@ -322,7 +324,7 @@ help in obtaining our support for a permanent position.
 
 [Prosecco]: http://prosecco.gforge.inria.fr/
 
-## Flexible Starting Dates, but Long Hiring Process
+## Flexible Starting Dates, but Long Hiring Process {#general}
 
 The non-permanent positions above can be filled over several years,
 so the starting dates are very flexible. Please be advised
