@@ -80,7 +80,7 @@ components than a component in the secure source language already could.
 
 ## Talks on SECOMP
 
-- **Upcoming**:
+- **Most recent**:
   [Inria Gallium](http://gallium.inria.fr/)
   [seminar](http://gallium.inria.fr/seminar.html):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-09-02-Secure-Compilation-Gallium.pdf)
