@@ -25,13 +25,15 @@ as well as several students and external collaborators.
 
 - [Cătălin Hriţcu] (SECOMP PI, Researcher, [Inria Paris])
 - [Yannis Juglaret] (PhD Student, [Inria Paris])
+- [Boris Eng] (Intern, [Inria Paris])
 - [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
+- [André DeHon] (Professor, [University of Pennsylvania] and [Draper Labs])
 - [Arthur Azevedo de Amorim] (PhD Student, [University of Pennsylvania])
 - [Andrew Tolmach] (Professor, [Portland State University])
 
 This team will grow significantly in the coming years both by hiring
 students and young researchers at [Inria Paris] (see
-[open positions](#positions)) and by collaborating with additional
+[open positions](#positions) below) and by collaborating with additional
 world-class researchers with an interest in secure compilation.
 
 [Yannis Juglaret]: http://yannis.computer/
@@ -61,7 +63,7 @@ inefficient for most practical scenarios.
 This project is aimed at leveraging emerging hardware capabilities for
 fine-grained protection to build the first, efficient secure compilers
 for realistic programming languages, both low-level (the C language)
-and high-level (ML and a dependently-typed variant). These compilers
+and high-level (ML and [F*], a dependently-typed variant). These compilers
 will provide a secure semantics for all programs and will ensure that
 high-level abstractions cannot be violated even when interacting with
 untrusted low-level code. To achieve this level of security without
@@ -78,6 +80,8 @@ strong property complements compiler correctness and ensures
 that no machine-code attacker can do more harm to securely compiled
 components than a component in the secure source language already could.
 
+[F*]: (https://www.fstar-lang.org/)
+
 ## Talks on SECOMP
 
 - **Most recent**:
@@ -85,7 +89,7 @@ components than a component in the secure source language already could.
   [seminar](http://gallium.inria.fr/seminar.html):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-09-02-Secure-Compilation-Gallium.pdf)
   (2016-09-02)
-- Secure compilation mini-workshop at Inria Paris:
+- Secure compilation meeting (informal) at Inria Paris:
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-08-17-Secure-Compilation-Mini-Workshop-Paris.pdf)
   (2016-08-17)
 - ERC Starting Grant interview:
@@ -244,10 +248,9 @@ We are especially interested in interns with previous exposure or strong desire 
 
 - functional programming (e.g., ML or Haskell);
 - compilation (for imperative or functional languages);
-- formal security (e.g. full abstraction, noninterference, and other security properties);
+- security foundations or building secure systems;
 - formal verification, especially in a proof assistant like
-  Coq (or [F*](https://www.fstar-lang.org/));
-- building secure systems
+  Coq (or [F*]);
 
 ## PhD Student Positions {#phd}
 
@@ -259,8 +262,8 @@ We are particularly looking for candidates with some prior exposure to
 state-of-the-art research in
 
 - programming languages in general and functional programming in particular;
-- formal verification in a proof assistant like Coq and verified compilation in particular
-- formal security (e.g. full abstraction, noninterference, and other security properties);
+- formal verification in a proof assistant like Coq or [F*] and verified compilation in particular
+- security foundations (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
 In France, an MSc degree or equivalent is strictly required for pursuing a
@@ -294,8 +297,8 @@ with a strong, internationally competitive track record of research in
 programming languages, formal verification, or security. Particularly
 interesting research areas are:
 
-- formal verification in a proof assistant like Coq and verified compilation in particular
-- formal security (e.g. full abstraction, noninterference, and other security properties);
+- formal verification in a proof assistant like Coq or [F*] and verified compilation in particular
+- security foundations (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
 PostDocs and Starting Researchers can propose and follow their own
@@ -307,7 +310,7 @@ They are expected to work collaboratively and co-advise interns and PhD students
 Are you an amazing hacker with an interest in state-of-the-art
 security and verification tools? Are you experienced at programming in
 C and/or ML and/or Haskell? Have you worked on a compiler before? Can
-you envision hacking in Coq or [F*](https://www.fstar-lang.org/)? If
+you envision hacking in Coq or [F*]? If
 you answered yes to some of these questions a Research Engineer
 position on SECOMP could be well-suited for you.
 
