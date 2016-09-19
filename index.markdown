@@ -2,11 +2,17 @@
 title: Efficient Formally Secure Compilers to a Tagged Architecture
 ---
 
-**SECOMP** is a new research project aimed at building the first efficient
-formally secure compilers for realistic programming languages
-(see [project description](#project) below).
-The project is generously funded for 5 years (roughly between 2017 and
-2021) by an [ERC Starting Grant].
+**SECOMP** is a research project aimed at building the first efficient
+formally secure compilers for realistic programming languages (see
+[project description](#project) below).  The project encompasses a
+core team at [Inria Paris] and external collaborators at
+[University of Pennsylvania], [Portland State University], [MIT],
+[Northeastern University], [Microsoft Research], and [Draper Labs]
+(see [current team](#team) below).
+[Cătălin Hriţcu] and the core team at Inria Paris are generously
+funded for 5 years (roughly between 2017 and 2021) by a recently
+awarded [ERC Starting Grant].
+
 Over the duration of the project we are looking to hire several excellent
 students and young researchers to work under the
 supervision of [Cătălin Hriţcu] at [Inria Paris] (see
@@ -30,11 +36,18 @@ as well as several students and external collaborators.
 - [André DeHon] (Professor, [University of Pennsylvania] and [Draper Labs])
 - [Arthur Azevedo de Amorim] (PhD Student, [University of Pennsylvania])
 - [Andrew Tolmach] (Professor, [Portland State University])
+- [Howard E. Shrobe] (Principal Research Scientist, [MIT])
+- [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT])
+- [Amal Ahmed] (Assistant Professor, [Northeastern University])
+- [Nikhil Swamy] (Researcher, [Microsoft Research])
+- [Cédric Fournet] (Senior Researcher, [Microsoft Research])
+- [Greg Sullivan] (Chief Scientist, [Draper Labs])
 
-This team will grow significantly in the coming years both by hiring
-students and young researchers at [Inria Paris] (see
-[open positions](#positions) below) and by collaborating with additional
-world-class researchers with an interest in secure compilation.
+The core team at [Inria Paris] will grow significantly in the coming
+years both by hiring students and young researchers (see
+[open positions](#positions) below). We are also looking forward to
+collaborate with additional world-class researchers with an interest
+in secure compilation.
 
 [Yannis Juglaret]: http://yannis.computer/
 [Benjamin C. Pierce]: https://www.cis.upenn.edu/~bcpierce/
@@ -42,7 +55,16 @@ world-class researchers with an interest in secure compilation.
 [University of Pennsylvania]: https://www.cis.upenn.edu/
 [Andrew Tolmach]: http://web.cecs.pdx.edu/~apt/
 [Portland State University]: http://www.pdx.edu/computer-science/
-
+[Howard E. Shrobe]: https://people.csail.mit.edu/hes/
+[Stelios Sidiroglou-Douskos]: https://people.csail.mit.edu/stelios/
+[MIT]: https://www.csail.mit.edu/
+[Amal Ahmed]: http://www.ccs.neu.edu/home/amal/
+[Northeastern University]: http://www.ccs.neu.edu/
+[Nikhil Swamy]: http://research.microsoft.com/en-us/people/nswamy/
+[Cédric Fournet]: research.microsoft.com/en-us/um/people/fournet/
+[Microsoft Research]: http://research.microsoft.com/
+[Greg Sullivan]: https://www.linkedin.com/in/gregorytsullivan
+[Draper Labs]: http://www.draper.com/
 
 # SECOMP Project {#project}
 
@@ -63,7 +85,7 @@ inefficient for most practical scenarios.
 This project is aimed at leveraging emerging hardware capabilities for
 fine-grained protection to build the first, efficient secure compilers
 for realistic programming languages, both low-level (the C language)
-and high-level (ML and [F*], a dependently-typed variant). These compilers
+and high-level (ML and [F\*], a dependently-typed variant). These compilers
 will provide a secure semantics for all programs and will ensure that
 high-level abstractions cannot be violated even when interacting with
 untrusted low-level code. To achieve this level of security without
@@ -80,7 +102,7 @@ strong property complements compiler correctness and ensures
 that no machine-code attacker can do more harm to securely compiled
 components than a component in the secure source language already could.
 
-[F*]: (https://www.fstar-lang.org/)
+[F\*]: https://www.fstar-lang.org/
 
 ## Talks on SECOMP
 
@@ -205,10 +227,7 @@ components than a component in the secure source language already could.
   hardware mechanism we use for enforcing micro-policies originated in
   CRASH/SAFE, where it was mainly used for information-flow control.
 
-[MIT]: https://www.csail.mit.edu/
-[Draper Labs]: http://www.draper.com/
 [Harvard University]: https://www.seas.harvard.edu/computer-science
-[Northeastern University]: https://www.northeastern.edu/
 [BAE Systems]: http://www.baesystems.com/en/home
 
 ## Github Repos
@@ -250,7 +269,7 @@ We are especially interested in interns with previous exposure or strong desire 
 - compilation (for imperative or functional languages);
 - security foundations or building secure systems;
 - formal verification, especially in a proof assistant like
-  Coq (or [F*]);
+  Coq (or [F\*]);
 
 ## PhD Student Positions {#phd}
 
@@ -262,7 +281,7 @@ We are particularly looking for candidates with some prior exposure to
 state-of-the-art research in
 
 - programming languages in general and functional programming in particular;
-- formal verification in a proof assistant like Coq or [F*] and verified compilation in particular
+- formal verification in a proof assistant like Coq or [F\*] and verified compilation in particular
 - security foundations (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
@@ -297,7 +316,7 @@ with a strong, internationally competitive track record of research in
 programming languages, formal verification, or security. Particularly
 interesting research areas are:
 
-- formal verification in a proof assistant like Coq or [F*] and verified compilation in particular
+- formal verification in a proof assistant like Coq or [F\*] and verified compilation in particular
 - security foundations (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
@@ -310,9 +329,14 @@ They are expected to work collaboratively and co-advise interns and PhD students
 Are you an amazing hacker with an interest in state-of-the-art
 security and verification tools? Are you experienced at programming in
 C and/or ML and/or Haskell? Have you worked on a compiler before? Can
-you envision hacking in Coq or [F*]? If
+you envision hacking in Coq or [F\*]? If
 you answered yes to some of these questions a Research Engineer
 position on SECOMP could be well-suited for you.
+
+Research Engineer positions are full time and moving to Paris is a
+prerequisite. These are temporary positions that can be prolonged up to
+5-6 years, but we can also support excellent candidates for permanent
+research engineering positions awarded competitively by Inria.
 
 ## Support for Permanent Researcher Positions at Inria {#cr}
 
