@@ -14,8 +14,7 @@ funded for 5 years (roughly between 2017 and 2021) by a recently
 awarded [ERC Starting Grant].
 
 Over the duration of the project we are looking to hire several excellent
-students and young researchers to work under the
-supervision of [Cătălin Hriţcu] at [Inria Paris] (see
+students and young researchers to work  at [Inria Paris] (see
 [open positions](#positions) below).
 We also have funding for sabbaticals and short-term visits to Paris for
 researchers with an interest in secure compilation.
