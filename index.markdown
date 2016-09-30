@@ -270,6 +270,8 @@ We are especially interested in interns with previous exposure or strong desire 
 - formal verification, especially in a proof assistant like
   Coq (or [F\*]);
 
+For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/students/topics/2016/secomp-mpri.pdf).
+
 ## PhD Student Positions {#phd}
 
 We are seeking exceptional PhD candidates with a strong theoretical
@@ -298,8 +300,8 @@ and, as mentioned above, SECOMP is also looking for good interns.
 
 [MPRI]: https://wikimpri.dptinfo.ens-cachan.fr/doku.php
 
-Inria PhD students are
-[payed a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4)
+Inria PhD students
+[have a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4)
 of €1958 per month for their first and second year and €2059 per month
 for their third year. For more information about doing a PhDs at Inria
 please consult
