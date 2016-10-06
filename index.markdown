@@ -10,7 +10,7 @@ core team at [Inria Paris] and external collaborators at
 [Northeastern University], [Microsoft Research], and [Draper Labs]
 (see [current team](#team) below).
 [Cătălin Hriţcu] and the core team at Inria Paris are generously
-funded for 5 years (roughly between 2017 and 2021) by a recently
+funded for 5 years (between 2017 and 2021) by a recently
 awarded [ERC Starting Grant].
 
 Over the duration of the project we are looking to hire several excellent
