@@ -362,7 +362,7 @@ internships!). Getting in touch with us early enough would thus be
 much appreciated.
 
 (The hiring process takes 2-3 months at Inria, but Prosecco gets
-"special treatment" in the form of an extra security clearance check,
+_special treatment_ in the form of an extra security clearance check,
 that makes the process even slower!)
 
 ## Pardon My French
