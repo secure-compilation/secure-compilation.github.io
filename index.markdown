@@ -356,10 +356,14 @@ help in obtaining our support for a permanent position.
 
 The non-permanent positions above can be filled over several years,
 so the starting dates are very flexible. Please be advised
-though that the hiring process at Inria Paris normally takes 2-3
+though that the hiring process for Inria Prosecco normally takes 3+
 months, irrespective of the level at which you apply (including
 internships!). Getting in touch with us early enough would thus be
 much appreciated.
+
+(The hiring process takes 2-3 months at Inria, but Prosecco gets
+"special treatment" in the form of an extra security clearance check,
+that makes the process even slower!)
 
 ## Pardon My French
 
