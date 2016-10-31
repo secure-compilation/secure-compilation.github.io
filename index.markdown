@@ -25,15 +25,32 @@ researchers with an interest in secure compilation.
 
 # Current Team {#team}
 
-The current SECOMP team includes [Cătălin Hriţcu] from [Inria Paris]
-as well as several students and external collaborators.
+The SECOMP core team is located at [Inria Paris], is lead by [Cătălin
+Hriţcu], and currently includes a couple of students and a postdoc. We
+expect this core team to grow significantly in the coming years
+by [hiring students and young researchers](#positions). The SECOMP
+project also includes many external collaborators and we are looking
+forward to work with additional world-class researchers with an
+interest in secure compilation.
 
-- [Cătălin Hriţcu] (SECOMP PI, Researcher, [Inria Paris])
-- [Yannis Juglaret] (PhD Student, [Inria Paris])
-- [Boris Eng] (Intern, [Inria Paris])
+#### Core team at Inria Paris
+
+- [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
+- [Marco Stronati] (PostDoc)
+- [Guglielmo Fachini] (Research Engineer)
+- [Victor Dumitrescu] (Research Engineer)
+
+#### Past members at Inria Paris
+
+- [Yannis Juglaret] (PhD Student at Inria and Paris 7)
+- [Arthur Azevedo de Amorim] (Inria intern,
+  PhD Student at [University of Pennsylvania])
+- [Boris Eng] (Inria intern, undergraduate student at Paris 8)
+
+#### External collaborators
+
 - [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
 - [André DeHon] (Professor, [University of Pennsylvania] and [Draper Labs])
-- [Arthur Azevedo de Amorim] (PhD Student, [University of Pennsylvania])
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
 - [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT])
@@ -42,12 +59,9 @@ as well as several students and external collaborators.
 - [Cédric Fournet] (Senior Researcher, [Microsoft Research])
 - [Greg Sullivan] (Chief Scientist, [Draper Labs])
 
-The core team at [Inria Paris] will grow significantly in the coming
-years both by hiring students and young researchers (see
-[open positions](#positions) below). We are also looking forward to
-collaborate with additional world-class researchers with an interest
-in secure compilation.
-
+[Marco Stronati]: http://www.stronati.org/
+[Guglielmo Fachini]: https://github.com/GuglielmoS
+[Victor Dumitrescu]: https://github.com/victor-dumitrescu
 [Yannis Juglaret]: http://yannis.computer/
 [Benjamin C. Pierce]: https://www.cis.upenn.edu/~bcpierce/
 [Arthur Azevedo de Amorim]: https://www.cis.upenn.edu/~aarthur/
@@ -301,10 +315,10 @@ and, as mentioned above, SECOMP is also looking for good interns.
 [MPRI]: https://wikimpri.dptinfo.ens-cachan.fr/doku.php
 
 Inria PhD students
-[have a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4)
-of €1958 per month for their first and second year and €2059 per month
-for their third year. For more information about doing a PhDs at Inria
-please consult
+[have a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4) of
+€1958 per month for their first and second year (€1586 net) and €2059
+per month for their third year (€1668 net).
+For more information about doing a PhDs at Inria please consult
 [Xavier Leroy's post on the topic](http://gallium.inria.fr/~xleroy/these.html)
 or the
 [official Inria FAQ](https://www.inria.fr/en/institute/recruitment/offers/phd/faq).
@@ -325,6 +339,9 @@ PostDocs and Starting Researchers can propose and follow their own
 research agenda in secure compilation and be fairly independent.
 They are expected to work collaboratively and co-advise interns and PhD students.
 
+Inria PostDocs have a net monthly salary of €2122-2574,
+while Starting Researchers earn €2348-3344 each month.
+
 ## Research Engineer Positions {#engineer}
 
 Are you an amazing hacker with an interest in state-of-the-art
@@ -335,7 +352,8 @@ you answered yes to some of these questions a Research Engineer
 position on SECOMP could be well-suited for you.
 
 Research Engineer positions are full time and moving to Paris is a
-prerequisite. These are temporary positions that can be prolonged up to
+prerequisite. The net monthly salary is €2049-4265 based on experience.
+These are temporary positions that can be prolonged up to
 5-6 years, but we can also support excellent candidates for permanent
 research engineering positions awarded competitively by Inria.
 
@@ -352,18 +370,23 @@ help in obtaining our support for a permanent position.
 
 [Prosecco]: http://prosecco.gforge.inria.fr/
 
+These are permanent French civil servant positions that provide a lot
+of scientific freedom and opportunities to grow. They are, however,
+poorly payed, especially so compared to the cost of living in Paris.
+The precise amounts vary based on experience and increases with time,
+but you can expect to have €2000-2200 as your starting net salary.
+
 ## Flexible Starting Dates, but Long Hiring Process {#general}
 
 The non-permanent positions above can be filled over several years,
 so the starting dates are very flexible. Please be advised
 though that the hiring process for Inria Prosecco normally takes 3+
 months, irrespective of the level at which you apply (including
-internships!). Getting in touch with us early enough would thus be
-much appreciated.
+internships!). Getting in touch with us early enough is thus crucial.
 
-(The hiring process takes 2-3 months at Inria, but Prosecco gets
+(The hiring process takes 2+ months at Inria, but Prosecco gets
 _special treatment_ in the form of an extra security clearance check,
-that makes the process even slower!)
+that makes the whole process even longer!)
 
 ## Pardon My French
 
