@@ -6,8 +6,8 @@ title: Efficient Formally Secure Compilers to a Tagged Architecture
 formally secure compilers for realistic programming languages (see
 [project description](#project) below).  The project encompasses a
 core team at [Inria Paris] and external collaborators at
-[University of Pennsylvania], [Portland State University], [MIT],
-[Northeastern University], [Microsoft Research], and [Draper Labs]
+University of Pennsylvania, Portland State University, MIT,
+Northeastern University, Microsoft Research, and Draper Labs
 (see [current team](#team) below).
 [Cătălin Hriţcu] and the core team at Inria Paris are generously
 funded for 5 years (between 2017 and 2021) by a recently
@@ -318,7 +318,7 @@ Inria PhD students
 [have a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4) of
 €1958 per month for their first and second year (€1586 net) and €2059
 per month for their third year (€1668 net).
-For more information about doing a PhDs at Inria please consult
+For more information about doing a PhD at Inria please consult
 [Xavier Leroy's post on the topic](http://gallium.inria.fr/~xleroy/these.html)
 or the
 [official Inria FAQ](https://www.inria.fr/en/institute/recruitment/offers/phd/faq).
