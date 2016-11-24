@@ -25,8 +25,8 @@ researchers with an interest in secure compilation.
 
 # Current Team {#team}
 
-The SECOMP core team is located at [Inria Paris], is lead by [Cătălin
-Hriţcu], and currently includes a couple of students and a postdoc. We
+The SECOMP core team is located at [Inria Paris], and currently
+includes [Cătălin Hriţcu], a couple of students, and a postdoc. We
 expect this core team to grow significantly in the coming years
 by [hiring students and young researchers](#positions). The SECOMP
 project also includes many external collaborators and we are looking
@@ -373,7 +373,7 @@ help in obtaining our support for a permanent position.
 These are permanent French civil servant positions that provide a lot
 of scientific freedom and opportunities to grow. They are, however,
 poorly payed, especially so compared to the cost of living in Paris.
-The precise amounts vary based on experience and increases with time,
+The precise amounts vary based on experience and increase with time,
 but you can expect to have €2000-2200 as your starting net salary.
 
 ## Flexible Starting Dates, but Long Hiring Process {#general}
