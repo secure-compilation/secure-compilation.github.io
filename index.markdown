@@ -120,7 +120,14 @@ components than a component in the secure source language already could.
 ## Talks on SECOMP
 
 - **Most recent**:
-  [Inria Gallium](http://gallium.inria.fr/)
+- [CEA List](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) seminar:
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-12-13-Secure-Compilation-CEA.pdf)
+  (2016-12-13)
+- [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)
+  security seminar:
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-11-03-Secure-Compilation-MSR.pdf)
+  (2016-11-03)
+- [Inria Gallium](http://gallium.inria.fr/)
   [seminar](http://gallium.inria.fr/seminar.html):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-09-02-Secure-Compilation-Gallium.pdf)
   (2016-09-02)
