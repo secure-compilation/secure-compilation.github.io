@@ -37,9 +37,9 @@ interest in secure compilation.
 
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
 - [Marco Stronati] (PostDoc)
-- [Guglielmo Fachini] (Research Engineer)
-- [Victor Dumitrescu] (Research Engineer)
-- [Théo Laurent] (Intern, MSc student at ENS Paris)
+- [Guglielmo Fachini] (Intern)
+- [Victor Dumitrescu] (Intern)
+- Théo Laurent (Intern, ENS Paris)
 
 #### Past members at Inria Paris
 
@@ -304,7 +304,7 @@ We are particularly looking for candidates with some prior exposure to
 state-of-the-art research in
 
 - programming languages in general and functional programming in particular;
-- formal verification in a proof assistant like Coq or [F\*] and verified compilation in particular
+- verification in a proof assistant like Coq or [F\*]; verified compilation in particular
 - security foundations (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
@@ -339,7 +339,7 @@ with a strong, internationally competitive track record of research in
 programming languages, formal verification, or security. Particularly
 interesting research areas are:
 
-- formal verification in a proof assistant like Coq or [F\*] and verified compilation in particular
+- verification in a proof assistant like Coq or [F\*]; verified compilation in particular
 - security foundations (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
