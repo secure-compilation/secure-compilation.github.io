@@ -59,6 +59,7 @@ interest in secure compilation.
 - [Nikhil Swamy] (Researcher, [Microsoft Research])
 - [Cédric Fournet] (Senior Researcher, [Microsoft Research])
 - [Greg Sullivan] (Chief Scientist, [Draper Labs])
+- [Ana Nora Evans] (PhD student, [University of Virginia])
 
 [Marco Stronati]: http://www.stronati.org/
 [Guglielmo Fachini]: https://github.com/GuglielmoS
@@ -79,6 +80,8 @@ interest in secure compilation.
 [Microsoft Research]: http://research.microsoft.com/
 [Greg Sullivan]: https://www.linkedin.com/in/gregorytsullivan
 [Draper Labs]: http://www.draper.com/
+[Ana Nora Evans]: https://www.cs.virginia.edu/~ans5k/
+[University of Virginia]: https://www.cs.virginia.edu/
 
 # SECOMP Project {#project}
 
@@ -98,23 +101,25 @@ inefficient for most practical scenarios.
 
 This project is aimed at leveraging emerging hardware capabilities for
 fine-grained protection to build the first, efficient secure compilers
-for realistic programming languages, both low-level (the C language)
-and high-level (ML and [F\*], a dependently-typed variant). These compilers
-will provide a secure semantics for all programs and will ensure that
-high-level abstractions cannot be violated even when interacting with
-untrusted low-level code. To achieve this level of security without
-sacrificing efficiency, our secure compilers will target a tagged
-architecture, which associates a metadata tag to each word and
+for realistic low-level programming languages (the C language, and
+Low* a subset of C embedded in [F\*] for verification). These
+compilers will provide a secure semantics for all programs and will
+ensure that high-level abstractions cannot be violated even when
+interacting with untrusted low-level code. To achieve this level of
+security without sacrificing efficiency, our secure compilers target a
+tagged architecture, which associates a metadata tag to each word and
 efficiently propagates and checks tags according to software-defined
-rules. We will experimentally evaluate and carefully optimize the
+rules. We hope to experimentally evaluate and carefully optimize the
 efficiency of our secure compilers on realistic workloads and standard
-benchmark suites. We will use property-based testing and formal
-verification to provide high confidence that our compilers are indeed
-secure. Formally, we will construct machine-checked proofs of full
-abstraction with respect to a secure high-level semantics.  This
-strong property complements compiler correctness and ensures
-that no machine-code attacker can do more harm to securely compiled
-components than a component in the secure source language already could.
+benchmark suites. We are also using use property-based testing and
+formal verification to provide high confidence that our compilers are
+indeed secure. Formally, we are constructing machine-checked proofs of
+fully abstract compilation and of a new property we call robust
+compilation, which implies the preservation of safety properties even
+against an adversarial context. These strong properties complement
+compiler correctness and ensure that no machine-code attacker can do
+more harm to securely compiled components than a component already
+could with respect to a secure source-level semantics.
 
 [F\*]: https://www.fstar-lang.org/
 
