@@ -102,7 +102,7 @@ inefficient for most practical scenarios.
 This project is aimed at leveraging emerging hardware capabilities for
 fine-grained protection to build the first, efficient secure compilers
 for realistic low-level programming languages (the C language, and
-Low* a subset of C embedded in [F\*] for verification). These
+[Low\*] a safe subset of C embedded in [F\*] for verification). These
 compilers will provide a secure semantics for all programs and will
 ensure that high-level abstractions cannot be violated even when
 interacting with untrusted low-level code. To achieve this level of
@@ -122,6 +122,7 @@ more harm to securely compiled components than a component already
 could with respect to a secure source-level semantics.
 
 [F\*]: https://www.fstar-lang.org/
+[Low\*]: http://arxiv.org/abs/1703.00053
 
 ## Talks on SECOMP
 
@@ -353,7 +354,7 @@ research agenda in secure compilation and be fairly independent.
 They are expected to work collaboratively and co-advise interns and PhD students.
 
 Inria PostDocs have a net monthly salary of €2122-2574,
-while Starting Researchers earn €2348-3344 each month.
+while Starting Researchers earn €2348-3344 each month, based on experience.
 
 ## Research Engineer Positions {#engineer}
 
@@ -386,7 +387,7 @@ help in obtaining our support for a permanent position.
 These are permanent French civil servant positions that provide a lot
 of scientific freedom and opportunities to grow. They are, however,
 poorly payed, especially so compared to the cost of living in Paris.
-The precise amounts vary based on experience and increase with time,
+The precise amounts vary based on experience and slowly increase with time,
 but you can expect to have €2000-2200 as your starting net salary.
 
 ## Flexible Starting Dates, but Long Hiring Process {#general}
