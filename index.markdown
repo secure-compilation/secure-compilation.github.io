@@ -76,7 +76,7 @@ interest in secure compilation.
 [Amal Ahmed]: http://www.ccs.neu.edu/home/amal/
 [Northeastern University]: http://www.ccs.neu.edu/
 [Nikhil Swamy]: http://research.microsoft.com/en-us/people/nswamy/
-[Cédric Fournet]: research.microsoft.com/en-us/um/people/fournet/
+[Cédric Fournet]: http://research.microsoft.com/en-us/um/people/fournet/
 [Microsoft Research]: http://research.microsoft.com/
 [Greg Sullivan]: https://www.linkedin.com/in/gregorytsullivan
 [Draper Labs]: http://www.draper.com/
@@ -209,8 +209,9 @@ could with respect to a secure source-level semantics.
   [Randy Pollack], and
   [Andrew Tolmach].
   **[A Verified Information-Flow Architecture](http://arxiv.org/abs/1509.06503)**.
-  Accepted in Special Issue of the Journal of Computer Security on
-  Verified Information Flow Security. To appear. September 2015.
+  Journal of Computer Security (JCS);
+  Special Issue on Verified Information Flow Security, 24(6):689--734,
+  December 2016.
   (arXiv:1509.06503; supersedes POPL 2014 paper with the same name.)
     + [Coq proofs](https://github.com/micro-policies/verified-ifc)
 
