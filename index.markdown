@@ -127,7 +127,8 @@ could with respect to a secure source-level semantics.
 ## Talks on SECOMP
 
 - **Most recent**:
-  [CEA List](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) seminar:
+  [LRI](https://www.lri.fr/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf) (2017-03-17)
+- [CEA List](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) seminar:
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-12-13-Secure-Compilation-CEA.pdf)
   (2016-12-13)
 - [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)
