@@ -214,6 +214,20 @@ could with respect to a secure source-level semantics.
   (arXiv:1509.06503; supersedes POPL 2014 paper with the same name.)
     + [Coq proofs](https://github.com/micro-policies/verified-ifc)
 
+- [Karthikeyan Bhargavan],
+  [Antoine Delignat-Lavaud],
+  [Cédric Fournet],
+  [Cătălin Hriţcu],
+  [Jonathan Protzenko],
+  [Tahina Ramananandro],
+  [Aseem Rastogi],
+  [Nikhil Swamy],
+  [Peng Wang],
+  [Santiago Zanella-Béguelin], and
+  [Jean-Karim Zinzindohoué].
+  [Verified Low-Level Programming Embedded in F*](http://arxiv.org/abs/1703.00053).
+  arXiv:1703.00053. February 2017.
+
 [Boris Eng]: https://github.com/engboris
 [Antal Spector-Zabusky]: https://stackoverflow.com/users/237428/antal-spector-zabusky
 [Maxime Dénès]: http://www.maximedenes.fr/
@@ -229,6 +243,14 @@ could with respect to a secure source-level semantics.
 [Delphine Demange]: https://www.irisa.fr/celtique/demange/
 [David Pichardie]: https://www.irisa.fr/celtique/pichardie/
 [Randy Pollack]: http://homepages.inf.ed.ac.uk/rpollack/
+[Karthikeyan Bhargavan]: http://prosecco.gforge.inria.fr/personal/karthik/
+[Antoine Delignat-Lavaud]: http://antoine.delignat-lavaud.fr/
+[Jonathan Protzenko]: https://jonathan.protzenko.fr/
+[Tahina Ramananandro]: https://www.normalesup.org/~ramanana/
+[Aseem Rastogi]: https://www.microsoft.com/en-us/research/people/aseemr/
+[Peng Wang]: https://people.csail.mit.edu/wangpeng/
+[Santiago Zanella-Béguelin]: https://www.microsoft.com/en-us/research/people/santiago/
+[Jean-Karim Zinzindohoué]: https://github.com/jkzinzindohoue
 
 ## Related Projects
 
