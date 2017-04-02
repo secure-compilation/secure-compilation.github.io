@@ -126,8 +126,13 @@ could with respect to a secure source-level semantics.
 
 ## Talks on SECOMP
 
+- **Upcoming**:
+  [Digital Confidence Seminar in Clermont-Ferrand](http://confiance-numerique.clermont-universite.fr/)
+  (2017-04-06)
 - **Most recent**:
-  [LRI](https://www.lri.fr/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf) (2017-03-17)
+  [LRI VALS seminar](https://www.lri.fr/equipe_en.php?eq=28&lang=EN):
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf)
+  (2017-03-17)
 - [CEA List](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) seminar:
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-12-13-Secure-Compilation-CEA.pdf)
   (2016-12-13)
@@ -226,7 +231,7 @@ could with respect to a secure source-level semantics.
   [Peng Wang],
   [Santiago Zanella-Béguelin], and
   [Jean-Karim Zinzindohoué].
-  [Verified Low-Level Programming Embedded in F*](http://arxiv.org/abs/1703.00053).
+  **[Verified Low-Level Programming Embedded in F*](http://arxiv.org/abs/1703.00053)**.
   arXiv:1703.00053. February 2017.
 
 [Boris Eng]: https://github.com/engboris
