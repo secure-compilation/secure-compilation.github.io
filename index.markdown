@@ -130,7 +130,7 @@ could with respect to a secure source-level semantics.
   [Digital Confidence Seminar in Clermont-Ferrand](http://confiance-numerique.clermont-universite.fr/)
   (2017-04-06)
 - **Most recent**:
-  [LRI VALS seminar](https://www.lri.fr/equipe_en.php?eq=28&lang=EN):
+  [LRI VALS seminar](https://vals.lri.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf)
   (2017-03-17)
 - [CEA List](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) seminar:
