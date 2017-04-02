@@ -127,12 +127,12 @@ could with respect to a secure source-level semantics.
 ## Talks on SECOMP
 
 - **Upcoming**:
-  [Digital Confidence Seminar in Clermont-Ferrand](http://confiance-numerique.clermont-universite.fr/)
-  (2017-04-06)
+  [Université d'Auvergne](http://confiance-numerique.clermont-universite.fr/)
+  (Clermont-Ferrand, 2017-04-06)
 - **Most recent**:
   [LRI VALS seminar](https://vals.lri.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf)
-  (2017-03-17)
+  (University Paris-Sud, 2017-03-17)
 - [CEA List](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) seminar:
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-12-13-Secure-Compilation-CEA.pdf)
   (2016-12-13)
