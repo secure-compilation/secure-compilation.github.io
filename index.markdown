@@ -39,13 +39,14 @@ interest in secure compilation.
 - [Marco Stronati] (PostDoc)
 - [Guglielmo Fachini] (Intern)
 - [Victor Dumitrescu] (Intern)
-- Théo Laurent (Intern, ENS Paris)
+- [Théo Laurent] (Intern, ENS Paris)
+- [Ana Nora Evans] (Visitor, [University of Virginia])
 
 #### Past members at Inria Paris
 
 - [Yannis Juglaret] (PhD Student at Inria and Paris 7)
 - [Arthur Azevedo de Amorim] (Inria intern,
-  PhD Student at [University of Pennsylvania])
+    PhD Student at [University of Pennsylvania])
 - [Boris Eng] (Inria intern, undergraduate student at Paris 8)
 
 #### External collaborators
@@ -59,11 +60,11 @@ interest in secure compilation.
 - [Nikhil Swamy] (Researcher, [Microsoft Research])
 - [Cédric Fournet] (Senior Researcher, [Microsoft Research])
 - [Greg Sullivan] (Chief Scientist, [Draper Labs])
-- [Ana Nora Evans] (PhD student, [University of Virginia])
 
 [Marco Stronati]: http://www.stronati.org/
 [Guglielmo Fachini]: https://github.com/GuglielmoS
 [Victor Dumitrescu]: https://github.com/victor-dumitrescu
+[Théo Laurent]: https://github.com/theolaurent
 [Yannis Juglaret]: http://yannis.computer/
 [Benjamin C. Pierce]: https://www.cis.upenn.edu/~bcpierce/
 [Arthur Azevedo de Amorim]: https://www.cis.upenn.edu/~aarthur/
@@ -127,7 +128,7 @@ could with respect to a secure source-level semantics.
 ## Talks on SECOMP
 
 - **Most recent**:
-  [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/)
+  [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-04-06-Secure-Compilation-Clermont-Ferrand.pdf)
   (2017-04-06)
 - [LRI VALS seminar at University Paris-Sud](https://vals.lri.fr/):
