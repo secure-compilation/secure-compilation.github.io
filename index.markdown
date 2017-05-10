@@ -130,6 +130,7 @@ could with respect to a secure source-level semantics.
 - **Most recent**:
   [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-04-06-Secure-Compilation-Clermont-Ferrand.pdf)
+  **[video](http://webtv.u-clermont1.fr/media-MEDIA170410150815297)**
   (2017-04-06)
 - [LRI VALS seminar at University Paris-Sud](https://vals.lri.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf)
