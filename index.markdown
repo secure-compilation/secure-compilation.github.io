@@ -116,7 +116,7 @@ benchmark suites. We are also using use property-based testing and
 formal verification to provide high confidence that our compilers are
 indeed secure. Formally, we are constructing machine-checked proofs of
 fully abstract compilation and of a new property we call robust
-compilation, which implies the preservation of safety properties even
+compilation, which implies the preservation of trace properties even
 against an adversarial context. These strong properties complement
 compiler correctness and ensure that no machine-code attacker can do
 more harm to securely compiled components than a component already
