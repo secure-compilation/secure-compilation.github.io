@@ -55,11 +55,11 @@ interest in secure compilation.
 - [André DeHon] (Professor, [University of Pennsylvania] and [Draper Labs])
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
-- [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT])
 - [Amal Ahmed] (Assistant Professor, [Northeastern University])
 - [Nikhil Swamy] (Researcher, [Microsoft Research])
 - [Cédric Fournet] (Senior Researcher, [Microsoft Research])
 - [Greg Sullivan] (Chief Scientist, [Draper Labs])
+<!-- - [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT]) -->
 
 [Marco Stronati]: http://www.stronati.org/
 [Guglielmo Fachini]: https://github.com/GuglielmoS
