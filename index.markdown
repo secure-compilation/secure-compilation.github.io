@@ -116,7 +116,7 @@ tagged architecture, which associates a metadata tag to each word and
 efficiently propagates and checks tags according to software-defined
 rules. We hope to experimentally evaluate and carefully optimize the
 efficiency of our secure compilers on realistic workloads and standard
-benchmark suites. We are also using use property-based testing and
+benchmark suites. We are also using property-based testing and
 formal verification to provide high confidence that our compilers are
 indeed secure. Formally, we are constructing machine-checked proofs of
 fully abstract compilation and of a new property we call robust
