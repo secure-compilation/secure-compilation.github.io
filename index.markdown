@@ -55,7 +55,8 @@ interest in secure compilation.
 - [André DeHon] (Professor, [University of Pennsylvania] and [Draper Labs])
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
-- [Amal Ahmed] (Assistant Professor, [Northeastern University])
+- [Amal Ahmed] (Associate Professor, [Northeastern University])
+- [Éric Tanter] (Professor, [University of Chile])
 - [Nikhil Swamy] (Researcher, [Microsoft Research])
 - [Cédric Fournet] (Senior Researcher, [Microsoft Research])
 - [Greg Sullivan] (Chief Scientist, [Draper Labs])
@@ -83,6 +84,9 @@ interest in secure compilation.
 [Draper Labs]: http://www.draper.com/
 [Ana Nora Evans]: https://www.cs.virginia.edu/~ans5k/
 [University of Virginia]: https://www.cs.virginia.edu/
+[Éric Tanter]: https://pleiad.cl/people/etanter
+[University of Chile]: https://pleiad.cl/
+
 
 # SECOMP Project {#project}
 
