@@ -57,8 +57,8 @@ interest in secure compilation.
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
 - [Amal Ahmed] (Associate Professor, [Northeastern University])
 - [Éric Tanter] (Professor, [University of Chile])
-- [Nikhil Swamy] (Researcher, [Microsoft Research])
-- [Cédric Fournet] (Senior Researcher, [Microsoft Research])
+- [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
+- [Cédric Fournet] (Principal Researcher, [Microsoft Research])
 - [Greg Sullivan] (Chief Scientist, [Draper Labs])
 <!-- - [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT]) -->
 
