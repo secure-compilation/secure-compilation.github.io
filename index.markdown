@@ -38,7 +38,6 @@ interest in secure compilation.
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
 - [Marco Stronati] (PostDoc)
 - [Guglielmo Fachini] (Intern)
-- [Victor Dumitrescu] (Intern)
 - [Théo Laurent] (Intern, ENS Paris)
 - [Ana Nora Evans] (Visitor, [University of Virginia])
 
@@ -333,7 +332,7 @@ We are especially interested in interns with previous exposure or strong desire 
 - formal verification, especially in a proof assistant like
   Coq (or [F\*]);
 
-For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/students/topics/2016/secomp-mpri.pdf).
+For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/students/topics/2017/secomp-mpri.pdf).
 
 ## PhD Student Positions {#phd}
 
