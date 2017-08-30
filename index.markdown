@@ -5,16 +5,14 @@ title: Efficient Formally Secure Compilers to a Tagged Architecture
 **SECOMP** is a research project aimed at building the first efficient
 formally secure compilers for realistic programming languages (see
 [project description](#project) below).  The project encompasses a
-core team at [Inria Paris] and external collaborators at
-University of Pennsylvania, Portland State University, MIT,
-Northeastern University, Microsoft Research, and Draper Labs
+core team at [Inria Paris] and several external collaborators
 (see [current team](#team) below).
 [Cătălin Hriţcu] and the core team at Inria Paris are generously
 funded for 5 years (between 2017 and 2021) by a recently
 awarded [ERC Starting Grant].
 
 Over the duration of the project we are looking to hire several excellent
-students and young researchers to work  at [Inria Paris] (see
+students and young researchers to work at [Inria Paris] (see
 [open positions](#positions) below).
 We also have funding for sabbaticals and short-term visits to Paris for
 researchers with an interest in secure compilation.
@@ -37,20 +35,24 @@ interest in secure compilation.
 
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
 - [Marco Stronati] (PostDoc)
+- [Danel Ahman] (PostDoc)
 - [Guglielmo Fachini] (Intern)
+- [Victor Dumitrescu] (Intern)
 - [Théo Laurent] (Intern, ENS Paris)
-- [Ana Nora Evans] (Visitor, [University of Virginia])
+- [Clément Pit-Claudel] (Intern, MIT)
 
 #### Past members at Inria Paris
 
-- [Yannis Juglaret] (PhD Student at Inria and Paris 7)
+- [Yannis Juglaret] (Student at Inria and Paris 7)
 - [Arthur Azevedo de Amorim] (Inria intern,
     PhD Student at [University of Pennsylvania])
 - [Boris Eng] (Inria intern, undergraduate student at Paris 8)
+- [Ana Nora Evans] (Inria visitor, PhD Student at [University of Virginia])
 
 #### External collaborators
 
 - [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
+- [Arthur Azevedo de Amorim] (PhD Student, [University of Pennsylvania])
 - [André DeHon] (Professor, [University of Pennsylvania] and [Draper Labs])
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
@@ -59,6 +61,7 @@ interest in secure compilation.
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
 - [Cédric Fournet] (Principal Researcher, [Microsoft Research])
 - [Greg Sullivan] (Chief Scientist, [Draper Labs])
+- [Ana Nora Evans] (PhD Student, [University of Virginia])
 <!-- - [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT]) -->
 
 [Marco Stronati]: http://www.stronati.org/
@@ -85,7 +88,9 @@ interest in secure compilation.
 [University of Virginia]: https://www.cs.virginia.edu/
 [Éric Tanter]: https://pleiad.cl/people/etanter
 [University of Chile]: https://pleiad.cl/
-
+[Danel Ahman]: https://danelahman.github.io/
+[Victor Dumitrescu]: https://github.com/victor-dumitrescu
+[Clément Pit-Claudel]: http://pit-claudel.fr/clement/
 
 # SECOMP Project {#project}
 
@@ -170,6 +175,7 @@ could with respect to a secure source-level semantics.
   [Benjamin C. Pierce].
    **[The Meaning of Memory Safety](http://arxiv.org/abs/1705.07354)**.
   arXiv:1705.07354, August 2017.
+    + [Coq proofs](https://github.com/arthuraa/memory-safe-language)
 
 - [Yannis Juglaret],
   [Cătălin Hriţcu],
