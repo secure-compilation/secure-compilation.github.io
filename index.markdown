@@ -165,6 +165,12 @@ could with respect to a secure source-level semantics.
 
 ## Relevant Publications
 
+- [Arthur Azevedo de Amorim],
+  [Cătălin Hriţcu], and
+  [Benjamin C. Pierce].
+   **[The Meaning of Memory Safety](http://arxiv.org/abs/1705.07354)**.
+  arXiv:1705.07354, August 2017.
+
 - [Yannis Juglaret],
   [Cătălin Hriţcu],
   [Arthur Azevedo de Amorim],
