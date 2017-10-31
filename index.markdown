@@ -36,18 +36,21 @@ interest in secure compilation.
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
 - [Marco Stronati] (PostDoc)
 - [Danel Ahman] (PostDoc)
-- [Guglielmo Fachini] (Intern)
-- [Victor Dumitrescu] (Intern)
-- [Théo Laurent] (Intern, ENS Paris)
-- [Clément Pit-Claudel] (Intern, MIT)
+- [Guglielmo Fachini] (Research Engineer)
+- [Victor Dumitrescu] (Research Engineer)
+- [Théo Laurent] (Research Intern, ENS Paris)
+- [Amal Ahmed] (Visiting Professor, [Northeastern University])
+- [Aaron Weiss] (Visiting Researcher, [Northeastern University])
+- [William J. Bowman] (Research Intern, [Northeastern University])
 
 #### Past members at Inria Paris
 
 - [Yannis Juglaret] (Student at Inria and Paris 7)
 - [Arthur Azevedo de Amorim] (Inria intern,
     PhD Student at [University of Pennsylvania])
-- [Boris Eng] (Inria intern, undergraduate student at Paris 8)
+- [Boris Eng] (Research Intern at Inria , undergraduate student at Paris 8)
 - [Ana Nora Evans] (Inria visitor, PhD Student at [University of Virginia])
+- [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
 
 #### External collaborators
 
@@ -56,7 +59,7 @@ interest in secure compilation.
 - [André DeHon] (Professor, [University of Pennsylvania] and [Draper Labs])
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
-- [Amal Ahmed] (Associate Professor, [Northeastern University])
+- [Deepak Garg] (Faculty, [MPI-SWS])
 - [Éric Tanter] (Professor, [University of Chile])
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
 - [Cédric Fournet] (Principal Researcher, [Microsoft Research])
@@ -94,6 +97,9 @@ interest in secure compilation.
 [Deepak Garg]: https://people.mpi-sws.org/~dg/
 [Marco Patrignani]: https://people.mpi-sws.org/~marcopat/
 [David Swasey]: https://people.mpi-sws.org/~swasey/
+[MPI-SWS]: https://www.mpi-sws.org/
+[Aaron Weiss]: https://aaronweiss.us/
+[William J. Bowman]: https://www.williamjbowman.com/
 
 # SECOMP Project {#project}
 
