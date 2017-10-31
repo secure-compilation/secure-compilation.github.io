@@ -91,6 +91,9 @@ interest in secure compilation.
 [Danel Ahman]: https://danelahman.github.io/
 [Victor Dumitrescu]: https://github.com/victor-dumitrescu
 [Clément Pit-Claudel]: http://pit-claudel.fr/clement/
+[Deepak Garg]: https://people.mpi-sws.org/~dg/
+[Marco Patrignani]: https://people.mpi-sws.org/~marcopat/
+[David Swasey]: https://people.mpi-sws.org/~swasey/
 
 # SECOMP Project {#project}
 
@@ -170,10 +173,29 @@ could with respect to a secure source-level semantics.
 
 ## Relevant Publications
 
+- [Deepak Garg],
+  [Cătălin Hriţcu],
+  [Marco Patrignani],
+  [Marco Stronati],
+  [David Swasey].
+  **[Robust hyperproperty preservation for secure compilation (extended abstract)](https://arxiv.org/abs/1710.07309)**.
+  arXiv:1710.07309, 2017.
+
+- [Guglielmo Fachini],
+  [Cătălin Hriţcu],
+  [Marco Stronati],
+  [Ana Nora Evans],
+  [Théo Laurent],
+  [Arthur Azevedo de Amorim],
+  [Benjamin C. Pierce], and
+  [Andrew Tolmach].
+  **[Formally secure compilation of unsafe low-level components (extended abstract)](https://arxiv.org/abs/1710.07308)**.
+arXiv:1710.07308, 2017.
+
 - [Arthur Azevedo de Amorim],
   [Cătălin Hriţcu], and
   [Benjamin C. Pierce].
-   **[The Meaning of Memory Safety](http://arxiv.org/abs/1705.07354)**.
+  **[The Meaning of Memory Safety](http://arxiv.org/abs/1705.07354)**.
   arXiv:1705.07354, August 2017.
     + [Coq proofs](https://github.com/arthuraa/memory-safe-language)
 
