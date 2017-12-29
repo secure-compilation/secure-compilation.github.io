@@ -14,8 +14,8 @@ awarded [ERC Starting Grant].
 Over the duration of the project we are looking to hire several excellent
 students and young researchers to work at [Inria Paris] (see
 [open positions](#positions) below).
-We also have funding for sabbaticals and short-term visits to Paris for
-researchers with an interest in secure compilation.
+<!-- We also have funding for sabbaticals and short-term visits to Paris for -->
+<!-- researchers with an interest in secure compilation. -->
 
 [ERC Starting Grant]: https://erc.europa.eu/funding-and-grants/funding-schemes/starting-grants
 [Cătălin Hriţcu]: http://prosecco.gforge.inria.fr/personal/hritcu/
@@ -24,8 +24,8 @@ researchers with an interest in secure compilation.
 # Current Team {#team}
 
 The SECOMP core team is located at [Inria Paris], and currently
-includes [Cătălin Hriţcu], a couple of students, and a postdoc. We
-expect this core team to grow significantly in the coming years
+includes [Cătălin Hriţcu], several students, and two postdoc. We
+expect this core team to grow in the coming years
 by [hiring students and young researchers](#positions). The SECOMP
 project also includes many external collaborators and we are looking
 forward to work with additional world-class researchers with an
@@ -35,9 +35,9 @@ interest in secure compilation.
 
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
 - [Roberto Blanco] (PostDoc)
+- [Danel Ahman] (PostDoc)
 - [Carmine Abate] (Research Intern)
 - [Jérémy Thibault] (Research Intern)
-- [Danel Ahman] (PostDoc)
 - [Victor Dumitrescu] (Research Engineer)
 - [Amal Ahmed] (Visiting Professor, [Northeastern University])
 - [Aaron Weiss] (Visiting Researcher, [Northeastern University])
@@ -154,7 +154,9 @@ could with respect to a secure source-level semantics.
 ## Talks on SECOMP
 
 - **Most recent**:
-  [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
+- [IRISA, Rennes](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) (2018-02-05)
+- [PriSC'18 in LA](http://popl18.sigplan.org/track/prisc-2018): [slides](https://popl18.sigplan.org/event?action-call-with-get-request-type=1&action253048efca6aee4547702963143c6170288=1&__ajax_runtime_request__=1&context=POPL-2018&event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components) (2018-01-13)
+- [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
 - [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
 - [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-04-06-Secure-Compilation-Clermont-Ferrand.pdf)
@@ -190,30 +192,34 @@ could with respect to a secure source-level semantics.
 
 ## Relevant Publications
 
+- [Guglielmo Fachini],
+  [Cătălin Hriţcu],
+  [Marco Stronati],
+  [Arthur Azevedo de Amorim],
+  [Ana Nora Evans],
+  [Carmine Abate],
+  [Roberto Blanco],
+  [Théo Laurent],
+  [Benjamin C. Pierce], and
+  [Andrew Tolmach].
+  **[When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise](https://arxiv.org/abs/1802.00588)**.
+  arXiv:1802.00588, February 2018.
+    + [Coq proofs](https://github.com/secure-compilation/when-good-components-go-bad)
+    + A previous extended abstract was called [Formally secure compilation of unsafe low-level components](https://arxiv.org/abs/1710.07308)
+
 - [Deepak Garg],
   [Cătălin Hriţcu],
   [Marco Patrignani],
   [Marco Stronati],
   [David Swasey].
   **[Robust hyperproperty preservation for secure compilation (extended abstract)](https://arxiv.org/abs/1710.07309)**.
-  arXiv:1710.07309, 2017.
-
-- [Guglielmo Fachini],
-  [Cătălin Hriţcu],
-  [Marco Stronati],
-  [Ana Nora Evans],
-  [Théo Laurent],
-  [Arthur Azevedo de Amorim],
-  [Benjamin C. Pierce], and
-  [Andrew Tolmach].
-  **[Formally secure compilation of unsafe low-level components (extended abstract)](https://arxiv.org/abs/1710.07308)**.
-arXiv:1710.07308, 2017.
+  arXiv:1710.07309, October 2017.
 
 - [Arthur Azevedo de Amorim],
   [Cătălin Hriţcu], and
   [Benjamin C. Pierce].
   **[The Meaning of Memory Safety](http://arxiv.org/abs/1705.07354)**.
-  arXiv:1705.07354, August 2017.
+  To appear at POST, April 2018.
     + [Coq proofs](https://github.com/arthuraa/memory-safe-language)
 
 - [Yannis Juglaret],
@@ -364,13 +370,13 @@ More details about each of these positions are followed by some
 
 ## Research Internships {#intern}
 
-The research internships are for highly motivated students at the BSc and MSc
-levels interested in getting an initial contact with research and for
-PhD students at other institutions who are interested in getting hands
-on experience with research on the SECOMP project. Successful
-internships normally result in a research publication at a good
-international conference, and most often the BSc and MSc students we
-advise [continue with a PhD](http://prosecco.gforge.inria.fr/personal/hritcu/students.html).
+Our research internships are for highly motivated students at the BSc and MSc
+levels interested in getting an initial contact with research.
+<!-- and for PhD students at other institutions who are interested in getting hands -->
+<!-- on experience with research on the SECOMP project. -->
+Successful internships normally result in a research publication at a good
+international conference, and most often the BSc and MSc students we advise
+[continue with a PhD](http://prosecco.gforge.inria.fr/personal/hritcu/students.html).
 Research internships at Inria are very
 flexible: they usually take between 3 and 6 months and can happen any
 time of the year, not just in the summer.
@@ -378,10 +384,9 @@ time of the year, not just in the summer.
 We are especially interested in interns with previous exposure or strong desire to learn:
 
 - functional programming (e.g., ML or Haskell);
-- compilation (for imperative or functional languages);
+- formal verification, especially in a proof assistant like Coq;
 - security foundations or building secure systems;
-- formal verification, especially in a proof assistant like
-  Coq (or [F\*]);
+- compilation (for imperative or functional languages);
 
 For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/students/topics/2017/secomp-mpri.pdf).
 
@@ -399,7 +404,7 @@ state-of-the-art research in
 - security foundations (e.g. full abstraction, noninterference, and other security properties);
 - building secure systems
 
-In France, an MSc degree or equivalent is strictly required for pursuing a
+In France, an MSc degree or equivalent is required for pursuing a
 PhD. A PhD typically takes 3 years, and involves very little
 to no course-work, so a strong theoretical background and previous
 exposure to research are *pre-requisites* for a successful PhD. We
