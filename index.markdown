@@ -34,23 +34,26 @@ interest in secure compilation.
 #### Core team at Inria Paris
 
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
-- [Marco Stronati] (PostDoc)
+- [Roberto Blanco] (PostDoc)
+- [Carmine Abate] (Research Intern)
+- [Jérémy Thibault] (Research Intern)
 - [Danel Ahman] (PostDoc)
-- [Guglielmo Fachini] (Research Engineer)
 - [Victor Dumitrescu] (Research Engineer)
-- [Théo Laurent] (Research Intern, ENS Paris)
 - [Amal Ahmed] (Visiting Professor, [Northeastern University])
 - [Aaron Weiss] (Visiting Researcher, [Northeastern University])
-- [William J. Bowman] (Research Intern, [Northeastern University])
 
 #### Past members at Inria Paris
 
+- [Marco Stronati] (PostDoc)
+- [Guglielmo Fachini] (Research Engineer)
 - [Yannis Juglaret] (Student at Inria and Paris 7)
 - [Arthur Azevedo de Amorim] (Inria intern,
     PhD Student at [University of Pennsylvania])
 - [Boris Eng] (Research Intern at Inria , undergraduate student at Paris 8)
 - [Ana Nora Evans] (Inria visitor, PhD Student at [University of Virginia])
 - [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
+- [William J. Bowman] (Research Intern, [Northeastern University])
+- [Théo Laurent] (Research Intern, ENS Paris)
 
 #### External collaborators
 
@@ -103,6 +106,9 @@ interest in secure compilation.
 [MPI-SWS]: https://www.mpi-sws.org/
 [Aaron Weiss]: https://aaronweiss.us/
 [William J. Bowman]: https://www.williamjbowman.com/
+[Roberto Blanco]: https://robblanco.github.io/
+[Carmine Abate]: https://www.researchgate.net/profile/Carmine_Abate
+[Jérémy Thibault]: http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/
 
 # SECOMP Project {#project}
 
@@ -149,9 +155,7 @@ could with respect to a secure source-level semantics.
 
 - **Most recent**:
   [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
-
 - [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
-
 - [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-04-06-Secure-Compilation-Clermont-Ferrand.pdf)
   **[video](http://webtv.u-clermont1.fr/media-MEDIA170410150815297)**
