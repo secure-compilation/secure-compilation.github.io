@@ -56,14 +56,15 @@ interest in secure compilation.
 
 - [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
 - [Arthur Azevedo de Amorim] (PhD Student, [University of Pennsylvania])
-- [André DeHon] (Professor, [University of Pennsylvania] and [Draper Labs])
+- [Chris Casinghino] (Research scientist, [Draper Labs])
+- [André DeHon] (Professor, [University of Pennsylvania])
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
 - [Deepak Garg] (Faculty, [MPI-SWS])
 - [Éric Tanter] (Professor, [University of Chile])
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
 - [Cédric Fournet] (Principal Researcher, [Microsoft Research])
-- [Greg Sullivan] (Chief Scientist, [Draper Labs])
+- [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems])
 - [Ana Nora Evans] (PhD Student, [University of Virginia])
 <!-- - [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT]) -->
 
@@ -85,8 +86,10 @@ interest in secure compilation.
 [Nikhil Swamy]: http://research.microsoft.com/en-us/people/nswamy/
 [Cédric Fournet]: http://research.microsoft.com/en-us/um/people/fournet/
 [Microsoft Research]: http://research.microsoft.com/
-[Greg Sullivan]: https://www.linkedin.com/in/gregorytsullivan
+[Chris Casinghino]: http://tyconmismatch.com/
 [Draper Labs]: http://www.draper.com/
+[Greg Sullivan]: https://www.linkedin.com/in/gregorytsullivan
+[Dover Microsystems]: https://dovermicrosystems.com/
 [Ana Nora Evans]: https://www.cs.virginia.edu/~ans5k/
 [University of Virginia]: https://www.cs.virginia.edu/
 [Éric Tanter]: https://pleiad.cl/people/etanter
@@ -145,7 +148,11 @@ could with respect to a secure source-level semantics.
 ## Talks on SECOMP
 
 - **Most recent**:
-  [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
+  [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
+
+- [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
+
+- [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-04-06-Secure-Compilation-Clermont-Ferrand.pdf)
   **[video](http://webtv.u-clermont1.fr/media-MEDIA170410150815297)**
   (2017-04-06)
