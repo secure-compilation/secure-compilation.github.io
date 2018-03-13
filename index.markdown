@@ -49,7 +49,7 @@ interest in secure compilation.
 - [Yannis Juglaret] (Student at Inria and Paris 7)
 - [Arthur Azevedo de Amorim] (Inria intern,
     PhD Student at [University of Pennsylvania])
-- [Boris Eng] (Research Intern at Inria , undergraduate student at Paris 8)
+- [Boris Eng] (Research Intern, undergraduate student at Paris 8)
 - [Ana Nora Evans] (Inria visitor, PhD Student at [University of Virginia])
 - [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
 - [William J. Bowman] (Research Intern, [Northeastern University])
@@ -154,7 +154,9 @@ could with respect to a secure source-level semantics.
 ## Talks on SECOMP
 
 - **Most recent**:
-  [IRISA, Rennes](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) (2018-02-05)
+  IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
+
+- [SoSySec seminar: Software and Systems Security at IRISA, Rennes](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) (2018-02-05)
 - [PriSC'18 in LA](http://popl18.sigplan.org/track/prisc-2018): [slides](https://popl18.sigplan.org/event?action-call-with-get-request-type=1&action253048efca6aee4547702963143c6170288=1&__ajax_runtime_request__=1&context=POPL-2018&event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components) (2018-01-13)
 - [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
 - [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
