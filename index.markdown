@@ -3,19 +3,16 @@ title: Efficient Formally Secure Compilers to a Tagged Architecture
 ---
 
 **SECOMP** is a research project aimed at building the first efficient
-formally secure compilers for realistic programming languages (see
+formally secure compilation chains for realistic programming languages (see
 [project description](#project) below).  The project encompasses a
-core team at [Inria Paris] and several external collaborators
+core team at [Inria Paris] and various external collaborators
 (see [current team](#team) below).
 [Cătălin Hriţcu] and the core team at Inria Paris are generously
-funded for 5 years (between 2017 and 2021) by a recently
-awarded [ERC Starting Grant].
+funded for 5 years (between 2017 and 2021) by an [ERC Starting Grant].
 
-Over the duration of the project we are looking to hire several excellent
-students and young researchers to work at [Inria Paris] (see
-[open positions](#positions) below).
-<!-- We also have funding for sabbaticals and short-term visits to Paris for -->
-<!-- researchers with an interest in secure compilation. -->
+Over the duration of the project we are looking to hire several
+excellent students and young researchers to work at [Inria Paris]
+(see [open positions](#positions) below).
 
 [ERC Starting Grant]: https://erc.europa.eu/funding-and-grants/funding-schemes/starting-grants
 [Cătălin Hriţcu]: http://prosecco.gforge.inria.fr/personal/hritcu/
@@ -24,12 +21,16 @@ students and young researchers to work at [Inria Paris] (see
 # Current Team {#team}
 
 The SECOMP core team is located at [Inria Paris], and currently
-includes [Cătălin Hriţcu], several students, and two PostDocs. We
+includes [Cătălin Hriţcu], several students, and two postdocs. We
 expect this core team to grow further in the coming years
 by [hiring students and young researchers](#positions). The SECOMP
-project also includes many external collaborators and we are looking
+project also includes various external collaborators and we are looking
 forward to work with additional world-class researchers with an
-interest in secure compilation.
+interest in secure compilation (see [PriSC workshop @ POPL]
+and recent [Dagstuhl Seminar] on secure compilation).
+
+[PriSC workshop @ POPL]: https://popl18.sigplan.org/track/prisc-2018
+[Dagstuhl Seminar]: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201
 
 #### Core team at Inria Paris
 
@@ -161,7 +162,7 @@ could with respect to a secure source-level semantics.
 
 - **Most recent**:
   IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
-- [SoSySec seminar: Software and Systems Security at IRISA, Rennes](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) [video](https://videos-rennes.inria.fr/video/BkHzYy-jM) (2018-02-05)
+- [SoSySec seminar: Software and Systems Security at IRISA](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) **[video](https://videos-rennes.inria.fr/video/BkHzYy-jM)** (2018-02-05)
 - [PriSC'18 in LA](http://popl18.sigplan.org/track/prisc-2018): [slides](https://popl18.sigplan.org/event?action-call-with-get-request-type=1&action253048efca6aee4547702963143c6170288=1&__ajax_runtime_request__=1&context=POPL-2018&event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components) (2018-01-13)
 - [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
 - [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
