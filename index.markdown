@@ -34,11 +34,10 @@ interest in secure compilation.
 #### Core team at Inria Paris
 
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
+- [Carmine Abate] (PhD Student)
 - [Roberto Blanco] (PostDoc)
 - [Danel Ahman] (PostDoc)
-- [Carmine Abate] (Research Intern, University of Trento)
 - [Jérémy Thibault] (Research Intern, ENS Rennes)
-- [Victor Dumitrescu] (Research Engineer)
 - [Amal Ahmed] (Visiting Professor, [Northeastern University])
 - [Aaron Weiss] (Visiting Researcher, [Northeastern University])
 
@@ -51,6 +50,7 @@ interest in secure compilation.
     PhD Student at [University of Pennsylvania])
 - [Boris Eng] (Research Intern, undergraduate student at Paris 8)
 - [Ana Nora Evans] (Inria visitor, PhD Student at [University of Virginia])
+- [Victor Dumitrescu] (Research Engineer)
 - [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
 - [William J. Bowman] (Research Intern, [Northeastern University])
 - [Théo Laurent] (Research Intern, ENS Paris)
@@ -155,8 +155,7 @@ could with respect to a secure source-level semantics.
 
 - **Most recent**:
   IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
-
-- [SoSySec seminar: Software and Systems Security at IRISA, Rennes](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) (2018-02-05)
+- [SoSySec seminar: Software and Systems Security at IRISA, Rennes](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) [video](https://videos-rennes.inria.fr/video/BkHzYy-jM) (2018-02-05)
 - [PriSC'18 in LA](http://popl18.sigplan.org/track/prisc-2018): [slides](https://popl18.sigplan.org/event?action-call-with-get-request-type=1&action253048efca6aee4547702963143c6170288=1&__ajax_runtime_request__=1&context=POPL-2018&event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components) (2018-01-13)
 - [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
 - [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
