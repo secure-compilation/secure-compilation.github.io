@@ -24,8 +24,8 @@ students and young researchers to work at [Inria Paris] (see
 # Current Team {#team}
 
 The SECOMP core team is located at [Inria Paris], and currently
-includes [Cătălin Hriţcu], several students, and two postdoc. We
-expect this core team to grow in the coming years
+includes [Cătălin Hriţcu], several students, and two PostDocs. We
+expect this core team to grow further in the coming years
 by [hiring students and young researchers](#positions). The SECOMP
 project also includes many external collaborators and we are looking
 forward to work with additional world-class researchers with an
@@ -38,6 +38,7 @@ interest in secure compilation.
 - [Roberto Blanco] (PostDoc)
 - [Danel Ahman] (PostDoc)
 - [Jérémy Thibault] (Research Intern, ENS Rennes)
+- [Florian Groult] (Research Intern, Orléans University)
 - [Amal Ahmed] (Visiting Professor, [Northeastern University])
 - [Aaron Weiss] (Visiting Researcher, [Northeastern University])
 
@@ -58,16 +59,17 @@ interest in secure compilation.
 #### External collaborators
 
 - [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
-- [Arthur Azevedo de Amorim] (PhD Student, [University of Pennsylvania])
-- [Chris Casinghino] (Research scientist, [Draper Labs])
-- [André DeHon] (Professor, [University of Pennsylvania])
+- [Arthur Azevedo de Amorim] (PostDoc, [Carnegie Mellon University])
 - [Andrew Tolmach] (Professor, [Portland State University])
-- [Howard E. Shrobe] (Principal Research Scientist, [MIT])
-- [Deepak Garg] (Faculty, [MPI-SWS])
+- [Deepak Garg] (Tenured Faculty, [MPI-SWS])
+- [Marco Patrignani] (PostDoc, [CISPA] and [Stanford University])
 - [Éric Tanter] (Professor, [University of Chile])
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
 - [Cédric Fournet] (Principal Researcher, [Microsoft Research])
+- [André DeHon] (Professor, [University of Pennsylvania])
+- [Chris Casinghino] (Research scientist, [Draper Labs])
 - [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems])
+- [Howard E. Shrobe] (Principal Research Scientist, [MIT])
 - [Ana Nora Evans] (PhD Student, [University of Virginia])
 <!-- - [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT]) -->
 
@@ -77,8 +79,9 @@ interest in secure compilation.
 [Théo Laurent]: https://github.com/theolaurent
 [Yannis Juglaret]: http://yannis.computer/
 [Benjamin C. Pierce]: https://www.cis.upenn.edu/~bcpierce/
-[Arthur Azevedo de Amorim]: https://www.cis.upenn.edu/~aarthur/
 [University of Pennsylvania]: https://www.cis.upenn.edu/
+[Arthur Azevedo de Amorim]: http://arthuraa.net/
+[Carnegie Mellon University]: https://www.cylab.cmu.edu/
 [Andrew Tolmach]: http://web.cecs.pdx.edu/~apt/
 [Portland State University]: http://www.pdx.edu/computer-science/
 [Howard E. Shrobe]: https://people.csail.mit.edu/hes/
@@ -109,6 +112,9 @@ interest in secure compilation.
 [Roberto Blanco]: https://robblanco.github.io/
 [Carmine Abate]: https://www.researchgate.net/profile/Carmine_Abate
 [Jérémy Thibault]: http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/
+[Marco Patrignani]: https://people.mpi-sws.org/~marcopat/
+[CISPA]: https://cispa.saarland/
+[Stanford University]: https://cs.stanford.edu/
 
 # SECOMP Project {#project}
 
