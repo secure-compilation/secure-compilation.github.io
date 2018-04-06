@@ -116,6 +116,7 @@ and recent [Dagstuhl Seminar] on secure compilation).
 [Marco Patrignani]: https://people.mpi-sws.org/~marcopat/
 [CISPA]: https://cispa.saarland/
 [Stanford University]: https://cs.stanford.edu/
+[Florian Groult]: https://github.com/floriangru
 
 # SECOMP Project {#project}
 
