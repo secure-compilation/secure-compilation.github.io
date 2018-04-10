@@ -436,24 +436,40 @@ For more information about doing a PhD at Inria please consult
 or the
 [official Inria FAQ](https://www.inria.fr/en/institute/recruitment/offers/phd/faq).
 
-## PostDoc and Starting Researcher Positions {#postdoc}
+## Postdoctoral Researcher Positions {#postdoc}
 
-For the PostDoc (2+ year contract) and Starting Researcher
-(3+ year contract) positions we are seeking exceptional candidates
-with a strong, internationally competitive track record of research in
-programming languages, formal verification, or security. Particularly
-interesting research areas are:
+We are seeking exceptional candidates with a strong, internationally
+competitive track record of research in programming languages, formal
+verification, or security. Particularly interesting research areas are:
 
-- verification in a proof assistant like Coq or [F\*]; verified compilation in particular
-- security foundations (e.g. full abstraction, noninterference, and other security properties);
-- building secure systems
+- formal verification in a proof assistant like Coq and
+  verified compilation in particular
 
-PostDocs and Starting Researchers can propose and follow their own
+- security foundations, e.g., reference monitoring, hyperproperties,
+  noninterference, fully abstract translations
+
+Candidates are expected to work collaboratively and help advise students.
+
+Inria PostDocs are hired on 2 year contracts (extensible up 6 years)
+and have a net monthly salary of €2122-2574.
+
+## Starting Researcher Positions {#starting}
+
+We are seeking exceptional candidates with a strong, internationally
+competitive track record of research in programming languages, formal
+verification, or security. Particularly interesting research areas are:
+
+- formal verification in a proof assistant like Coq and
+  verified compilation in particular
+
+- security foundations, e.g., reference monitoring, hyperproperties,
+  noninterference, fully abstract translations
+
+Starting Researchers can propose and follow their own
 research agenda in secure compilation and be fairly independent.
-They are expected to work collaboratively and co-advise interns and PhD students.
 
-Inria PostDocs have a net monthly salary of €2122-2574,
-while Starting Researchers earn €2348-3344 each month, based on experience.
+Inria Starting Researchers are hired on 3 year contracts (extensible
+up to 6 years) and earn €2348-3344 net each month, based on experience.
 
 ## Research Engineer Positions {#engineer}
 
