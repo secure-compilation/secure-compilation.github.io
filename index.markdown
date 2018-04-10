@@ -488,8 +488,9 @@ each Inria team can realistically support **at most one** candidate each
 year in this competition. If you are an exceptional candidate
 interested in working in the [Prosecco] team,
 the right time to get in touch with us is before the end of December.
-Working in [Prosecco] as a PostDoc or Starting Researcher can
-help in obtaining our support for a permanent position.
+Working in [Prosecco] as a PostDoc or Starting Researcher is not a
+prerequisite but can also help in obtaining our support for a
+permanent position.
 
 [Prosecco]: http://prosecco.gforge.inria.fr/
 
