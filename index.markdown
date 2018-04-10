@@ -369,7 +369,7 @@ researchers for
 [Research Internship](#intern),
 [PhD Student](#phd),
 [PostDoc](#postdoc),
-[Starting Researcher](#postdoc),
+[Starting Researcher](#starting),
 and [Research Engineer](#engineer) positions at [Inria Paris],
 under the supervision of [Cătălin Hriţcu].
 We can additionally support exceptional candidates for
@@ -439,7 +439,7 @@ or the
 ## Postdoctoral Researcher Positions {#postdoc}
 
 We are seeking exceptional candidates with a strong, internationally
-competitive track record of research in programming languages, formal
+competitive research track record in programming languages, formal
 verification, or security. Particularly interesting research areas are:
 
 - formal verification in a proof assistant like Coq and
@@ -459,7 +459,7 @@ Starting Researchers can propose and follow their own research agenda
 in secure compilation and be fairly independent.
 
 We are seeking exceptional candidates with a strong, internationally
-competitive track record of research in programming languages, formal
+competitive research track record in programming languages, formal
 verification, or security.
 
 Inria Starting Researchers are hired on 3 year contracts (extensible
