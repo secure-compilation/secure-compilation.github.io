@@ -455,18 +455,12 @@ and have a net monthly salary of €2122-2574.
 
 ## Starting Researcher Positions {#starting}
 
+Starting Researchers can propose and follow their own research agenda
+in secure compilation and be fairly independent.
+
 We are seeking exceptional candidates with a strong, internationally
 competitive track record of research in programming languages, formal
-verification, or security. Particularly interesting research areas are:
-
-- formal verification in a proof assistant like Coq and
-  verified compilation in particular
-
-- security foundations, e.g., reference monitoring, hyperproperties,
-  noninterference, fully abstract translations
-
-Starting Researchers can propose and follow their own
-research agenda in secure compilation and be fairly independent.
+verification, or security.
 
 Inria Starting Researchers are hired on 3 year contracts (extensible
 up to 6 years) and earn €2348-3344 net each month, based on experience.
