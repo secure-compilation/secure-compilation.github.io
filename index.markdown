@@ -297,7 +297,7 @@ could with respect to a secure source-level semantics.
 
 - [Karthikeyan Bhargavan],
   [Antoine Delignat-Lavaud],
-  [Cédric Fournet],
+  [Cédric Fournet],
   [Cătălin Hriţcu],
   [Jonathan Protzenko],
   [Tahina Ramananandro],
