@@ -36,11 +36,12 @@ and recent [Dagstuhl Seminar] on secure compilation).
 
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
 - [Carmine Abate] (PhD Student)
+- [Jérémy Thibault] (PhD Student)
 - [Roberto Blanco] (PostDoc)
 - [Danel Ahman] (PostDoc)
-- [Jérémy Thibault] (Research Intern, ENS Rennes)
 - [Florian Groult] (Research Intern, Orléans University)
 - [Amal Ahmed] (Visiting Professor, [Northeastern University])
+- [Éric Tanter] (Visiting Professor, [University of Chile])
 - [Aaron Weiss] (Visiting Researcher, [Northeastern University])
 
 #### Past members at Inria Paris
@@ -48,7 +49,7 @@ and recent [Dagstuhl Seminar] on secure compilation).
 - [Marco Stronati] (PostDoc)
 - [Guglielmo Fachini] (Research Engineer)
 - [Yannis Juglaret] (Student at Inria and Paris 7)
-- [Arthur Azevedo de Amorim] (Inria intern,
+- [Arthur Azevedo de Amorim] (Research Intern,
     PhD Student at [University of Pennsylvania])
 - [Boris Eng] (Research Intern, undergraduate student at Paris 8)
 - [Ana Nora Evans] (Inria visitor, PhD Student at [University of Virginia])
@@ -64,7 +65,6 @@ and recent [Dagstuhl Seminar] on secure compilation).
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Deepak Garg] (Tenured Faculty, [MPI-SWS])
 - [Marco Patrignani] (PostDoc, [CISPA] and [Stanford University])
-- [Éric Tanter] (Professor, [University of Chile])
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
 - [Cédric Fournet] (Principal Researcher, [Microsoft Research])
 - [André DeHon] (Professor, [University of Pennsylvania])
@@ -72,7 +72,6 @@ and recent [Dagstuhl Seminar] on secure compilation).
 - [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
 - [Ana Nora Evans] (PhD Student, [University of Virginia])
-<!-- - [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT]) -->
 
 [Marco Stronati]: http://www.stronati.org/
 [Guglielmo Fachini]: https://github.com/GuglielmoS
@@ -161,8 +160,9 @@ could with respect to a secure source-level semantics.
 
 ## Talks on SECOMP
 
-- **Most recent**:
-  IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
+- [Working Formal Methods Symposium (FROM 2018)](https://fmse.info.uaic.ro/event/from-2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-06-20-Secure-Compilation-FROM.pdf) (2018-06-20)
+- [Dagstuhl Seminar on Secure Compilation](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201): [slides1](http://prosecco.gforge.inria.fr/personal/hritcu/2018-05-14-Secure-Compilation-Goals-and-Attackers-Dagstuhl.pdf) [slides2](http://prosecco.gforge.inria.fr/personal/hritcu/talks/talks/2017-01-15-What-Is-Secure-Compilation-SCM.pdf) (2018-05-14)
+- IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
 - [SoSySec seminar: Software and Systems Security at IRISA](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) **[video](https://videos-rennes.inria.fr/video/BkHzYy-jM)** (2018-02-05)
 - [PriSC'18 in LA](http://popl18.sigplan.org/track/prisc-2018): [slides](https://popl18.sigplan.org/event?action-call-with-get-request-type=1&action253048efca6aee4547702963143c6170288=1&__ajax_runtime_request__=1&context=POPL-2018&event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components) (2018-01-13)
 - [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
@@ -201,28 +201,32 @@ could with respect to a secure source-level semantics.
 
 ## Relevant Publications
 
-- [Guglielmo Fachini],
-  [Cătălin Hriţcu],
-  [Marco Stronati],
-  [Arthur Azevedo de Amorim],
-  [Ana Nora Evans],
-  [Carmine Abate],
+- [Carmine Abate],
   [Roberto Blanco],
+  [Deepak Garg],
+  [Cătălin Hriţcu],
+  [Marco Patrignani], and
+  [Jérémy Thibault].
+  **[Exploring Robust Property Preservation for Secure Compilation](http://arxiv.org/abs/1807.04603)**.
+  arXiv:1807.04603. July, 2018.
+    + [Supplementary materials including Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation)
+    + A previous extended abstract was called
+    [Robust hyperproperty preservation for secure compilation](https://arxiv.org/abs/1710.07309)
+
+- [Carmine Abate],
+  [Arthur Azevedo de Amorim],
+  [Roberto Blanco],
+  [Ana Nora Evans],
+  [Guglielmo Fachini],
+  [Cătălin Hriţcu],
   [Théo Laurent],
-  [Benjamin C. Pierce], and
+  [Benjamin C. Pierce],
+  [Marco Stronati], and
   [Andrew Tolmach].
   **[When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise](https://arxiv.org/abs/1802.00588)**.
   arXiv:1802.00588, February 2018.
     + [Coq proofs](https://github.com/secure-compilation/when-good-components-go-bad)
     + A previous extended abstract was called [Formally secure compilation of unsafe low-level components](https://arxiv.org/abs/1710.07308)
-
-- [Deepak Garg],
-  [Cătălin Hriţcu],
-  [Marco Patrignani],
-  [Marco Stronati],
-  [David Swasey].
-  **[Robust hyperproperty preservation for secure compilation (extended abstract)](https://arxiv.org/abs/1710.07309)**.
-  arXiv:1710.07309, October 2017.
 
 - [Arthur Azevedo de Amorim],
   [Cătălin Hriţcu], and
@@ -330,6 +334,8 @@ could with respect to a secure source-level semantics.
 [Jean-Karim Zinzindohoué]: https://github.com/jkzinzindohoue
 
 ## Related Projects
+
+<!-- TODO: update to add SSITH/HOPE -->
 
 - **Micro-Policies** is an ongoing project aimed at showing how a rich
   set of _micro-policies_ -- instruction-level security monitoring
