@@ -30,11 +30,12 @@
 <ul>
 <li><a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a> (SECOMP PI, Inria Researcher)</li>
 <li><a href="https://www.researchgate.net/profile/Carmine_Abate">Carmine Abate</a> (PhD Student)</li>
+<li><a href="http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/">Jérémy Thibault</a> (PhD Student)</li>
 <li><a href="https://robblanco.github.io/">Roberto Blanco</a> (PostDoc)</li>
 <li><a href="https://danelahman.github.io/">Danel Ahman</a> (PostDoc)</li>
-<li><a href="http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/">Jérémy Thibault</a> (Research Intern, ENS Rennes)</li>
 <li><a href="https://github.com/floriangru">Florian Groult</a> (Research Intern, Orléans University)</li>
 <li><a href="http://www.ccs.neu.edu/home/amal/">Amal Ahmed</a> (Visiting Professor, <a href="http://www.ccs.neu.edu/">Northeastern University</a>)</li>
+<li><a href="https://pleiad.cl/people/etanter">Éric Tanter</a> (Visiting Professor, <a href="https://pleiad.cl/">University of Chile</a>)</li>
 <li><a href="https://aaronweiss.us/">Aaron Weiss</a> (Visiting Researcher, <a href="http://www.ccs.neu.edu/">Northeastern University</a>)</li>
 </ul>
 <h4 id="past-members-at-inria-paris">Past members at Inria Paris</h4>
@@ -42,7 +43,7 @@
 <li><a href="http://www.stronati.org/">Marco Stronati</a> (PostDoc)</li>
 <li><a href="https://github.com/GuglielmoS">Guglielmo Fachini</a> (Research Engineer)</li>
 <li><a href="http://yannis.computer/">Yannis Juglaret</a> (Student at Inria and Paris 7)</li>
-<li><a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a> (Inria intern, PhD Student at <a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>)</li>
+<li><a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a> (Research Intern, PhD Student at <a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>)</li>
 <li><a href="https://github.com/engboris">Boris Eng</a> (Research Intern, undergraduate student at Paris 8)</li>
 <li><a href="https://www.cs.virginia.edu/~ans5k/">Ana Nora Evans</a> (Inria visitor, PhD Student at <a href="https://www.cs.virginia.edu/">University of Virginia</a>)</li>
 <li><a href="https://github.com/victor-dumitrescu">Victor Dumitrescu</a> (Research Engineer)</li>
@@ -57,14 +58,13 @@
 <li><a href="http://web.cecs.pdx.edu/~apt/">Andrew Tolmach</a> (Professor, <a href="http://www.pdx.edu/computer-science/">Portland State University</a>)</li>
 <li><a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a> (Tenured Faculty, <a href="https://www.mpi-sws.org/">MPI-SWS</a>)</li>
 <li><a href="https://people.mpi-sws.org/~marcopat/">Marco Patrignani</a> (PostDoc, <a href="https://cispa.saarland/">CISPA</a> and <a href="https://cs.stanford.edu/">Stanford University</a>)</li>
-<li><a href="https://pleiad.cl/people/etanter">Éric Tanter</a> (Professor, <a href="https://pleiad.cl/">University of Chile</a>)</li>
 <li><a href="http://research.microsoft.com/en-us/people/nswamy/">Nikhil Swamy</a> (Senior Researcher, <a href="http://research.microsoft.com/">Microsoft Research</a>)</li>
 <li><a href="http://research.microsoft.com/en-us/um/people/fournet/">Cédric Fournet</a> (Principal Researcher, <a href="http://research.microsoft.com/">Microsoft Research</a>)</li>
 <li><a href="https://www.seas.upenn.edu/~andre/">André DeHon</a> (Professor, <a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>)</li>
 <li><a href="http://tyconmismatch.com/">Chris Casinghino</a> (Research scientist, <a href="http://www.draper.com/">Draper Labs</a>)</li>
 <li><a href="https://www.linkedin.com/in/gregorytsullivan">Greg Sullivan</a> (Chief Scientist and Founder, <a href="https://dovermicrosystems.com/">Dover Microsystems</a>)</li>
 <li><a href="https://people.csail.mit.edu/hes/">Howard E. Shrobe</a> (Principal Research Scientist, <a href="https://www.csail.mit.edu/">MIT</a>)</li>
-<li><a href="https://www.cs.virginia.edu/~ans5k/">Ana Nora Evans</a> (PhD Student, <a href="https://www.cs.virginia.edu/">University of Virginia</a>) <!-- - [Stelios Sidiroglou-Douskos] (Research Scientist, [MIT]) --></li>
+<li><a href="https://www.cs.virginia.edu/~ans5k/">Ana Nora Evans</a> (PhD Student, <a href="https://www.cs.virginia.edu/">University of Virginia</a>)</li>
 </ul>
 <h1 id="project">SECOMP Project</h1>
 <h2 id="description">Description</h2>
@@ -72,7 +72,9 @@
 <p>This project is aimed at leveraging emerging hardware capabilities for fine-grained protection to build the first, efficient secure compilers for realistic low-level programming languages (the C language, and <a href="http://arxiv.org/abs/1703.00053">Low*</a> a safe subset of C embedded in <a href="https://www.fstar-lang.org/">F*</a> for verification). These compilers will provide a secure semantics for all programs and will ensure that high-level abstractions cannot be violated even when interacting with untrusted low-level code. To achieve this level of security without sacrificing efficiency, our secure compilers target a tagged architecture, which associates a metadata tag to each word and efficiently propagates and checks tags according to software-defined rules. We hope to experimentally evaluate and carefully optimize the efficiency of our secure compilers on realistic workloads and standard benchmark suites. We are also using property-based testing and formal verification to provide high confidence that our compilers are indeed secure. Formally, we are constructing machine-checked proofs of fully abstract compilation and of a new property we call robust compilation, which implies the preservation of trace properties even against an adversarial context. These strong properties complement compiler correctness and ensure that no machine-code attacker can do more harm to securely compiled components than a component already could with respect to a secure source-level semantics.</p>
 <h2 id="talks-on-secomp">Talks on SECOMP</h2>
 <ul>
-<li><strong>Most recent</strong>: IRIF, Paris 7: <a href="http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf">slides</a> (2018-02-26)</li>
+<li><a href="https://fmse.info.uaic.ro/event/from-2018/">Working Formal Methods Symposium (FROM 2018)</a>: <a href="http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-06-20-Secure-Compilation-FROM.pdf">slides</a> (2018-06-20)</li>
+<li><a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201">Dagstuhl Seminar on Secure Compilation</a>: <a href="http://prosecco.gforge.inria.fr/personal/hritcu/2018-05-14-Secure-Compilation-Goals-and-Attackers-Dagstuhl.pdf">slides1</a> <a href="http://prosecco.gforge.inria.fr/personal/hritcu/talks/talks/2017-01-15-What-Is-Secure-Compilation-SCM.pdf">slides2</a> (2018-05-14)</li>
+<li>IRIF, Paris 7: <a href="http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf">slides</a> (2018-02-26)</li>
 <li><a href="http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html">SoSySec seminar: Software and Systems Security at IRISA</a>: <a href="http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf">slides</a> <strong><a href="https://videos-rennes.inria.fr/video/BkHzYy-jM">video</a></strong> (2018-02-05)</li>
 <li><a href="http://popl18.sigplan.org/track/prisc-2018">PriSC’18 in LA</a>: <a href="https://popl18.sigplan.org/event?action-call-with-get-request-type=1&amp;action253048efca6aee4547702963143c6170288=1&amp;__ajax_runtime_request__=1&amp;context=POPL-2018&amp;event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components">slides</a> (2018-01-13)</li>
 <li><a href="https://www.info.uaic.ro/bin/Main/">Infoiasi</a>: <a href="http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf">slides</a> (2017-12-18)</li>
@@ -89,12 +91,16 @@
 </ul>
 <h2 id="relevant-publications">Relevant Publications</h2>
 <ul>
-<li><a href="https://github.com/GuglielmoS">Guglielmo Fachini</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="http://www.stronati.org/">Marco Stronati</a>, <a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a>, <a href="https://www.cs.virginia.edu/~ans5k/">Ana Nora Evans</a>, <a href="https://www.researchgate.net/profile/Carmine_Abate">Carmine Abate</a>, <a href="https://robblanco.github.io/">Roberto Blanco</a>, <a href="https://github.com/theolaurent">Théo Laurent</a>, <a href="https://www.cis.upenn.edu/~bcpierce/">Benjamin C. Pierce</a>, and <a href="http://web.cecs.pdx.edu/~apt/">Andrew Tolmach</a>. <strong><a href="https://arxiv.org/abs/1802.00588">When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise</a></strong>. arXiv:1802.00588, February 2018.
+<li><a href="https://www.researchgate.net/profile/Carmine_Abate">Carmine Abate</a>, <a href="https://robblanco.github.io/">Roberto Blanco</a>, <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="https://people.mpi-sws.org/~marcopat/">Marco Patrignani</a>, and <a href="http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/">Jérémy Thibault</a>. <strong><a href="http://arxiv.org/abs/1807.04603">Exploring Robust Property Preservation for Secure Compilation</a></strong>. arXiv:1807.04603. July, 2018.
+<ul>
+<li><a href="https://github.com/secure-compilation/exploring-robust-property-preservation">Supplementary materials including Coq development</a></li>
+<li>A previous extended abstract was called <a href="https://arxiv.org/abs/1710.07309">Robust hyperproperty preservation for secure compilation</a></li>
+</ul></li>
+<li><a href="https://www.researchgate.net/profile/Carmine_Abate">Carmine Abate</a>, <a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a>, <a href="https://robblanco.github.io/">Roberto Blanco</a>, <a href="https://www.cs.virginia.edu/~ans5k/">Ana Nora Evans</a>, <a href="https://github.com/GuglielmoS">Guglielmo Fachini</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="https://github.com/theolaurent">Théo Laurent</a>, <a href="https://www.cis.upenn.edu/~bcpierce/">Benjamin C. Pierce</a>, <a href="http://www.stronati.org/">Marco Stronati</a>, and <a href="http://web.cecs.pdx.edu/~apt/">Andrew Tolmach</a>. <strong><a href="https://arxiv.org/abs/1802.00588">When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise</a></strong>. arXiv:1802.00588, February 2018.
 <ul>
 <li><a href="https://github.com/secure-compilation/when-good-components-go-bad">Coq proofs</a></li>
 <li>A previous extended abstract was called <a href="https://arxiv.org/abs/1710.07308">Formally secure compilation of unsafe low-level components</a></li>
 </ul></li>
-<li><p><a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="https://people.mpi-sws.org/~marcopat/">Marco Patrignani</a>, <a href="http://www.stronati.org/">Marco Stronati</a>, <a href="https://people.mpi-sws.org/~swasey/">David Swasey</a>. <strong><a href="https://arxiv.org/abs/1710.07309">Robust hyperproperty preservation for secure compilation (extended abstract)</a></strong>. arXiv:1710.07309, October 2017.</p></li>
 <li><a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, and <a href="https://www.cis.upenn.edu/~bcpierce/">Benjamin C. Pierce</a>. <strong><a href="http://arxiv.org/abs/1705.07354">The Meaning of Memory Safety</a></strong>. To appear at POST, April 2018.
 <ul>
 <li><a href="https://github.com/arthuraa/memory-safe-language">Coq proofs</a></li>
@@ -116,6 +122,7 @@
 <li><p><a href="http://prosecco.gforge.inria.fr/personal/karthik/">Karthikeyan Bhargavan</a>, <a href="http://antoine.delignat-lavaud.fr/">Antoine Delignat-Lavaud</a>, [Cédric Fournet], <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="https://jonathan.protzenko.fr/">Jonathan Protzenko</a>, <a href="https://www.normalesup.org/~ramanana/">Tahina Ramananandro</a>, <a href="https://www.microsoft.com/en-us/research/people/aseemr/">Aseem Rastogi</a>, <a href="http://research.microsoft.com/en-us/people/nswamy/">Nikhil Swamy</a>, <a href="https://people.csail.mit.edu/wangpeng/">Peng Wang</a>, <a href="https://www.microsoft.com/en-us/research/people/santiago/">Santiago Zanella-Béguelin</a>, and <a href="https://github.com/jkzinzindohoue">Jean-Karim Zinzindohoué</a>. <strong><a href="http://arxiv.org/abs/1703.00053">Verified Low-Level Programming Embedded in F*</a></strong>. arXiv:1703.00053. February 2017.</p></li>
 </ul>
 <h2 id="related-projects">Related Projects</h2>
+<!-- TODO: update to add SSITH/HOPE -->
 <ul>
 <li><p><strong>Micro-Policies</strong> is an ongoing project aimed at showing how a rich set of <em>micro-policies</em> – instruction-level security monitoring mechanisms based on fine-grained metadata tags – can be described as instances of a common dynamic monitoring framework, formalized and reasoned about with unified verification tools, and efficiently implemented using programmable metadata-propagation hardware. This project is a collaboration between <a href="https://www.inria.fr/en/centre/paris">Inria Paris</a>, <a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>, <a href="https://www.csail.mit.edu/">MIT</a>, <a href="http://www.pdx.edu/computer-science/">Portland State University</a>, and <a href="http://www.draper.com/">Draper Labs</a> (who have built <a href="https://www.youtube.com/watch?v=r5dIS1kDars">a RISC-V processor extended with support for micro-policies</a>). Micro-policies will be the main enabler for <em>efficient</em> secure compilation in SECOMP.</p></li>
 <li><p><strong><a href="http://www.crash-safe.org/">CRASH/SAFE</a></strong> was a DARPA-funded project (2011-2014) that has undertaken the clean-slate co-design of a secure network host including novel hardware, operating system, programming language, and the systematic testing and verification of key components. This large effort (≈40 people team) brought together academia (<a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>, <a href="https://www.seas.harvard.edu/computer-science">Harvard University</a>, <a href="http://www.ccs.neu.edu/">Northeastern University</a>) and industry (<a href="http://www.baesystems.com/en/home">BAE Systems</a>). The hardware mechanism we use for enforcing micro-policies originated in CRASH/SAFE, where it was mainly used for information-flow control.</p></li>
