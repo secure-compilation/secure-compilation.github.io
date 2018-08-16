@@ -58,6 +58,7 @@ and recent [Dagstuhl Seminar] on secure compilation).
 - [Amal Ahmed] (Visiting Professor, [Northeastern University])
 - [William J. Bowman] (Research Intern at Inria, [Northeastern University])
 - [Aaron Weiss] (Visiting Researcher, [Northeastern University])
+- [Jake Silverman] (Visiting Researcher, [Cornell University])
 
 #### External collaborators
 
@@ -117,6 +118,9 @@ and recent [Dagstuhl Seminar] on secure compilation).
 [CISPA]: https://cispa.saarland/
 [Stanford University]: https://cs.stanford.edu/
 [Florian Groult]: https://github.com/floriangru
+[Jake Silverman]: https://www.linkedin.com/in/jake-silverman-3698aa89
+[Cornell University]: https://www.cornell.edu/
+[Kenji Maillard]: https://github.com/kyoDralliam
 
 # SECOMP Project {#project}
 
