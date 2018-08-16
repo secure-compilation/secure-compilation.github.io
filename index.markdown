@@ -36,27 +36,28 @@ and recent [Dagstuhl Seminar] on secure compilation).
 
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
 - [Carmine Abate] (PhD Student)
+- [Kenji Maillard] (PhD Student)
 - [Jérémy Thibault] (PhD Student)
 - [Roberto Blanco] (PostDoc)
 - [Danel Ahman] (PostDoc)
 - [Florian Groult] (Research Intern, Orléans University)
-- [Amal Ahmed] (Visiting Professor, [Northeastern University])
 - [Éric Tanter] (Visiting Professor, [University of Chile])
-- [Aaron Weiss] (Visiting Researcher, [Northeastern University])
 
 #### Past members at Inria Paris
 
 - [Marco Stronati] (PostDoc)
 - [Guglielmo Fachini] (Research Engineer)
 - [Yannis Juglaret] (Student at Inria and Paris 7)
-- [Arthur Azevedo de Amorim] (Research Intern,
+- [Arthur Azevedo de Amorim] (Research Intern at Inria,
     PhD Student at [University of Pennsylvania])
 - [Boris Eng] (Research Intern, undergraduate student at Paris 8)
 - [Ana Nora Evans] (Inria visitor, PhD Student at [University of Virginia])
 - [Victor Dumitrescu] (Research Engineer)
-- [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
-- [William J. Bowman] (Research Intern, [Northeastern University])
 - [Théo Laurent] (Research Intern, ENS Paris)
+- [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
+- [Amal Ahmed] (Visiting Professor, [Northeastern University])
+- [William J. Bowman] (Research Intern at Inria, [Northeastern University])
+- [Aaron Weiss] (Visiting Researcher, [Northeastern University])
 
 #### External collaborators
 
