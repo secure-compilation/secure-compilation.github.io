@@ -50,15 +50,15 @@ and recent [Dagstuhl Seminar] on secure compilation).
 - [Yannis Juglaret] (Student at Inria and Paris 7)
 - [Arthur Azevedo de Amorim] (Research Intern at Inria,
     PhD Student at [University of Pennsylvania])
-- [Boris Eng] (Research Intern, undergraduate student at Paris 8)
-- [Ana Nora Evans] (Inria visitor, PhD Student at [University of Virginia])
+- [Boris Eng] (Research Intern at Inria, undergraduate student at Paris 8)
+- [Ana Nora Evans] (Visiting Researcher at Inria, PhD Student at [University of Virginia])
 - [Victor Dumitrescu] (Research Engineer)
-- [Théo Laurent] (Research Intern, ENS Paris)
+- [Théo Laurent] (Research Intern at Inria, ENS Paris)
 - [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
-- [Amal Ahmed] (Visiting Professor, [Northeastern University])
+- [Amal Ahmed] (Visiting Professor at Inria, [Northeastern University])
 - [William J. Bowman] (Research Intern at Inria, [Northeastern University])
-- [Aaron Weiss] (Visiting Researcher, [Northeastern University])
-- [Jake Silverman] (Visiting Researcher, [Cornell University])
+- [Aaron Weiss] (Visiting Researcher at Inria, [Northeastern University])
+- [Jake Silverman] (Visiting Researcher at Inria, [Cornell University])
 
 #### External collaborators
 
