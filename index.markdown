@@ -204,7 +204,11 @@ could with respect to a secure source-level semantics.
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-02-22-Micro-Policies-Secure-Compilation-MPI-SWS.pdf)
   (2016-02-22)
 
-## Relevant Publications
+## Courses on secure compilation
+
+- [Formally Secure Compartmentalizing Compilation](http://prosecco.gforge.inria.fr/personal/hritcu/teaching/fosad2018/) course at [18th International School on Foundations of Security Analysis and Design (FOSAD)](http://www.sti.uniurb.it/events/fosad18/) in [Bertinoro, Italy](https://goo.gl/maps/oqzrpd6aMfr) (2018-08-27)
+
+## Most Relevant Publications
 
 - [Carmine Abate],
   [Roberto Blanco],
@@ -229,7 +233,7 @@ could with respect to a secure source-level semantics.
   [Marco Stronati], and
   [Andrew Tolmach].
   **[When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise](https://arxiv.org/abs/1802.00588)**.
-  arXiv:1802.00588, February 2018.
+  To appear at CCS'18. arXiv:1802.00588, February 2018.
     + [Coq proofs](https://github.com/secure-compilation/when-good-components-go-bad)
     + A previous extended abstract was called [Formally secure compilation of unsafe low-level components](https://arxiv.org/abs/1710.07308)
 
