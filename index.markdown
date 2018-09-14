@@ -22,14 +22,14 @@ excellent students and young researchers to work at [Inria Paris]
 
 The SECOMP core team is located at [Inria Paris], and currently
 includes [Cătălin Hriţcu], several students, and one postdoc. We
-expect this core team to grow further in the coming years
-by [hiring students and young researchers](#positions). The SECOMP
-project also includes various external collaborators and we are looking
-forward to work with additional world-class researchers with an
-interest in secure compilation (see [PriSC workshop @ POPL]
-and recent [Dagstuhl Seminar] on secure compilation).
+expect to [hire a few more people](#positions) in the coming
+years. The SECOMP project also includes [excellent external
+collaborators](#external) and we are looking forward to work with
+additional world-class researchers with an interest in secure
+compilation (see [PriSC workshop @ POPL] and recent [Dagstuhl Seminar]
+on secure compilation).
 
-[PriSC workshop @ POPL]: https://popl18.sigplan.org/track/prisc-2018
+[PriSC workshop @ POPL]: https://popl19.sigplan.org/track/prisc-2019
 [Dagstuhl Seminar]: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201
 
 #### Core team at Inria Paris
@@ -41,6 +41,7 @@ and recent [Dagstuhl Seminar] on secure compilation).
 - [Roberto Blanco] (PostDoc)
 - [Florian Groult] (Research Intern, Orléans University)
 - [Éric Tanter] (Visiting Professor, [University of Chile])
+- [Elizabeth Labrada] (Research Intern, [University of Chile])
 
 #### Past members at Inria Paris
 
@@ -121,6 +122,7 @@ and recent [Dagstuhl Seminar] on secure compilation).
 [Jake Silverman]: https://www.linkedin.com/in/jake-silverman-3698aa89
 [Cornell University]: https://www.cornell.edu/
 [Kenji Maillard]: https://github.com/kyoDralliam
+[Elizabeth Labrada]: https://pleiad.cl/people/elabrada
 
 # SECOMP Project {#project}
 
