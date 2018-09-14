@@ -412,6 +412,7 @@ verification, or security. Particularly interesting research areas are:
   noninterference, fully abstract translations
 
 Candidates are expected to work collaboratively and help advise students.
+For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/temp/habil/catalin_habil.pdf#page=80).
 
 Inria PostDocs are hired on 2 year contracts (extensible up 6 years)
 and have a net monthly salary of €2122-2574.
@@ -448,7 +449,7 @@ We are especially interested in interns with previous exposure or strong desire 
 - security foundations or building secure systems;
 - compilation (for imperative or functional languages);
 
-For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/students/topics/2017/secomp-mpri.pdf).
+For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/temp/habil/catalin_habil.pdf#page=80).
 
 ## PhD Student Positions {#phd}
 
