@@ -5,8 +5,7 @@ title: Efficient Formally Secure Compilation to a Tagged Architecture
 **SECOMP** is a research project aimed at building the first efficient
 formally secure compilation chains for realistic programming languages (see
 [project description](#project) below).  The project encompasses a
-core team at [Inria Paris] and various external collaborators
-(see [current team](#team) below).
+[core team](#core) at [Inria Paris] and [several external collaborators](#external).
 [Cătălin Hriţcu] and the core team at Inria Paris are generously
 funded for 5 years (between 2017 and 2021) by an [ERC Starting Grant].
 
@@ -43,6 +42,21 @@ on secure compilation).
 - [Éric Tanter] (Visiting Professor, [University of Chile])
 - [Elizabeth Labrada] (Research Intern, [University of Chile])
 
+#### External collaborators {#external}
+
+- [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
+- [Arthur Azevedo de Amorim] (PostDoc, [Carnegie Mellon University])
+- [Andrew Tolmach] (Professor, [Portland State University])
+- [Deepak Garg] (Tenured Faculty, [MPI-SWS])
+- [Marco Patrignani] (PostDoc, [CISPA] and [Stanford University])
+- [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
+- [Cédric Fournet] (Principal Researcher, [Microsoft Research])
+- [André DeHon] (Professor, [University of Pennsylvania])
+- [Chris Casinghino] (Research scientist, [Draper Labs])
+- [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems])
+- [Howard E. Shrobe] (Principal Research Scientist, [MIT])
+- [Ana Nora Evans] (PhD Student, [University of Virginia])
+
 #### Past members at Inria Paris
 
 <!-- TODO: move these to a separate page, or somehow fold them out -->
@@ -62,21 +76,6 @@ on secure compilation).
 - [William J. Bowman] (Research Intern at Inria, [Northeastern University])
 - [Aaron Weiss] (Visiting Researcher at Inria, [Northeastern University])
 - [Jake Silverman] (Visiting Researcher at Inria, [Cornell University])
-
-#### External collaborators {#external}
-
-- [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
-- [Arthur Azevedo de Amorim] (PostDoc, [Carnegie Mellon University])
-- [Andrew Tolmach] (Professor, [Portland State University])
-- [Deepak Garg] (Tenured Faculty, [MPI-SWS])
-- [Marco Patrignani] (PostDoc, [CISPA] and [Stanford University])
-- [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
-- [Cédric Fournet] (Principal Researcher, [Microsoft Research])
-- [André DeHon] (Professor, [University of Pennsylvania])
-- [Chris Casinghino] (Research scientist, [Draper Labs])
-- [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems])
-- [Howard E. Shrobe] (Principal Research Scientist, [MIT])
-- [Ana Nora Evans] (PhD Student, [University of Virginia])
 
 [Marco Stronati]: http://www.stronati.org/
 [Guglielmo Fachini]: https://github.com/GuglielmoS
