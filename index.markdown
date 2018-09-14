@@ -112,7 +112,7 @@ and recent [Dagstuhl Seminar] on secure compilation).
 [Aaron Weiss]: https://aaronweiss.us/
 [William J. Bowman]: https://www.williamjbowman.com/
 [Roberto Blanco]: https://robblanco.github.io/
-[Carmine Abate]: https://www.researchgate.net/profile/Carmine_Abate
+[Carmine Abate]: https://dblp.org/pers/hd/a/Abate:Carmine
 [Jérémy Thibault]: http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/
 [Marco Patrignani]: https://people.mpi-sws.org/~marcopat/
 [CISPA]: https://cispa.saarland/
@@ -125,6 +125,9 @@ and recent [Dagstuhl Seminar] on secure compilation).
 # SECOMP Project {#project}
 
 ## Description
+
+<!-- TODO: update description, maybe take from habil -->
+<!-- TODO: also include the 4 pages from habil somewhere? -->
 
 Severe low-level vulnerabilities abound in today's computer systems,
 allowing cyber-attackers to remotely gain full control. This happens
@@ -208,6 +211,11 @@ could with respect to a secure source-level semantics.
 
 - [Formally Secure Compartmentalizing Compilation](http://prosecco.gforge.inria.fr/personal/hritcu/teaching/fosad2018/) course at [18th International School on Foundations of Security Analysis and Design (FOSAD)](http://www.sti.uniurb.it/events/fosad18/) in [Bertinoro, Italy](https://goo.gl/maps/oqzrpd6aMfr) (2018-08-27)
 
+## Github Repos
+
+- <https://github.com/secure-compilation>
+- <https://github.com/micro-policies>
+
 ## Most Relevant Publications
 
 - [Carmine Abate],
@@ -233,7 +241,7 @@ could with respect to a secure source-level semantics.
   [Marco Stronati], and
   [Andrew Tolmach].
   **[When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise](https://arxiv.org/abs/1802.00588)**.
-  To appear at CCS'18. arXiv:1802.00588, February 2018.
+  To appear at CCS'18, October 2018.
     + [Coq proofs](https://github.com/secure-compilation/when-good-components-go-bad)
     + A previous extended abstract was called [Formally secure compilation of unsafe low-level components](https://arxiv.org/abs/1710.07308)
 
@@ -241,7 +249,7 @@ could with respect to a secure source-level semantics.
   [Cătălin Hriţcu], and
   [Benjamin C. Pierce].
   **[The Meaning of Memory Safety](http://arxiv.org/abs/1705.07354)**.
-  To appear at POST, April 2018.
+  In 7th International Conference on Principles of Security and Trust (POST), pages 79--105, April 2018.
     + [Coq proofs](https://github.com/arthuraa/memory-safe-language)
 
 - [Yannis Juglaret],
@@ -373,11 +381,6 @@ could with respect to a secure source-level semantics.
 [Harvard University]: https://www.seas.harvard.edu/computer-science
 [BAE Systems]: http://www.baesystems.com/en/home
 
-## Github Repos
-
-- <https://github.com/secure-compilation>
-- <https://github.com/micro-policies>
-
 # Open Positions {#positions}
 
 We are looking for excellent students and young
@@ -391,7 +394,7 @@ under the supervision of [Cătălin Hriţcu].
 We can additionally support exceptional candidates for
 permanent [Researcher](#cr) positions funded and awarded competitively by Inria.
 More details about each of these positions are followed by some
-[general information](#general) about all of them.
+**[general information](#general) about all the positions**.
 
 ## Postdoctoral Researcher Positions {#postdoc}
 
