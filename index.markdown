@@ -1,5 +1,5 @@
 ---
-title: Efficient Formally Secure Compilers to a Tagged Architecture
+title: Efficient Formally Secure Compilation to a Tagged Architecture
 ---
 
 **SECOMP** is a research project aimed at building the first efficient
@@ -135,7 +135,7 @@ on secure compilation).
 
 Severe low-level vulnerabilities abound in today's computer systems,
 allowing cyber-attackers to remotely gain full control. This happens
-in big part because our programming languages, compilers, and
+in big part because our programming languages, compilation chains, and
 architectures were designed in an era of scarce hardware resources and
 too often trade off security for efficiency. The semantics of
 mainstream low-level languages like C is inherently insecure, and even
@@ -146,24 +146,24 @@ mechanisms provided by mainstream hardware architectures would be too
 inefficient for most practical scenarios.
 
 This project is aimed at leveraging emerging hardware capabilities for
-fine-grained protection to build the first, efficient secure compilers
+fine-grained protection to build the first, efficient secure compilation chains
 for realistic low-level programming languages (the C language, and
 [Low\*] a safe subset of C embedded in [F\*] for verification). These
-compilers will provide a secure semantics for all programs and will
+compilation chains will provide a secure semantics for all programs and will
 ensure that high-level abstractions cannot be violated even when
 interacting with untrusted low-level code. To achieve this level of
-security without sacrificing efficiency, our secure compilers target a
+security without sacrificing efficiency, our secure compilation chains target a
 tagged architecture, which associates a metadata tag to each word and
 efficiently propagates and checks tags according to software-defined
 rules. We hope to experimentally evaluate and carefully optimize the
-efficiency of our secure compilers on realistic workloads and standard
+efficiency of our secure compilation chains on realistic workloads and standard
 benchmark suites. We are also using property-based testing and
-formal verification to provide high confidence that our compilers are
+formal verification to provide high confidence that our compilation chains are
 indeed secure. Formally, we are constructing machine-checked proofs of
-fully abstract compilation and of a new property we call robust
-compilation, which implies the preservation of trace properties even
-against an adversarial context. These strong properties complement
-compiler correctness and ensure that no machine-code attacker can do
+a new security criterion we call robustly safe compilation, is defined as the
+preservation of safety properties even against an adversarial
+context. This strong criterion complements
+compiler correctness and ensures that no machine-code attacker can do
 more harm to securely compiled components than a component already
 could with respect to a secure source-level semantics.
 
