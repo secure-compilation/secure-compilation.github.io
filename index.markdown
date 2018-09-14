@@ -45,6 +45,8 @@ on secure compilation).
 
 #### Past members at Inria Paris
 
+<!-- TODO: move these to a separate page, or somehow fold them out -->
+
 - [Danel Ahman] (PostDoc)
 - [Marco Stronati] (PostDoc)
 - [Guglielmo Fachini] (Research Engineer)
@@ -61,7 +63,7 @@ on secure compilation).
 - [Aaron Weiss] (Visiting Researcher at Inria, [Northeastern University])
 - [Jake Silverman] (Visiting Researcher at Inria, [Cornell University])
 
-#### External collaborators
+#### External collaborators {#external}
 
 - [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
 - [Arthur Azevedo de Amorim] (PostDoc, [Carnegie Mellon University])
