@@ -345,6 +345,7 @@ could with respect to a secure source-level semantics.
 ## Related Projects
 
 <!-- TODO: update to add SSITH/HOPE -->
+<!-- TODO: add F* too -->
 
 - **Micro-Policies** is an ongoing project aimed at showing how a rich
   set of _micro-policies_ -- instruction-level security monitoring
@@ -381,16 +382,45 @@ could with respect to a secure source-level semantics.
 
 We are looking for excellent students and young
 researchers for
-[Research Internship](#intern),
-[PhD Student](#phd),
 [PostDoc](#postdoc),
 [Starting Researcher](#starting),
+[PhD Student](#phd),
+[Research Internship](#intern),
 and [Research Engineer](#engineer) positions at [Inria Paris],
 under the supervision of [Cătălin Hriţcu].
 We can additionally support exceptional candidates for
 permanent [Researcher](#cr) positions funded and awarded competitively by Inria.
 More details about each of these positions are followed by some
 [general information](#general) about all of them.
+
+## Postdoctoral Researcher Positions {#postdoc}
+
+We are seeking exceptional candidates with a strong, internationally
+competitive research track record in programming languages, formal
+verification, or security. Particularly interesting research areas are:
+
+- formal verification in a proof assistant like Coq and
+  verified compilation in particular
+
+- security foundations, e.g., reference monitoring, hyperproperties,
+  noninterference, fully abstract translations
+
+Candidates are expected to work collaboratively and help advise students.
+
+Inria PostDocs are hired on 2 year contracts (extensible up 6 years)
+and have a net monthly salary of €2122-2574.
+
+## Starting Researcher Positions {#starting}
+
+Starting Researchers can propose and follow their own research agenda
+in secure compilation and be fairly independent.
+
+We are seeking exceptional candidates with a strong, internationally
+competitive research track record in programming languages, formal
+verification, or security.
+
+Inria Starting Researchers are hired on 3 year contracts (extensible
+up to 6 years) and earn €2348-3344 net each month, based on experience.
 
 ## Research Internships {#intern}
 
@@ -450,35 +480,6 @@ For more information about doing a PhD at Inria please consult
 [Xavier Leroy's post on the topic](http://gallium.inria.fr/~xleroy/these.html)
 or the
 [official Inria FAQ](https://www.inria.fr/en/institute/recruitment/offers/phd/faq).
-
-## Postdoctoral Researcher Positions {#postdoc}
-
-We are seeking exceptional candidates with a strong, internationally
-competitive research track record in programming languages, formal
-verification, or security. Particularly interesting research areas are:
-
-- formal verification in a proof assistant like Coq and
-  verified compilation in particular
-
-- security foundations, e.g., reference monitoring, hyperproperties,
-  noninterference, fully abstract translations
-
-Candidates are expected to work collaboratively and help advise students.
-
-Inria PostDocs are hired on 2 year contracts (extensible up 6 years)
-and have a net monthly salary of €2122-2574.
-
-## Starting Researcher Positions {#starting}
-
-Starting Researchers can propose and follow their own research agenda
-in secure compilation and be fairly independent.
-
-We are seeking exceptional candidates with a strong, internationally
-competitive research track record in programming languages, formal
-verification, or security.
-
-Inria Starting Researchers are hired on 3 year contracts (extensible
-up to 6 years) and earn €2348-3344 net each month, based on experience.
 
 ## Research Engineer Positions {#engineer}
 
