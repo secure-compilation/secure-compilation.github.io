@@ -220,7 +220,7 @@ could with respect to a secure source-level semantics.
 - <https://github.com/secure-compilation>
 - <https://github.com/micro-policies>
 
-## Most Relevant Publications
+## Most Relevant Publications {#publications}
 
 - [Carmine Abate],
   [Roberto Blanco],
