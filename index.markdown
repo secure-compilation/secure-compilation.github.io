@@ -20,10 +20,10 @@ excellent students and young researchers to work at [Inria Paris]
 
 # Current Team {#team}
 
-The SECOMP core team is located at [Inria Paris], and currently
+The core SECOMP team is located at [Inria Paris], and currently
 includes [Cătălin Hriţcu], several students, and one postdoc. We
 expect to [hire a few more people](#positions) in the coming
-years. The SECOMP project also includes [excellent external
+years. The project also includes [excellent external
 collaborators](#external) and we are looking forward to work with
 additional world-class researchers with an interest in secure
 compilation (see [PriSC workshop @ POPL] and recent [Dagstuhl Seminar]
@@ -52,7 +52,7 @@ on secure compilation).
 - [Guglielmo Fachini] (Research Engineer)
 - [Yannis Juglaret] (Student at Inria and Paris 7)
 - [Arthur Azevedo de Amorim] (Research Intern at Inria,
-    PhD Student at [University of Pennsylvania])
+    PhD at [University of Pennsylvania])
 - [Boris Eng] (Research Intern at Inria, undergraduate student at Paris 8)
 - [Ana Nora Evans] (Visiting Researcher at Inria, PhD Student at [University of Virginia])
 - [Victor Dumitrescu] (Research Engineer)
@@ -160,9 +160,9 @@ efficiency of our secure compilation chains on realistic workloads and standard
 benchmark suites. We are also using property-based testing and
 formal verification to provide high confidence that our compilation chains are
 indeed secure. Formally, we are constructing machine-checked proofs of
-a new security criterion we call robustly safe compilation, is defined as the
-preservation of safety properties even against an adversarial
-context. This strong criterion complements
+a new security criterion we call robustly safe compilation, which is
+defined as the preservation of safety properties even against an
+adversarial context. This strong criterion complements
 compiler correctness and ensures that no machine-code attacker can do
 more harm to securely compiled components than a component already
 could with respect to a secure source-level semantics.
@@ -213,7 +213,7 @@ could with respect to a secure source-level semantics.
 
 ## Courses on secure compilation
 
-- [Formally Secure Compartmentalizing Compilation](http://prosecco.gforge.inria.fr/personal/hritcu/teaching/fosad2018/) course at [18th International School on Foundations of Security Analysis and Design (FOSAD)](http://www.sti.uniurb.it/events/fosad18/) in [Bertinoro, Italy](https://goo.gl/maps/oqzrpd6aMfr) (2018-08-27)
+- [Formally Secure Compartmentalizing Compilation](http://prosecco.gforge.inria.fr/personal/hritcu/teaching/fosad2018/) course at [International School on Foundations of Security Analysis and Design (FOSAD)](http://www.sti.uniurb.it/events/fosad18/) in [Bertinoro, Italy](https://goo.gl/maps/oqzrpd6aMfr) (2018-08-27)
 
 ## Github Repos
 
