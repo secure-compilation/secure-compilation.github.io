@@ -21,7 +21,7 @@ excellent students and young researchers to work at [Inria Paris]
 # Current Team {#team}
 
 The SECOMP core team is located at [Inria Paris], and currently
-includes [Cătălin Hriţcu], several students, and two postdocs. We
+includes [Cătălin Hriţcu], several students, and one postdoc. We
 expect this core team to grow further in the coming years
 by [hiring students and young researchers](#positions). The SECOMP
 project also includes various external collaborators and we are looking
@@ -39,12 +39,12 @@ and recent [Dagstuhl Seminar] on secure compilation).
 - [Kenji Maillard] (PhD Student)
 - [Jérémy Thibault] (PhD Student)
 - [Roberto Blanco] (PostDoc)
-- [Danel Ahman] (PostDoc)
 - [Florian Groult] (Research Intern, Orléans University)
 - [Éric Tanter] (Visiting Professor, [University of Chile])
 
 #### Past members at Inria Paris
 
+- [Danel Ahman] (PostDoc)
 - [Marco Stronati] (PostDoc)
 - [Guglielmo Fachini] (Research Engineer)
 - [Yannis Juglaret] (Student at Inria and Paris 7)
