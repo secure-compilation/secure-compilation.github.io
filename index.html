@@ -29,7 +29,7 @@
 <h4 id="core-team-at-inria-paris">Core team at Inria Paris</h4>
 <ul>
 <li><a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a> (SECOMP PI, Inria Researcher)</li>
-<li><a href="https://www.researchgate.net/profile/Carmine_Abate">Carmine Abate</a> (PhD Student)</li>
+<li><a href="https://dblp.org/pers/hd/a/Abate:Carmine">Carmine Abate</a> (PhD Student)</li>
 <li><a href="https://github.com/kyoDralliam">Kenji Maillard</a> (PhD Student)</li>
 <li><a href="http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/">Jérémy Thibault</a> (PhD Student)</li>
 <li><a href="https://robblanco.github.io/">Roberto Blanco</a> (PostDoc)</li>
@@ -70,6 +70,8 @@
 </ul>
 <h1 id="project">SECOMP Project</h1>
 <h2 id="description">Description</h2>
+<!-- TODO: update description, maybe take from habil -->
+<!-- TODO: also include the 4 pages from habil somewhere? -->
 <p>Severe low-level vulnerabilities abound in today’s computer systems, allowing cyber-attackers to remotely gain full control. This happens in big part because our programming languages, compilers, and architectures were designed in an era of scarce hardware resources and too often trade off security for efficiency. The semantics of mainstream low-level languages like C is inherently insecure, and even for safer languages, establishing security with respect to a high-level semantics does not guarantee the absence of low-level attacks. Secure compilation using the coarse-grained protection mechanisms provided by mainstream hardware architectures would be too inefficient for most practical scenarios.</p>
 <p>This project is aimed at leveraging emerging hardware capabilities for fine-grained protection to build the first, efficient secure compilers for realistic low-level programming languages (the C language, and <a href="http://arxiv.org/abs/1703.00053">Low*</a> a safe subset of C embedded in <a href="https://www.fstar-lang.org/">F*</a> for verification). These compilers will provide a secure semantics for all programs and will ensure that high-level abstractions cannot be violated even when interacting with untrusted low-level code. To achieve this level of security without sacrificing efficiency, our secure compilers target a tagged architecture, which associates a metadata tag to each word and efficiently propagates and checks tags according to software-defined rules. We hope to experimentally evaluate and carefully optimize the efficiency of our secure compilers on realistic workloads and standard benchmark suites. We are also using property-based testing and formal verification to provide high confidence that our compilers are indeed secure. Formally, we are constructing machine-checked proofs of fully abstract compilation and of a new property we call robust compilation, which implies the preservation of trace properties even against an adversarial context. These strong properties complement compiler correctness and ensure that no machine-code attacker can do more harm to securely compiled components than a component already could with respect to a secure source-level semantics.</p>
 <h2 id="talks-on-secomp">Talks on SECOMP</h2>
@@ -95,19 +97,24 @@
 <ul>
 <li><a href="http://prosecco.gforge.inria.fr/personal/hritcu/teaching/fosad2018/">Formally Secure Compartmentalizing Compilation</a> course at <a href="http://www.sti.uniurb.it/events/fosad18/">18th International School on Foundations of Security Analysis and Design (FOSAD)</a> in <a href="https://goo.gl/maps/oqzrpd6aMfr">Bertinoro, Italy</a> (2018-08-27)</li>
 </ul>
+<h2 id="github-repos">Github Repos</h2>
+<ul>
+<li><a href="https://github.com/secure-compilation" class="uri">https://github.com/secure-compilation</a></li>
+<li><a href="https://github.com/micro-policies" class="uri">https://github.com/micro-policies</a></li>
+</ul>
 <h2 id="most-relevant-publications">Most Relevant Publications</h2>
 <ul>
-<li><a href="https://www.researchgate.net/profile/Carmine_Abate">Carmine Abate</a>, <a href="https://robblanco.github.io/">Roberto Blanco</a>, <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="https://people.mpi-sws.org/~marcopat/">Marco Patrignani</a>, and <a href="http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/">Jérémy Thibault</a>. <strong><a href="http://arxiv.org/abs/1807.04603">Exploring Robust Property Preservation for Secure Compilation</a></strong>. arXiv:1807.04603. July, 2018.
+<li><a href="https://dblp.org/pers/hd/a/Abate:Carmine">Carmine Abate</a>, <a href="https://robblanco.github.io/">Roberto Blanco</a>, <a href="https://people.mpi-sws.org/~dg/">Deepak Garg</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="https://people.mpi-sws.org/~marcopat/">Marco Patrignani</a>, and <a href="http://perso.eleves.ens-rennes.fr/people/Jeremy.Thibault/">Jérémy Thibault</a>. <strong><a href="http://arxiv.org/abs/1807.04603">Exploring Robust Property Preservation for Secure Compilation</a></strong>. arXiv:1807.04603. July, 2018.
 <ul>
 <li><a href="https://github.com/secure-compilation/exploring-robust-property-preservation">Supplementary materials including Coq development</a></li>
 <li>A previous extended abstract was called <a href="https://arxiv.org/abs/1710.07309">Robust hyperproperty preservation for secure compilation</a></li>
 </ul></li>
-<li><a href="https://www.researchgate.net/profile/Carmine_Abate">Carmine Abate</a>, <a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a>, <a href="https://robblanco.github.io/">Roberto Blanco</a>, <a href="https://www.cs.virginia.edu/~ans5k/">Ana Nora Evans</a>, <a href="https://github.com/GuglielmoS">Guglielmo Fachini</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="https://github.com/theolaurent">Théo Laurent</a>, <a href="https://www.cis.upenn.edu/~bcpierce/">Benjamin C. Pierce</a>, <a href="http://www.stronati.org/">Marco Stronati</a>, and <a href="http://web.cecs.pdx.edu/~apt/">Andrew Tolmach</a>. <strong><a href="https://arxiv.org/abs/1802.00588">When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise</a></strong>. To appear at CCS’18. arXiv:1802.00588, February 2018.
+<li><a href="https://dblp.org/pers/hd/a/Abate:Carmine">Carmine Abate</a>, <a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a>, <a href="https://robblanco.github.io/">Roberto Blanco</a>, <a href="https://www.cs.virginia.edu/~ans5k/">Ana Nora Evans</a>, <a href="https://github.com/GuglielmoS">Guglielmo Fachini</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, <a href="https://github.com/theolaurent">Théo Laurent</a>, <a href="https://www.cis.upenn.edu/~bcpierce/">Benjamin C. Pierce</a>, <a href="http://www.stronati.org/">Marco Stronati</a>, and <a href="http://web.cecs.pdx.edu/~apt/">Andrew Tolmach</a>. <strong><a href="https://arxiv.org/abs/1802.00588">When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise</a></strong>. To appear at CCS’18, October 2018.
 <ul>
 <li><a href="https://github.com/secure-compilation/when-good-components-go-bad">Coq proofs</a></li>
 <li>A previous extended abstract was called <a href="https://arxiv.org/abs/1710.07308">Formally secure compilation of unsafe low-level components</a></li>
 </ul></li>
-<li><a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, and <a href="https://www.cis.upenn.edu/~bcpierce/">Benjamin C. Pierce</a>. <strong><a href="http://arxiv.org/abs/1705.07354">The Meaning of Memory Safety</a></strong>. To appear at POST, April 2018.
+<li><a href="http://arthuraa.net/">Arthur Azevedo de Amorim</a>, <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>, and <a href="https://www.cis.upenn.edu/~bcpierce/">Benjamin C. Pierce</a>. <strong><a href="http://arxiv.org/abs/1705.07354">The Meaning of Memory Safety</a></strong>. In 7th International Conference on Principles of Security and Trust (POST), pages 79–105, April 2018.
 <ul>
 <li><a href="https://github.com/arthuraa/memory-safe-language">Coq proofs</a></li>
 </ul></li>
@@ -129,17 +136,25 @@
 </ul>
 <h2 id="related-projects">Related Projects</h2>
 <!-- TODO: update to add SSITH/HOPE -->
+<!-- TODO: add F* too -->
 <ul>
 <li><p><strong>Micro-Policies</strong> is an ongoing project aimed at showing how a rich set of <em>micro-policies</em> – instruction-level security monitoring mechanisms based on fine-grained metadata tags – can be described as instances of a common dynamic monitoring framework, formalized and reasoned about with unified verification tools, and efficiently implemented using programmable metadata-propagation hardware. This project is a collaboration between <a href="https://www.inria.fr/en/centre/paris">Inria Paris</a>, <a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>, <a href="https://www.csail.mit.edu/">MIT</a>, <a href="http://www.pdx.edu/computer-science/">Portland State University</a>, and <a href="http://www.draper.com/">Draper Labs</a> (who have built <a href="https://www.youtube.com/watch?v=r5dIS1kDars">a RISC-V processor extended with support for micro-policies</a>). Micro-policies will be the main enabler for <em>efficient</em> secure compilation in SECOMP.</p></li>
 <li><p><strong><a href="http://www.crash-safe.org/">CRASH/SAFE</a></strong> was a DARPA-funded project (2011-2014) that has undertaken the clean-slate co-design of a secure network host including novel hardware, operating system, programming language, and the systematic testing and verification of key components. This large effort (≈40 people team) brought together academia (<a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>, <a href="https://www.seas.harvard.edu/computer-science">Harvard University</a>, <a href="http://www.ccs.neu.edu/">Northeastern University</a>) and industry (<a href="http://www.baesystems.com/en/home">BAE Systems</a>). The hardware mechanism we use for enforcing micro-policies originated in CRASH/SAFE, where it was mainly used for information-flow control.</p></li>
 </ul>
-<h2 id="github-repos">Github Repos</h2>
-<ul>
-<li><a href="https://github.com/secure-compilation" class="uri">https://github.com/secure-compilation</a></li>
-<li><a href="https://github.com/micro-policies" class="uri">https://github.com/micro-policies</a></li>
-</ul>
 <h1 id="positions">Open Positions</h1>
-<p>We are looking for excellent students and young researchers for <a href="#intern">Research Internship</a>, <a href="#phd">PhD Student</a>, <a href="#postdoc">PostDoc</a>, <a href="#starting">Starting Researcher</a>, and <a href="#engineer">Research Engineer</a> positions at <a href="https://www.inria.fr/en/centre/paris">Inria Paris</a>, under the supervision of <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>. We can additionally support exceptional candidates for permanent <a href="#cr">Researcher</a> positions funded and awarded competitively by Inria. More details about each of these positions are followed by some <a href="#general">general information</a> about all of them.</p>
+<p>We are looking for excellent students and young researchers for <a href="#postdoc">PostDoc</a>, <a href="#starting">Starting Researcher</a>, <a href="#phd">PhD Student</a>, <a href="#intern">Research Internship</a>, and <a href="#engineer">Research Engineer</a> positions at <a href="https://www.inria.fr/en/centre/paris">Inria Paris</a>, under the supervision of <a href="http://prosecco.gforge.inria.fr/personal/hritcu/">Cătălin Hriţcu</a>. We can additionally support exceptional candidates for permanent <a href="#cr">Researcher</a> positions funded and awarded competitively by Inria. More details about each of these positions are followed by some <strong><a href="#general">general information</a> about all the positions</strong>.</p>
+<h2 id="postdoc">Postdoctoral Researcher Positions</h2>
+<p>We are seeking exceptional candidates with a strong, internationally competitive research track record in programming languages, formal verification, or security. Particularly interesting research areas are:</p>
+<ul>
+<li><p>formal verification in a proof assistant like Coq and verified compilation in particular</p></li>
+<li><p>security foundations, e.g., reference monitoring, hyperproperties, noninterference, fully abstract translations</p></li>
+</ul>
+<p>Candidates are expected to work collaboratively and help advise students.</p>
+<p>Inria PostDocs are hired on 2 year contracts (extensible up 6 years) and have a net monthly salary of €2122-2574.</p>
+<h2 id="starting">Starting Researcher Positions</h2>
+<p>Starting Researchers can propose and follow their own research agenda in secure compilation and be fairly independent.</p>
+<p>We are seeking exceptional candidates with a strong, internationally competitive research track record in programming languages, formal verification, or security.</p>
+<p>Inria Starting Researchers are hired on 3 year contracts (extensible up to 6 years) and earn €2348-3344 net each month, based on experience.</p>
 <h2 id="intern">Research Internships</h2>
 <p>Our research internships are for highly motivated students at the BSc and MSc levels interested in getting an initial contact with research. <!-- and for PhD students at other institutions who are interested in getting hands --> <!-- on experience with research on the SECOMP project. --> Successful internships normally result in a research publication at a good international conference, and most often the BSc and MSc students we advise <a href="http://prosecco.gforge.inria.fr/personal/hritcu/students.html">continue with a PhD</a>. Research internships at Inria are very flexible: they usually take between 3 and 6 months and can happen any time of the year, not just in the summer.</p>
 <p>We are especially interested in interns with previous exposure or strong desire to learn:</p>
@@ -160,18 +175,6 @@
 </ul>
 <p>In France, an MSc degree or equivalent is required for pursuing a PhD. A PhD typically takes 3 years, and involves very little to no course-work, so a strong theoretical background and previous exposure to research are <em>pre-requisites</em> for a successful PhD. We thus strongly encourage prospective PhD students without a strong research background to follow at least the 2nd year of the <a href="https://wikimpri.dptinfo.ens-cachan.fr/doku.php">MPRI</a> programme, an intensive, research-oriented MSc programme in computer science taught by some of the best researchers in Paris. The 2nd year in the <a href="https://wikimpri.dptinfo.ens-cachan.fr/doku.php">MPRI</a> ends with a 4.5 month <a href="https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=stages">research internship</a>, and, as mentioned above, SECOMP is also looking for good interns.</p>
 <p>Inria PhD students <a href="https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4">have a gross salary</a> of €1958 per month for their first and second year (€1586 net) and €2059 per month for their third year (€1668 net). For more information about doing a PhD at Inria please consult <a href="http://gallium.inria.fr/~xleroy/these.html">Xavier Leroy’s post on the topic</a> or the <a href="https://www.inria.fr/en/institute/recruitment/offers/phd/faq">official Inria FAQ</a>.</p>
-<h2 id="postdoc">Postdoctoral Researcher Positions</h2>
-<p>We are seeking exceptional candidates with a strong, internationally competitive research track record in programming languages, formal verification, or security. Particularly interesting research areas are:</p>
-<ul>
-<li><p>formal verification in a proof assistant like Coq and verified compilation in particular</p></li>
-<li><p>security foundations, e.g., reference monitoring, hyperproperties, noninterference, fully abstract translations</p></li>
-</ul>
-<p>Candidates are expected to work collaboratively and help advise students.</p>
-<p>Inria PostDocs are hired on 2 year contracts (extensible up 6 years) and have a net monthly salary of €2122-2574.</p>
-<h2 id="starting">Starting Researcher Positions</h2>
-<p>Starting Researchers can propose and follow their own research agenda in secure compilation and be fairly independent.</p>
-<p>We are seeking exceptional candidates with a strong, internationally competitive research track record in programming languages, formal verification, or security.</p>
-<p>Inria Starting Researchers are hired on 3 year contracts (extensible up to 6 years) and earn €2348-3344 net each month, based on experience.</p>
 <h2 id="engineer">Research Engineer Positions</h2>
 <p>Are you an amazing hacker with an interest in state-of-the-art security and verification tools? Are you experienced at programming in C and/or ML and/or Haskell? Have you worked on a compiler before? Can you envision hacking in Coq or <a href="https://www.fstar-lang.org/">F*</a>? If you answered yes to some of these questions a Research Engineer position on SECOMP could be well-suited for you.</p>
 <p>Research Engineer positions are full time and moving to Paris is a prerequisite. The net monthly salary is €2049-4265 based on experience. These are temporary positions that can be prolonged up to 5-6 years, but we can also support excellent candidates for permanent research engineering positions awarded competitively by Inria.</p>
