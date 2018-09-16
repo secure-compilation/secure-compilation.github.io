@@ -8,9 +8,8 @@ formally secure compilation chains for realistic programming languages (see
 [core team](#core) at [Inria Paris] and [several external collaborators](#external).
 [Cătălin Hriţcu] and the core team at Inria Paris are generously
 funded for 5 years (between 2017 and 2021) by an [ERC Starting Grant].
-
-Over the duration of the project we are looking to hire several
-excellent students and young researchers to work at [Inria Paris]
+Over the project's duration we are looking to hire several
+excellent young researchers and students to work at [Inria Paris]
 (see [open positions](#positions) below).
 
 [ERC Starting Grant]: https://erc.europa.eu/funding-and-grants/funding-schemes/starting-grants
@@ -25,11 +24,11 @@ expect to [hire a few more people](#positions) in the coming
 years. The project also includes [excellent external
 collaborators](#external) and we are looking forward to work with
 additional world-class researchers with an interest in secure
-compilation (see [PriSC workshop @ POPL] and recent [Dagstuhl Seminar]
-on secure compilation).
+compilation (see [the PriSC workshop @ POPL] and [the recent Dagstuhl
+Seminar on secure compilation]).
 
-[PriSC workshop @ POPL]: https://popl19.sigplan.org/track/prisc-2019
-[Dagstuhl Seminar]: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201
+[the PriSC workshop @ POPL]: https://popl19.sigplan.org/track/prisc-2019
+[the recent Dagstuhl Seminar on secure compilation]: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201
 
 #### Core team at Inria Paris
 
@@ -210,7 +209,7 @@ could with respect to a secure source-level semantics.
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-02-22-Micro-Policies-Secure-Compilation-MPI-SWS.pdf)
   (2016-02-22)
 
-## Courses on secure compilation
+## Course on Secure Compilation
 
 - [Formally Secure Compartmentalizing Compilation](http://prosecco.gforge.inria.fr/personal/hritcu/teaching/fosad2018/) course at [International School on Foundations of Security Analysis and Design (FOSAD)](http://www.sti.uniurb.it/events/fosad18/) in [Bertinoro, Italy](https://goo.gl/maps/oqzrpd6aMfr) (2018-08-27)
 
@@ -326,8 +325,9 @@ could with respect to a secure source-level semantics.
   [Peng Wang],
   [Santiago Zanella-Béguelin], and
   [Jean-Karim Zinzindohoué].
-  **[Verified Low-Level Programming Embedded in F*](http://arxiv.org/abs/1703.00053)**.
-  arXiv:1703.00053. February 2017.
+      **[Verified Low-Level Programming Embedded in F*](http://arxiv.org/abs/1703.00053)**.
+  In [22nd ACM SIGPLAN International Conference on Functional Programming (ICFP)](https://conf.researchr.org/home/icfp-2017),
+  PACMPL, 1(ICFP):17:1–17:29, September 2017.
 
 [Boris Eng]: https://github.com/engboris
 [Antal Spector-Zabusky]: https://stackoverflow.com/users/237428/antal-spector-zabusky
@@ -386,8 +386,7 @@ could with respect to a secure source-level semantics.
 
 # Open Positions {#positions}
 
-We are looking for excellent students and young
-researchers for
+We are looking for excellent young researchers and students for
 [PostDoc](#postdoc),
 [Starting Researcher](#starting),
 [PhD Student](#phd),
@@ -403,16 +402,19 @@ More details about each of these positions are followed by some
 
 We are seeking exceptional candidates with a strong, internationally
 competitive research track record in programming languages, formal
-verification, or security. Particularly interesting research areas are:
+verification, or security. Particularly interesting for us is research
+expertise in:
 
 - formal verification in a proof assistant like Coq and
   verified compilation in particular
 
 - security foundations, e.g., reference monitoring, hyperproperties,
-  noninterference, fully abstract translations
+  noninterference<!-- , fully abstract translations -->
 
-Candidates are expected to work collaboratively and help advise students.
-For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/temp/habil/catalin_habil.pdf#page=80).
+Candidates are expected to work collaboratively on
+[SECOMP topics](http://prosecco.gforge.inria.fr/personal/hritcu/temp/habil/catalin_habil.pdf#page=80)
+and help advise students, but can also dedicate a fraction of their
+time to their own projects.
 
 Inria PostDocs are hired on 2 year contracts (extensible up 6 years)
 and have a net monthly salary of €2122-2574.
@@ -431,12 +433,12 @@ up to 6 years) and earn €2348-3344 net each month, based on experience.
 
 ## Research Internships {#intern}
 
-Our research internships are for highly motivated students at the BSc and MSc
-levels interested in getting an initial contact with research.
+Our research internships are for highly motivated students at the MSc <!-- and BSc -->
+level interested in getting an initial contact with research.
 <!-- and for PhD students at other institutions who are interested in getting hands -->
 <!-- on experience with research on the SECOMP project. -->
 Successful internships normally result in a research publication at a good
-international conference, and most often the BSc and MSc students we advise
+international conference, and most often the <!-- BSc and --> MSc students we advise
 [continue with a PhD](http://prosecco.gforge.inria.fr/personal/hritcu/students.html).
 Research internships at Inria are very
 flexible: they usually take between 3 and 6 months and can happen any
@@ -481,7 +483,7 @@ and, as mentioned above, SECOMP is also looking for good interns.
 
 Inria PhD students
 [have a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4) of
-€1958 per month for their first and second year (€1586 net) and €2059
+€1958 per month for their first two years (€1586 net) and €2059
 per month for their third year (€1668 net).
 For more information about doing a PhD at Inria please consult
 [Xavier Leroy's post on the topic](http://gallium.inria.fr/~xleroy/these.html)
@@ -505,10 +507,10 @@ research engineering positions awarded competitively by Inria.
 
 ## Support for Permanent Researcher Positions at Inria {#cr}
 
-[Researcher positions at Inria](https://www.inria.fr/en/institute/recruitment/offers/young-graduate-scientist/competitive-selection-cr2)
-are permanent and are awarded via an extremely competitive contest, and
-each Inria team can realistically support **at most one** candidate each
-year in this competition. If you are an exceptional candidate
+[Researcher positions at Inria](https://www.inria.fr/en/institute/recruitment/offers/young-graduate-scientist/competitive-selection-crcn)
+are permanent and are awarded via an extremely competitive contest.
+Each Inria team can realistically support **at most one** candidate
+in each yearly competition. If you are an exceptional candidate
 interested in working in the [Prosecco] team,
 the right time to get in touch with us is before the end of December.
 Working in [Prosecco] as a PostDoc or Starting Researcher is not a
@@ -522,6 +524,8 @@ of scientific freedom and opportunities to grow. They are, however,
 poorly payed, especially so compared to the cost of living in Paris.
 The precise amounts vary based on experience and slowly increase with time,
 but you can expect to have €2000-2200 as your starting net salary.
+This can be topped up by bonuses (quite substantial if obtaining
+an ERC grant for instance), consulting for industry, etc.
 
 ## Flexible Starting Dates, but Long Hiring Process {#general}
 
@@ -531,7 +535,7 @@ though that the hiring process for Inria Prosecco normally takes 3+
 months, irrespective of the level at which you apply (including
 internships!). Getting in touch with us early enough is thus crucial.
 
-(The hiring process takes 2+ months at Inria, but Prosecco gets
+(The "normal" hiring process takes 2+ months at Inria, but Prosecco gets
 _special treatment_ in the form of an extra security clearance check,
 that makes the whole process even longer!)
 
@@ -545,5 +549,5 @@ interested students and researchers.
 ## How to Apply
 
 If you are interested in applying for a position on the SECOMP project
-please send an email to <catalin.hritcu@inria.fr> including an updated
+please send an email to <catalin.hritcu@inria.fr> including an up-to-date
 curriculum vitae. For any questions please use the same email address.
