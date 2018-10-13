@@ -434,7 +434,7 @@ up to 6 years) and earn €2348-3344 net each month, based on experience.
 ## Research Internships {#intern}
 
 Our research internships are for highly motivated students at the MSc <!-- and BSc -->
-level interested in getting an initial contact with research.
+level interested in getting a research immersion.
 <!-- and for PhD students at other institutions who are interested in getting hands -->
 <!-- on experience with research on the SECOMP project. -->
 Successful internships normally result in a research publication at a good
