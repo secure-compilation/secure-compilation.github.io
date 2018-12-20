@@ -55,6 +55,7 @@ Seminar on secure compilation]).
 - [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
 - [Ana Nora Evans] (PhD Student, [University of Virginia])
+- [Ștefan Ciobâcă] (Associate Professor, [University of Iași])
 
 #### Past members at Inria Paris
 
@@ -123,6 +124,9 @@ Seminar on secure compilation]).
 [Cornell University]: https://www.cornell.edu/
 [Kenji Maillard]: https://github.com/kyoDralliam
 [Elizabeth Labrada]: https://pleiad.cl/people/elabrada
+[Ștefan Ciobâcă]: https://profs.info.uaic.ro/~stefan.ciobaca/
+[University of Iași]: http://www.info.uaic.ro/bin/Main/?language=en
+
 
 # SECOMP Project {#project}
 
