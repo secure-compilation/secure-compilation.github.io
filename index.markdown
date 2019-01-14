@@ -47,7 +47,7 @@ Seminar on secure compilation]).
 - [Arthur Azevedo de Amorim] (PostDoc, [Carnegie Mellon University])
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Deepak Garg] (Tenured Faculty, [MPI-SWS])
-- [Marco Patrignani] (PostDoc, [CISPA] and [Stanford University])
+- [Marco Patrignani] (Visiting Assistant Professor, [Stanford University] and [CISPA])
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
 - [Cédric Fournet] (Principal Researcher, [Microsoft Research])
 - [André DeHon] (Professor, [University of Pennsylvania])
@@ -174,6 +174,8 @@ could with respect to a secure source-level semantics.
 
 ## Talks on SECOMP
 
+- [PriSC @ POPL'19](https://popl19.sigplan.org/track/prisc-2019): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-13-Journey-Beyond-Full-Abstraction-PriSC.pdf)
+- [CCS 2018](https://www.sigsac.org/ccs/CCS2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-10-18-When-Good-Components-Go-Bad-CCS.pdf)
 - [Working Formal Methods Symposium (FROM 2018)](https://fmse.info.uaic.ro/event/from-2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-06-20-Secure-Compilation-FROM.pdf) (2018-06-20)
 - [Dagstuhl Seminar on Secure Compilation](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201): [slides1](http://prosecco.gforge.inria.fr/personal/hritcu/2018-05-14-Secure-Compilation-Goals-and-Attackers-Dagstuhl.pdf) [slides2](http://prosecco.gforge.inria.fr/personal/hritcu/talks/talks/2017-01-15-What-Is-Secure-Compilation-SCM.pdf) (2018-05-14)
 - IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
@@ -230,7 +232,7 @@ could with respect to a secure source-level semantics.
   [Cătălin Hriţcu],
   [Marco Patrignani], and
   [Jérémy Thibault].
-  **[Exploring Robust Property Preservation for Secure Compilation](http://arxiv.org/abs/1807.04603)**.
+  **[Journey Beyond Full Abstraction: Exploring Robust Property Preservation for Secure Compilation](http://arxiv.org/abs/1807.04603)**.
   arXiv:1807.04603. July, 2018.
     + [Supplementary materials including Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation)
     + A previous extended abstract was called
