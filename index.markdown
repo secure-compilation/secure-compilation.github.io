@@ -418,7 +418,7 @@ expertise in:
   noninterference<!-- , fully abstract translations -->
 
 Candidates are expected to work collaboratively on
-[SECOMP topics](http://prosecco.gforge.inria.fr/personal/hritcu/temp/habil/catalin_habil.pdf#page=80)
+[SECOMP topics](http://prosecco.gforge.inria.fr/personal/hritcu/publications/catalin_habil.pdf#page=81)
 and help advise students, but can also dedicate a fraction of their
 time to their own projects.
 
@@ -457,7 +457,8 @@ We are especially interested in interns with previous exposure or strong desire 
 - security foundations or building secure systems;
 - compilation (for imperative or functional languages);
 
-For some potential topics, please [have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/temp/habil/catalin_habil.pdf#page=80).
+For some potential topics, please
+[have a look here](http://prosecco.gforge.inria.fr/personal/hritcu/publications/catalin_habil.pdf#page=81).
 
 ## PhD Student Positions {#phd}
 
