@@ -529,10 +529,11 @@ permanent position.
 These are permanent French civil servant positions that provide a lot
 of scientific freedom and opportunities to grow. They are, however,
 poorly payed, especially so compared to the cost of living in Paris.
-The precise amounts vary based on experience and slowly increase with time,
-but you can expect to have €2000-2200 as your starting net salary.
-This can be topped up by bonuses (quite substantial if obtaining
-an ERC grant for instance), consulting for industry, etc.
+The precise amounts vary based on experience and slowly increase with
+time, but you can expect to have around €2400-2500 as your starting
+net monthly salary. This can be topped up by bonuses (quite
+substantial if obtaining an ERC grant for instance), consulting for
+industry, etc.
 
 ## Flexible Starting Dates, but Long Hiring Process {#general}
 
