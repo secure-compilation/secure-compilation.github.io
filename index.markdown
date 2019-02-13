@@ -419,18 +419,21 @@ expertise in:
 
 Candidates are expected to work collaboratively on
 [SECOMP topics](http://prosecco.gforge.inria.fr/personal/hritcu/publications/catalin_habil.pdf#page=81)
-and help advise students, but can also dedicate a fraction of their
-time to their own projects.
+and help advise students, but can also dedicate a part of their
+time to their own independent projects.
 
 Inria PostDocs are hired on 2 year contracts (extensible up 6 years)
-and have a net monthly salary of €2122-2574.
+and have a net monthly salary of €2122-2574. We can also support
+particularly successful PostDocs for [Starting Researcher Positions](#starting)
+or even [Permanent Researcher Positions](#cr).
 
 ## Starting Researcher Positions {#starting}
 
 Starting Researchers can propose and follow their own research agenda
 in secure compilation and be fairly independent.
 
-We are seeking exceptional candidates with a strong, internationally
+We are seeking exceptional candidates with enough experience
+(normally 2 years after PhD) and with a strong, internationally
 competitive research track record in programming languages, formal
 verification, or security.
 
