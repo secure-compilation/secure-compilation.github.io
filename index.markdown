@@ -54,7 +54,7 @@ Seminar on secure compilation]).
 - [Chris Casinghino] (Research scientist, [Draper Labs])
 - [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems])
 - [Howard E. Shrobe] (Principal Research Scientist, [MIT])
-- [Ana Nora Evans] (PhD Student, [University of Virginia])
+<!-- - [Ana Nora Evans] (PhD Student, [University of Virginia]) -->
 - [Ștefan Ciobâcă] (Associate Professor, [University of Iași])
 
 #### Past members at Inria Paris
@@ -498,7 +498,7 @@ per month for their third year (€1668 net).
 For more information about doing a PhD at Inria please consult
 [Xavier Leroy's post on the topic](http://gallium.inria.fr/~xleroy/these.html)
 or the
-[official Inria FAQ](https://www.inria.fr/en/institute/recruitment/offers/phd/faq).
+[official Inria FAQ](https://www.inria.fr/en/centre/paris/overview/offers/phd/faq).
 
 ## Research Engineer Positions {#engineer}
 
