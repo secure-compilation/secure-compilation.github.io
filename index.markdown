@@ -485,8 +485,11 @@ science taught by some of the best researchers in Paris.
 The 2nd year in the [MPRI] ends with a 4.5 month
 [research internship](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=stages),
 and, as mentioned above, SECOMP is also looking for good interns.
+For the more mathematically inclined, the 2nd year of the [LMFI]
+MSc programme could also be an option.
 
 [MPRI]: https://wikimpri.dptinfo.ens-cachan.fr/doku.php
+[LMFI]: http://www.math.univ-paris-diderot.fr/m2lmfi/
 
 Inria PhD students
 [have a gross salary](https://www.inria.fr/en/institute/recruitment/offers/phd/faq#section4) of
