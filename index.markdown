@@ -159,15 +159,15 @@ tagged architecture, which associates a metadata tag to each word and
 efficiently propagates and checks tags according to software-defined
 rules. We hope to experimentally evaluate and carefully optimize the
 efficiency of our secure compilation chains on realistic workloads and standard
-benchmark suites. We are also using property-based testing and
+benchmark suites. We are using property-based testing and
 formal verification to provide high confidence that our compilation chains are
-indeed secure. Formally, we are constructing machine-checked proofs of
-a new security criterion we call robustly safe compilation, which is
-defined as the preservation of safety properties even against an
-adversarial context. This strong criterion complements
-compiler correctness and ensures that no machine-code attacker can do
-more harm to securely compiled components than a component already
-could with respect to a secure source-level semantics.
+indeed secure.  Formally, we are constructing machine-checked proofs
+in Coq of various new security criteria, which are defined as the
+preservation of property classes even against an adversarial context.
+These strong criteria complement compiler correctness and ensure that
+no machine-code attacker can do more harm to securely compiled
+components than a component already could with respect to a secure
+source-level semantics.
 
 [F\*]: https://www.fstar-lang.org/
 [Low\*]: http://arxiv.org/abs/1703.00053
