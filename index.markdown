@@ -433,9 +433,10 @@ and have a net monthly salary of €2122-2574.
 
 For exceptional candidates with enough experience we can also discuss
 about [Starting Researcher positions](#starting), who can propose and
-follow their own research agenda and be fairly independent (see below).
-Moreover, our team can also support such exceptional candidates for
-permanent [Researcher](#cr) positions funded and awarded competitively by Inria.
+follow their own research agenda and be fairly independent ([see
+below](#starting)).  Moreover, our team can also support such
+exceptional candidates for permanent [Researcher](#cr) positions
+funded and awarded competitively by Inria ([see below](#cr)).
 
 ## Starting Researcher Positions {#starting}
 
