@@ -417,11 +417,11 @@ expertise in:
 - security foundations, e.g., reference monitoring, hyperproperties,
   noninterference<!-- , fully abstract translations -->
 
-The following two recently papers should provide a good idea for the
-kind of research we're currently doing:
-https://arxiv.org/abs/1807.04603
-https://arxiv.org/abs/1802.00588
-And [here is a (non-exhaustive) lists of potential research topics](http://prosecco.gforge.inria.fr/personal/hritcu/students/topics/2019/secomp-2019.pdf)
+Our [latest](https://arxiv.org/abs/1807.04603)
+[two](https://arxiv.org/abs/1802.00588) recently papers should provide
+a good idea for the kind of research we're currently doing.
+And [here is a (non-exhaustive) lists of potential research
+topics](http://prosecco.gforge.inria.fr/personal/hritcu/students/topics/2019/secomp-2019.pdf).
 We are open to new ideas though.
 
 Candidates are expected to work collaboratively on project-relevant
