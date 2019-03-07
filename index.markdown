@@ -30,7 +30,7 @@ Seminar on secure compilation]).
 [the PriSC workshop @ POPL]: https://popl19.sigplan.org/track/prisc-2019
 [the recent Dagstuhl Seminar on secure compilation]: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201
 
-#### Core team at Inria Paris
+#### Core team at Inria Paris {#core}
 
 - [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
 - [Carmine Abate] (PhD Student)
@@ -39,7 +39,6 @@ Seminar on secure compilation]).
 - [Roberto Blanco] (PostDoc)
 - [Florian Groult] (Research Intern, Orléans University)
 - [Éric Tanter] (Visiting Professor, [University of Chile])
-- [Elizabeth Labrada] (Research Intern, [University of Chile])
 
 #### External collaborators {#external}
 
@@ -76,6 +75,7 @@ Seminar on secure compilation]).
 - [William J. Bowman] (Research Intern at Inria, [Northeastern University])
 - [Aaron Weiss] (Visiting Researcher at Inria, [Northeastern University])
 - [Jake Silverman] (Visiting Researcher at Inria, [Cornell University])
+- [Elizabeth Labrada] (Research Intern, [University of Chile])
 
 [Marco Stronati]: http://www.stronati.org/
 [Guglielmo Fachini]: https://github.com/GuglielmoS
@@ -234,7 +234,7 @@ source-level semantics.
   [Jérémy Thibault].
   **[Journey Beyond Full Abstraction: Exploring Robust Property Preservation for Secure Compilation](http://arxiv.org/abs/1807.04603)**.
   arXiv:1807.04603. July, 2018.
-    + [Supplementary materials including Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation)
+    + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation)
     + A previous extended abstract was called
     [Robust hyperproperty preservation for secure compilation](https://arxiv.org/abs/1710.07309)
 
@@ -249,7 +249,7 @@ source-level semantics.
   [Marco Stronati], and
   [Andrew Tolmach].
   **[When Good Components Go Bad: Formally Secure Compilation Despite Dynamic Compromise](https://arxiv.org/abs/1802.00588)**.
-  To appear at CCS'18, October 2018.
+  In [25th ACM Conference on Computer and Communications Security (CCS)](https://ccs2018.sigsac.org/), October 2018.
     + [Coq proofs](https://github.com/secure-compilation/when-good-components-go-bad)
     + A previous extended abstract was called [Formally secure compilation of unsafe low-level components](https://arxiv.org/abs/1710.07308)
 
@@ -417,15 +417,25 @@ expertise in:
 - security foundations, e.g., reference monitoring, hyperproperties,
   noninterference<!-- , fully abstract translations -->
 
-Candidates are expected to work collaboratively on
-[SECOMP topics](http://prosecco.gforge.inria.fr/personal/hritcu/publications/catalin_habil.pdf#page=81)
-and help advise students, but can also dedicate a part of their
+The following two recently papers should provide a good idea for the
+kind of research we're currently doing:
+https://arxiv.org/abs/1807.04603
+https://arxiv.org/abs/1802.00588
+And [here is a (non-exhaustive) lists of potential research topics](http://prosecco.gforge.inria.fr/personal/hritcu/students/topics/2019/secomp-2019.pdf)
+We are open to new ideas though.
+
+Candidates are expected to work collaboratively on project-relevant
+topics and help advise students, but can also dedicate a part of their
 time to their own independent projects.
 
 Inria PostDocs are hired on 2 year contracts (extensible up 6 years)
-and have a net monthly salary of €2122-2574. We can also support
-particularly successful PostDocs for [Starting Researcher Positions](#starting)
-or even [Permanent Researcher Positions](#cr).
+and have a net monthly salary of €2122-2574.
+
+For exceptional candidates with enough experience we can also discuss
+about [Starting Researcher positions](#starting), who can propose and
+follow their own research agenda and be fairly independent (see below).
+Moreover, our team can also support such exceptional candidates for
+permanent [Researcher](#cr) positions funded and awarded competitively by Inria.
 
 ## Starting Researcher Positions {#starting}
 
