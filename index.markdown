@@ -244,7 +244,8 @@ source-level semantics.
   [Marco Patrignani], and
   [Jérémy Thibault].
   **[Journey Beyond Full Abstraction: Exploring Robust Property Preservation for Secure Compilation](http://arxiv.org/abs/1807.04603)**.
-  arXiv:1807.04603. July, 2018.
+  In [32nd IEEE Computer Security Foundations Symposium (CSF)](https://web.stevens.edu/csf2019/index.html), June 2019.
+  **Distinguished Paper Award**
     + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation)
     + A previous extended abstract was called
     [Robust hyperproperty preservation for secure compilation](https://arxiv.org/abs/1710.07309)
