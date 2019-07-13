@@ -173,6 +173,9 @@ source-level semantics.
 [Low\*]: http://arxiv.org/abs/1703.00053
 
 ## Talks on SECOMP
+- [CSF 2019](https://web.stevens.edu/csf2019/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-06-27-Journey-Beyond-Full-Abstraction-CSF.pdf) (2019-06-27)
+- [MPI-SWS](https://www.mpi-sws.org/), Saarbrücken: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-23-When-Good-Components-Go-Bad-Saarbruecken.pdf) (2019-05-23)
+- CASA-MPI Distinguished Lecture at Ruhr University Bochm: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-13-When-Good-Components-Go-Bad-Bochum.pdf) (2019-05-13)
 - Habilitation defense, Inria Paris: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-29-Secure-Compilation-Habil.pdf) (2019-01-29)
 - [PriSC @ POPL'19](https://popl19.sigplan.org/track/prisc-2019): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-13-Journey-Beyond-Full-Abstraction-PriSC.pdf) (2019-01-13)
 - [CCS 2018](https://www.sigsac.org/ccs/CCS2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-10-18-When-Good-Components-Go-Bad-CCS.pdf) **[video](https://www.youtube.com/watch?v=Wwx-g513zFs)** (2018-10-18)
@@ -235,7 +238,7 @@ source-level semantics.
   [Éric Tanter], and
   [Jérémy Thibault].
   **[Trace-Relating Compiler Correctness and Secure Compilation](https://arxiv.org/abs/1907.05320)**. arXiv:1907.05320. July 2019.
-  + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation/tree/different_traces)
+    + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation/tree/different_traces)
 
 - [Carmine Abate],
   [Roberto Blanco],
