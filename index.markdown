@@ -228,6 +228,17 @@ source-level semantics.
 
 - [Carmine Abate],
   [Roberto Blanco],
+  [Ștefan Ciobâcă],
+  [Deepak Garg],
+  [Cătălin Hriţcu],
+  [Marco Patrignani],
+  [Éric Tanter], and
+  [Jérémy Thibault].
+  **[Trace-Relating Compiler Correctness and Secure Compilation](https://arxiv.org/abs/1907.05320)**. arXiv:1907.05320. July 2019.
+  + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation/tree/different_traces)
+
+- [Carmine Abate],
+  [Roberto Blanco],
   [Deepak Garg],
   [Cătălin Hriţcu],
   [Marco Patrignani], and
