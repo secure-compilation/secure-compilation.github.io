@@ -172,60 +172,9 @@ source-level semantics.
 [F\*]: https://www.fstar-lang.org/
 [Low\*]: http://arxiv.org/abs/1703.00053
 
-## Talks on SECOMP
-- [CSF 2019](https://web.stevens.edu/csf2019/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-06-27-Journey-Beyond-Full-Abstraction-CSF.pdf) (2019-06-27)
-- [MPI-SWS](https://www.mpi-sws.org/), Saarbrücken: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-23-When-Good-Components-Go-Bad-Saarbruecken.pdf) (2019-05-23)
-- CASA-MPI Distinguished Lecture at Ruhr University Bochm: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-13-When-Good-Components-Go-Bad-Bochum.pdf) (2019-05-13)
-- Habilitation defense, Inria Paris: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-29-Secure-Compilation-Habil.pdf) (2019-01-29)
-- [PriSC @ POPL'19](https://popl19.sigplan.org/track/prisc-2019): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-13-Journey-Beyond-Full-Abstraction-PriSC.pdf) (2019-01-13)
-- [CCS 2018](https://www.sigsac.org/ccs/CCS2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-10-18-When-Good-Components-Go-Bad-CCS.pdf) **[video](https://www.youtube.com/watch?v=Wwx-g513zFs)** (2018-10-18)
-- [Working Formal Methods Symposium (FROM 2018)](https://fmse.info.uaic.ro/event/from-2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-06-20-Secure-Compilation-FROM.pdf) (2018-06-20)
-- [Dagstuhl Seminar on Secure Compilation](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201): [slides1](http://prosecco.gforge.inria.fr/personal/hritcu/2018-05-14-Secure-Compilation-Goals-and-Attackers-Dagstuhl.pdf) [slides2](http://prosecco.gforge.inria.fr/personal/hritcu/talks/talks/2017-01-15-What-Is-Secure-Compilation-SCM.pdf) (2018-05-14)
-- IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
-- [SoSySec seminar: Software and Systems Security at IRISA](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) **[video](https://videos-rennes.inria.fr/video/BkHzYy-jM)** (2018-02-05)
-- [PriSC'18 in LA](http://popl18.sigplan.org/track/prisc-2018): [slides](https://popl18.sigplan.org/event?action-call-with-get-request-type=1&action253048efca6aee4547702963143c6170288=1&__ajax_runtime_request__=1&context=POPL-2018&event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components) (2018-01-13)
-- [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
-- [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
-- [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-04-06-Secure-Compilation-Clermont-Ferrand.pdf)
-  **[video](http://webtv.u-clermont1.fr/media-MEDIA170410150815297)**
-  (2017-04-06)
-- [LRI VALS seminar at University Paris-Sud](https://vals.lri.fr/):
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf)
-  (2017-03-17)
-- [CEA List](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) seminar:
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-12-13-Secure-Compilation-CEA.pdf)
-  (2016-12-13)
-- [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)
-  security seminar:
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-11-03-Secure-Compilation-MSR.pdf)
-  (2016-11-03)
-- [Inria Gallium](http://gallium.inria.fr/)
-  [seminar](http://gallium.inria.fr/seminar.html):
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-09-02-Secure-Compilation-Gallium.pdf)
-  (2016-09-02)
-- Secure compilation meeting (informal) at Inria Paris:
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-08-17-Secure-Compilation-Mini-Workshop-Paris.pdf)
-  (2016-08-17)
-- ERC Starting Grant interview:
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-05-31-Secure-Compilation-ERC.pdf)
-  (2016-05-31)
-- [Inria Prosecco Seminar](http://prosecco.gforge.inria.fr/events.php):
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-03-02-Micro-Policies-Secure-Compilation-Prosecco.pdf)
-  (2016-03-02)
-- [MPI-SWS](http://www.mpi-sws.org/)
-  [Colloquium](http://www.mpi-sws.org/index.php?n=events/swscolloquium/program):
-  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-02-22-Micro-Policies-Secure-Compilation-MPI-SWS.pdf)
-  (2016-02-22)
-
-## Course on Secure Compilation
-
-- [Formally Secure Compartmentalizing Compilation](http://prosecco.gforge.inria.fr/personal/hritcu/teaching/fosad2018/) course at [International School on Foundations of Security Analysis and Design (FOSAD)](http://www.sti.uniurb.it/events/fosad18/) in [Bertinoro, Italy](https://goo.gl/maps/oqzrpd6aMfr) (2018-08-27)
-
-## Github Repos
+## Github Repo
 
 - <https://github.com/secure-compilation>
-- <https://github.com/micro-policies>
 
 ## Most Relevant Publications {#publications}
 
@@ -373,6 +322,57 @@ source-level semantics.
 [Peng Wang]: https://people.csail.mit.edu/wangpeng/
 [Santiago Zanella-Béguelin]: https://www.microsoft.com/en-us/research/people/santiago/
 [Jean-Karim Zinzindohoué]: https://github.com/jkzinzindohoue
+
+## Talks on SECOMP
+- [CSF 2019](https://web.stevens.edu/csf2019/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-06-27-Journey-Beyond-Full-Abstraction-CSF.pdf) (2019-06-27)
+- [MPI-SWS](https://www.mpi-sws.org/), Saarbrücken: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-23-When-Good-Components-Go-Bad-Saarbruecken.pdf) (2019-05-23)
+- CASA-MPI Distinguished Lecture at Ruhr University Bochm: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-13-When-Good-Components-Go-Bad-Bochum.pdf) (2019-05-13)
+- Habilitation defense, Inria Paris: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-29-Secure-Compilation-Habil.pdf) (2019-01-29)
+- [PriSC @ POPL'19](https://popl19.sigplan.org/track/prisc-2019): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-13-Journey-Beyond-Full-Abstraction-PriSC.pdf) (2019-01-13)
+- [CCS 2018](https://www.sigsac.org/ccs/CCS2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-10-18-When-Good-Components-Go-Bad-CCS.pdf) **[video](https://www.youtube.com/watch?v=Wwx-g513zFs)** (2018-10-18)
+- [Working Formal Methods Symposium (FROM 2018)](https://fmse.info.uaic.ro/event/from-2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-06-20-Secure-Compilation-FROM.pdf) (2018-06-20)
+- [Dagstuhl Seminar on Secure Compilation](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201): [slides1](http://prosecco.gforge.inria.fr/personal/hritcu/2018-05-14-Secure-Compilation-Goals-and-Attackers-Dagstuhl.pdf) [slides2](http://prosecco.gforge.inria.fr/personal/hritcu/talks/talks/2017-01-15-What-Is-Secure-Compilation-SCM.pdf) (2018-05-14)
+- IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
+- [SoSySec seminar: Software and Systems Security at IRISA](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) **[video](https://videos-rennes.inria.fr/video/BkHzYy-jM)** (2018-02-05)
+- [PriSC'18 in LA](http://popl18.sigplan.org/track/prisc-2018): [slides](https://popl18.sigplan.org/event?action-call-with-get-request-type=1&action253048efca6aee4547702963143c6170288=1&__ajax_runtime_request__=1&context=POPL-2018&event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components) (2018-01-13)
+- [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
+- [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
+- [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-04-06-Secure-Compilation-Clermont-Ferrand.pdf)
+  **[video](http://webtv.u-clermont1.fr/media-MEDIA170410150815297)**
+  (2017-04-06)
+- [LRI VALS seminar at University Paris-Sud](https://vals.lri.fr/):
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf)
+  (2017-03-17)
+- [CEA List](http://www-list.cea.fr/recherche-technologique/programmes-de-recherche/systemes-embarques/validation-et-verification) seminar:
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-12-13-Secure-Compilation-CEA.pdf)
+  (2016-12-13)
+- [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)
+  security seminar:
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-11-03-Secure-Compilation-MSR.pdf)
+  (2016-11-03)
+- [Inria Gallium](http://gallium.inria.fr/)
+  [seminar](http://gallium.inria.fr/seminar.html):
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-09-02-Secure-Compilation-Gallium.pdf)
+  (2016-09-02)
+- Secure compilation meeting (informal) at Inria Paris:
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-08-17-Secure-Compilation-Mini-Workshop-Paris.pdf)
+  (2016-08-17)
+- ERC Starting Grant interview:
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-05-31-Secure-Compilation-ERC.pdf)
+  (2016-05-31)
+- [Inria Prosecco Seminar](http://prosecco.gforge.inria.fr/events.php):
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-03-02-Micro-Policies-Secure-Compilation-Prosecco.pdf)
+  (2016-03-02)
+- [MPI-SWS](http://www.mpi-sws.org/)
+  [Colloquium](http://www.mpi-sws.org/index.php?n=events/swscolloquium/program):
+  [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2016-02-22-Micro-Policies-Secure-Compilation-MPI-SWS.pdf)
+  (2016-02-22)
+
+## Course on Secure Compilation
+
+- [Formally Secure Compartmentalizing Compilation](http://prosecco.gforge.inria.fr/personal/hritcu/teaching/fosad2018/) course at [International School on Foundations of Security Analysis and Design (FOSAD)](http://www.sti.uniurb.it/events/fosad18/) in [Bertinoro, Italy](https://goo.gl/maps/oqzrpd6aMfr) (2018-08-27)
+
 
 ## Related Projects
 
