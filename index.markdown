@@ -176,6 +176,10 @@ source-level semantics.
 
 - <https://github.com/secure-compilation>
 
+## Chatting
+
+- <https://secure-compilation.zulipchat.com/register/>
+
 ## Most Relevant Publications {#publications}
 
 - [Carmine Abate],
