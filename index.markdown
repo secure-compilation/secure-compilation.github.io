@@ -37,7 +37,10 @@ Seminar on secure compilation]).
 - [Kenji Maillard] (PhD Student)
 - [Jérémy Thibault] (PhD Student)
 - [Roberto Blanco] (PostDoc)
-- [Florian Groult] (Research Intern, Orléans University)
+- [Adrien Durier] (PostDoc)
+- [Florian Groult] (Research Intern/Engineer, Orléans University)
+- [Cezar Constantin Andrici] (Research Intern/Engineer, University of Iasi, Romania)
+- [Ramkumar Ramachandra] (Research Intern/Engineer)
 - [Éric Tanter] (Visiting Professor, [University of Chile])
 
 #### External collaborators {#external}
@@ -126,7 +129,9 @@ Seminar on secure compilation]).
 [Elizabeth Labrada]: https://pleiad.cl/people/elabrada
 [Ștefan Ciobâcă]: https://profs.info.uaic.ro/~stefan.ciobaca/
 [University of Iași]: http://www.info.uaic.ro/bin/Main/?language=en
-
+[Adrien Durier]: https://dblp.org/pers/hd/d/Durier:Adrien
+[Cezar Constantin Andrici]: https://www.linkedin.com/in/cezar-andrici-49771663/
+[Ramkumar Ramachandra]: https://artagnon.com
 
 # SECOMP Project {#project}
 
@@ -149,25 +154,21 @@ inefficient for most practical scenarios.
 
 This project is aimed at leveraging emerging hardware capabilities for
 fine-grained protection to build the first, efficient secure compilation chains
-for realistic low-level programming languages (the C language, and
-[Low\*] a safe subset of C embedded in [F\*] for verification). These
-compilation chains will provide a secure semantics for all programs and will
-ensure that high-level abstractions cannot be violated even when
-interacting with untrusted low-level code. To achieve this level of
-security without sacrificing efficiency, our secure compilation chains target a
-tagged architecture, which associates a metadata tag to each word and
-efficiently propagates and checks tags according to software-defined
-rules. We hope to experimentally evaluate and carefully optimize the
-efficiency of our secure compilation chains on realistic workloads and standard
-benchmark suites. We are using property-based testing and
-formal verification to provide high confidence that our compilation chains are
-indeed secure.  Formally, we are constructing machine-checked proofs
-in Coq of various new security criteria, which are defined as the
-preservation of property classes even against an adversarial context.
-These strong criteria complement compiler correctness and ensure that
-no machine-code attacker can do more harm to securely compiled
-components than a component already could with respect to a secure
-source-level semantics.
+for realistic low-level programming languages (the C language, and [Low\*] a
+safe subset of C embedded in [F\*] for verification). These compilation chains
+will provide a secure semantics for all programs and will ensure that high-level
+abstractions cannot be violated even when interacting with untrusted low-level
+code. To achieve this level of security without sacrificing efficiency, our
+secure compilation chains target a tagged architecture, which associates a
+metadata tag to each word and efficiently propagates and checks tags according
+to software-defined rules. We are using property-based testing and formal
+verification to provide high confidence that our compilation chains are indeed
+secure. Formally, we are constructing machine-checked proofs in Coq of various
+new security criteria, which are defined as the preservation of property classes
+even against an adversarial context.  These strong criteria complement compiler
+correctness and ensure that no machine-code attacker can do more harm to
+securely compiled components than a component already could with respect to a
+secure source-level semantics.
 
 [F\*]: https://www.fstar-lang.org/
 [Low\*]: http://arxiv.org/abs/1703.00053
