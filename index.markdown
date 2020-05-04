@@ -17,10 +17,11 @@ excellent young researchers and students to work on the project.
 [ERC Starting Grant]: https://erc.europa.eu/funding-and-grants/funding-schemes/starting-grants
 [Cătălin Hriţcu]: http://prosecco.gforge.inria.fr/personal/hritcu/
 [Inria Paris]: https://www.inria.fr/en/centre/paris
+[[Bochum, Germany]: https://prosecco.gforge.inria.fr/personal/hritcu/
 
 # Current Team {#team}
 
-The core SECOMP team is located at [Inria Paris], and currently
+The core SECOMP team is located at [MPI-SP] in [Bochum, Germany], and currently
 includes [Cătălin Hriţcu], several students, and one postdoc.
 <!-- We expect to [hire a few more people](#positions) in the coming years. -->
 The project also includes [excellent external collaborators](#external)
