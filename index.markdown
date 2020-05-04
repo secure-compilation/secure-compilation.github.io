@@ -17,7 +17,7 @@ excellent young researchers and students to work on the project.
 [ERC Starting Grant]: https://erc.europa.eu/funding-and-grants/funding-schemes/starting-grants
 [Cătălin Hriţcu]: http://prosecco.gforge.inria.fr/personal/hritcu/
 [Inria Paris]: https://www.inria.fr/en/centre/paris
-[[Bochum, Germany]: https://prosecco.gforge.inria.fr/personal/hritcu/
+[Bochum, Germany]: https://prosecco.gforge.inria.fr/personal/hritcu/
 
 # Current Team {#team}
 
