@@ -5,13 +5,15 @@ title: Efficient Formally Secure Compilation to a Tagged Architecture
 **SECOMP** is a research project aimed at building the first efficient
 formally secure compilation chains for realistic programming languages (see
 [project description](#project) below).  The project encompasses a
-[core team](#core) at [Inria Paris] and [several external collaborators](#external).
-[Cătălin Hriţcu] and the core team at Inria Paris are generously
-funded for 5 years (between 2017 and 2021) by an [ERC Starting Grant].
+[core team](#core) at [MPI-SP] and [several external collaborators](#external).
+[Cătălin Hriţcu] and the core team at MPI-SP are generously
+funded for 5 years (until the end of 2021) by an [ERC Starting Grant].
 Over the project's duration we are looking to hire several
-excellent young researchers and students to work at [Inria Paris]
-(see [open positions](#positions) below).
+excellent young researchers and students to work on the project.
 
+<!-- at [Inria Paris] (see [open positions](#positions) below). -->
+
+[MPI-SP]: https://www.mpi-sp.org
 [ERC Starting Grant]: https://erc.europa.eu/funding-and-grants/funding-schemes/starting-grants
 [Cătălin Hriţcu]: http://prosecco.gforge.inria.fr/personal/hritcu/
 [Inria Paris]: https://www.inria.fr/en/centre/paris
@@ -19,29 +21,24 @@ excellent young researchers and students to work at [Inria Paris]
 # Current Team {#team}
 
 The core SECOMP team is located at [Inria Paris], and currently
-includes [Cătălin Hriţcu], several students, and one postdoc. We
-expect to [hire a few more people](#positions) in the coming
-years. The project also includes [excellent external
-collaborators](#external) and we are looking forward to work with
-additional world-class researchers with an interest in secure
-compilation (see [the PriSC workshop @ POPL] and [the recent Dagstuhl
-Seminar on secure compilation]).
+includes [Cătălin Hriţcu], several students, and one postdoc.
+<!-- We expect to [hire a few more people](#positions) in the coming years. -->
+The project also includes [excellent external collaborators](#external)
+and we are looking forward to work with additional world-class researchers with
+an interest in secure compilation (see [the PriSC workshop @ POPL] and
+a series of Dagstuhl Seminars on secure compilation
+([2018](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201),
+[2020](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=20201))).
 
-[the PriSC workshop @ POPL]: https://popl19.sigplan.org/track/prisc-2019
-[the recent Dagstuhl Seminar on secure compilation]: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201
+[the PriSC workshop @ POPL]: https://popl20.sigplan.org/home/prisc-2020
 
-#### Core team at Inria Paris {#core}
+#### Core team at MPI-SP {#core}
 
-- [Cătălin Hriţcu] (SECOMP PI, Inria Researcher)
+- [Cătălin Hriţcu] (SECOMP PI, Tenured Research Group Leader)
 - [Carmine Abate] (PhD Student)
-- [Kenji Maillard] (PhD Student)
 - [Jérémy Thibault] (PhD Student)
-- [Roberto Blanco] (PostDoc)
 - [Adrien Durier] (PostDoc)
-- [Florian Groult] (Research Intern/Engineer, Orléans University)
-- [Cezar Constantin Andrici] (Research Intern/Engineer, University of Iasi, Romania)
-- [Ramkumar Ramachandra] (Research Intern/Engineer)
-- [Éric Tanter] (Visiting Professor, [University of Chile])
+- [Roberto Blanco] (PostDoc)
 
 #### External collaborators {#external}
 
@@ -63,6 +60,8 @@ Seminar on secure compilation]).
 
 <!-- TODO: move these to a separate page, or somehow fold them out -->
 
+- [Éric Tanter] (Visiting Professor, [University of Chile])
+- [Kenji Maillard] (PhD Student)
 - [Danel Ahman] (PostDoc)
 - [Marco Stronati] (PostDoc)
 - [Guglielmo Fachini] (Research Engineer)
@@ -71,6 +70,9 @@ Seminar on secure compilation]).
     PhD at [University of Pennsylvania])
 - [Boris Eng] (Research Intern at Inria, undergraduate student at Paris 8)
 - [Ana Nora Evans] (Visiting Researcher at Inria, PhD Student at [University of Virginia])
+- [Florian Groult] (Research Intern/Engineer, Orléans University)
+- [Ramkumar Ramachandra] (Research Intern/Engineer)
+- [Cezar Constantin Andrici] (Research Intern/Engineer, University of Iasi, Romania)
 - [Victor Dumitrescu] (Research Engineer)
 - [Théo Laurent] (Research Intern at Inria, ENS Paris)
 - [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
@@ -191,7 +193,8 @@ secure source-level semantics.
   [Marco Patrignani],
   [Éric Tanter], and
   [Jérémy Thibault].
-  **[Trace-Relating Compiler Correctness and Secure Compilation](https://arxiv.org/abs/1907.05320)**. arXiv:1907.05320. July 2019.
+  **[Trace-Relating Compiler Correctness and Secure Compilation](https://arxiv.org/abs/1907.05320)**. 
+  In [29th European Symposium on Programming (ESOP)](https://www.etaps.org/2020/esop), pages 1--28. Springer, April 2020.
     + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation/tree/different_traces)
 
 - [Carmine Abate],
@@ -329,6 +332,10 @@ secure source-level semantics.
 [Jean-Karim Zinzindohoué]: https://github.com/jkzinzindohoue
 
 ## Talks on SECOMP
+- [CS @ Max Planck Open House](https://www.cis.mpg.de/graduate-programs/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.pdf) and [video](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.mp4) (2020-04-03)
+- [Formal Methods Working Group of GDR Security](http://gtmfsec.irisa.fr/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-01-30-When-Good-Components-Go-Bad-GDR-Security-Paris.pdf) (2020-01-30)
+- [Chalmers Security Seminar](https://www.cse.chalmers.se/research/group/security/talk/css-talk27/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-06-27-Journey-Beyond-Full-Abstraction-CSF.pdf) (2019-12-05)
+- [EPFL IC Colloquium](https://www.cse.chalmers.se/research/group/security/talk/css-talk27/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-12-05-When-Good-Components-Go-Bad-Chalmers.pdf) (2019-09-26)
 - [CSF 2019](https://web.stevens.edu/csf2019/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-06-27-Journey-Beyond-Full-Abstraction-CSF.pdf) (2019-06-27)
 - [MPI-SWS](https://www.mpi-sws.org/), Saarbrücken: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-23-When-Good-Components-Go-Bad-Saarbruecken.pdf) (2019-05-23)
 - CASA-MPI Distinguished Lecture at Ruhr University Bochm: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-13-When-Good-Components-Go-Bad-Bochum.pdf) (2019-05-13)
@@ -410,6 +417,8 @@ secure source-level semantics.
 [Harvard University]: https://www.seas.harvard.edu/computer-science
 [BAE Systems]: http://www.baesystems.com/en/home
 
+<!--
+
 # Open Positions {#positions}
 
 We are looking for excellent young researchers and students for
@@ -435,7 +444,7 @@ expertise in:
   verified compilation in particular
 
 - security foundations, e.g., reference monitoring, hyperproperties,
-  noninterference<!-- , fully abstract translations -->
+  noninterference
 
 Our most [recent](https://arxiv.org/abs/1807.04603)
 [two](https://arxiv.org/abs/1802.00588) papers should provide
@@ -473,12 +482,10 @@ up to 6 years) and earn €2348-3344 net each month, based on experience.
 
 ## Research Internships {#intern}
 
-Our research internships are for highly motivated students at the MSc <!-- and BSc -->
+Our research internships are for highly motivated students at the MSc
 level interested in getting a research immersion.
-<!-- and for PhD students at other institutions who are interested in getting hands -->
-<!-- on experience with research on the SECOMP project. -->
 Successful internships normally result in a research publication at a good
-international conference, and most often the <!-- BSc and --> MSc students we advise
+international conference, and most often the  MSc students we advise
 [continue with a PhD](http://prosecco.gforge.inria.fr/personal/hritcu/students.html).
 Research internships at Inria are very
 flexible: they usually take between 3 and 6 months and can happen any
@@ -596,3 +603,5 @@ interested students and researchers.
 If you are interested in applying for a position on the SECOMP project
 please send an email to <catalin.hritcu@inria.fr> including an up-to-date
 curriculum vitae. For any questions please use the same email address.
+
+-->
