@@ -8,8 +8,8 @@ formally secure compilation chains for realistic programming languages (see
 [core team](#core) at [MPI-SP] and [several external collaborators](#external).
 [Cătălin Hriţcu] and the core team at MPI-SP are generously
 funded for 5 years (until the end of 2021) by an [ERC Starting Grant].
-Over the project's duration we are looking to hire several
-excellent young researchers and students to work on the project.
+<!-- Over the project's duration we are looking to hire several -->
+<!-- excellent young researchers and students to work on the project. -->
 
 <!-- at [Inria Paris] (see [open positions](#positions) below). -->
 
@@ -33,12 +33,11 @@ a series of Dagstuhl Seminars on secure compilation
 
 [the PriSC workshop @ POPL]: https://popl20.sigplan.org/home/prisc-2020
 
-#### Core team at MPI-SP {#core}
+#### Core team at [MPI-SP] {#core}
 
-- [Cătălin Hriţcu] (SECOMP PI, Tenured Research Group Leader)
+- [Cătălin Hriţcu] (SECOMP PI, Tenured Faculty)
 - [Carmine Abate] (PhD Student)
 - [Jérémy Thibault] (PhD Student)
-- [Adrien Durier] (PostDoc)
 - [Roberto Blanco] (PostDoc)
 
 #### External collaborators {#external}
@@ -47,6 +46,7 @@ a series of Dagstuhl Seminars on secure compilation
 - [Arthur Azevedo de Amorim] (PostDoc, [Carnegie Mellon University])
 - [Andrew Tolmach] (Professor, [Portland State University])
 - [Deepak Garg] (Tenured Faculty, [MPI-SWS])
+- [Akram El-Korashy] (PhD Student, [MPI-SWS])
 - [Marco Patrignani] (Visiting Assistant Professor, [Stanford University] and [CISPA])
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
 - [Cédric Fournet] (Principal Researcher, [Microsoft Research])
@@ -57,10 +57,11 @@ a series of Dagstuhl Seminars on secure compilation
 <!-- - [Ana Nora Evans] (PhD Student, [University of Virginia]) -->
 - [Ștefan Ciobâcă] (Associate Professor, [University of Iași])
 
-#### Past members at Inria Paris
+#### Past members
 
 <!-- TODO: move these to a separate page, or somehow fold them out -->
 
+- [Adrien Durier] (PostDoc at Inria Paris and [MPI-SP])
 - [Éric Tanter] (Visiting Professor, [University of Chile])
 - [Kenji Maillard] (PhD Student)
 - [Danel Ahman] (PostDoc)
@@ -135,6 +136,7 @@ a series of Dagstuhl Seminars on secure compilation
 [Adrien Durier]: https://dblp.org/pers/hd/d/Durier:Adrien
 [Cezar Constantin Andrici]: https://www.linkedin.com/in/cezar-andrici-49771663/
 [Ramkumar Ramachandra]: https://artagnon.com
+[Akram El-Korashy]: https://people.mpi-sws.org/~elkorashy
 
 # SECOMP Project {#project}
 
