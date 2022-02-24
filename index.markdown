@@ -6,7 +6,7 @@ title: Efficient Formally Secure Compilation to a Tagged Architecture
 formally secure compilation chains for realistic programming languages (see
 [project description](#project) below).  The project encompasses a
 [core team](#core) at [MPI-SP] and [several external collaborators](#external).
-[Cătălin Hriţcu] and the core team at MPI-SP are generously
+[Cătălin Hriţcu] and the core team at MPI-SP were generously
 funded for 5 years (until the end of 2021) by an [ERC Starting Grant].
 <!-- Over the project's duration we are looking to hire several -->
 <!-- excellent young researchers and students to work on the project. -->
@@ -29,7 +29,7 @@ and we are looking forward to work with additional world-class researchers with
 an interest in secure compilation (see [the PriSC workshop @ POPL] and
 a series of Dagstuhl Seminars on secure compilation
 ([2018](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201),
-[2020](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=20201))).
+[2021](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21481))).
 
 [the PriSC workshop @ POPL]: https://popl20.sigplan.org/home/prisc-2020
 
@@ -37,44 +37,44 @@ a series of Dagstuhl Seminars on secure compilation
 
 - [Cătălin Hriţcu] (SECOMP PI, Tenured Faculty)
 - [Carmine Abate] (PhD Student)
+- [Cezar-Constantin Andrici] (PhD Student)
 - [Jérémy Thibault] (PhD Student)
 - [Roberto Blanco] (PostDoc)
+- [Théo Winterhalter] (PostDoc)
 
 #### External collaborators {#external}
 
-- [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
 - [Arthur Azevedo de Amorim] (PostDoc, [Carnegie Mellon University])
-- [Andrew Tolmach] (Professor, [Portland State University])
 - [Deepak Garg] (Tenured Faculty, [MPI-SWS])
+- [Éric Tanter] (Visiting Professor, [University of Chile])
+- [Andrew Tolmach] (Professor, [Portland State University])
+- [Benjamin C. Pierce] (Professor, [University of Pennsylvania])
 - [Akram El-Korashy] (PhD Student, [MPI-SWS])
 - [Marco Patrignani] (Visiting Assistant Professor, [Stanford University] and [CISPA])
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
-- [Cédric Fournet] (Principal Researcher, [Microsoft Research])
-- [André DeHon] (Professor, [University of Pennsylvania])
-- [Chris Casinghino] (Research scientist, [Draper Labs])
-- [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems])
-- [Howard E. Shrobe] (Principal Research Scientist, [MIT])
-<!-- - [Ana Nora Evans] (PhD Student, [University of Virginia]) -->
-- [Ștefan Ciobâcă] (Associate Professor, [University of Iași])
+<!-- - [Cédric Fournet] (Principal Researcher, [Microsoft Research]) -->
+<!-- - [André DeHon] (Professor, [University of Pennsylvania]) -->
+<!-- - [Chris Casinghino] (Research scientist, [Draper Labs]) -->
+<!-- - [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems]) -->
+<!-- - [Howard E. Shrobe] (Principal Research Scientist, [MIT]) -->
+<!-- - [Ștefan Ciobâcă] (Associate Professor, [University of Iași]) -->
 
 #### Past members
 
 <!-- TODO: move these to a separate page, or somehow fold them out -->
 
 - [Adrien Durier] (PostDoc at Inria Paris and [MPI-SP])
-- [Éric Tanter] (Visiting Professor, [University of Chile])
 - [Kenji Maillard] (PhD Student)
 - [Danel Ahman] (PostDoc)
 - [Marco Stronati] (PostDoc)
 - [Guglielmo Fachini] (Research Engineer)
 - [Yannis Juglaret] (Student at Inria and Paris 7)
-- [Arthur Azevedo de Amorim] (Research Intern at Inria,
-    PhD at [University of Pennsylvania])
+<!-- - [Arthur Azevedo de Amorim] (Research Intern at Inria, -->
+<!--     PhD at [University of Pennsylvania]) -->
 - [Boris Eng] (Research Intern at Inria, undergraduate student at Paris 8)
 - [Ana Nora Evans] (Visiting Researcher at Inria, PhD Student at [University of Virginia])
 - [Florian Groult] (Research Intern/Engineer, Orléans University)
-- [Ramkumar Ramachandra] (Research Intern/Engineer)
-- [Cezar Constantin Andrici] (Research Intern/Engineer, University of Iasi, Romania)
+<!-- - [Ramkumar Ramachandra] (Research Intern/Engineer) -->
 - [Victor Dumitrescu] (Research Engineer)
 - [Théo Laurent] (Research Intern at Inria, ENS Paris)
 - [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
@@ -137,6 +137,7 @@ a series of Dagstuhl Seminars on secure compilation
 [Cezar Constantin Andrici]: https://www.linkedin.com/in/cezar-andrici-49771663/
 [Ramkumar Ramachandra]: https://artagnon.com
 [Akram El-Korashy]: https://people.mpi-sws.org/~elkorashy
+[Théo Winterhalter]: https://theowinterhalter.github.io
 
 # SECOMP Project {#project}
 
@@ -188,6 +189,35 @@ secure source-level semantics.
 
 ## Most Relevant Publications {#publications}
 
+- [Akram El-Korashy],
+  [Roberto Blanco],
+  [Jérémy Thibault],
+  [Adrien Durier],
+  [Deepak Garg], and
+  [Cătălin Hrițcu].
+  **[SecurePtrs: Proving Secure Compilation with Data-Flow Back-Translation and Turn-Taking Simulation](https://arxiv.org/abs/2110.01439)**.
+  arXiv:2110.01439. October 2021.
+    + [Coq development](https://github.com/secure-compilation/when-good-components-go-bad/tree/memory-sharing)
+
+- [Carmine Abate],
+  [Matteo Busi], and
+  [Stelios Tsampas].
+  **[Fully Abstract and Robust Compilation and How to Reconcile the Two, Abstractly]**.
+  In [19th Asian Symposium on Programming Languages and Systems (APLAS)](https://conf.researchr.org/home/aplas-2021). October 2021.
+
+- [Carmine Abate],
+  [Philipp G. Haselwarter],
+  [Exequiel Rivas],
+  [Antoine Van Muylder],
+  [Théo Winterhalter],
+  [Cătălin Hrițcu],
+  [Kenji Maillard], and
+  [Bas Spitters].
+  **[SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq](https://eprint.iacr.org/2021/397/20210526:113037)**.
+  In 34th IEEE Computer Security Foundations Symposium (CSF), pages 608--622. June 2021.
+  **Distinguished Paper Award.**
+    + [Coq development](https://github.com/SSProve/ssprove)
+
 - [Carmine Abate],
   [Roberto Blanco],
   [Ștefan Ciobâcă],
@@ -196,9 +226,15 @@ secure source-level semantics.
   [Marco Patrignani],
   [Éric Tanter], and
   [Jérémy Thibault].
-  **[Trace-Relating Compiler Correctness and Secure Compilation](https://arxiv.org/abs/1907.05320)**. 
-  In [29th European Symposium on Programming (ESOP)](https://www.etaps.org/2020/esop), pages 1--28. Springer, April 2020.
+  **[An Extended Account of Trace-Relating Compiler Correctness and Secure Compilation](https://doi.org/10.1145/3460860)**. 
+  ACM Transactions on Programming Languages and Systems (TOPLAS). Volume 43, Issue 4, pages 1-48. ACM, December 2021.
     + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation/tree/different_traces)
+    + A short version appeared at In [29th European Symposium on Programming (ESOP)](https://www.etaps.org/2020/esop).
+      **Nominated for EATCS Award for the best ETAPS 2020 paper in theoretical computer science.**
+
+- [Cătălin Hriţcu].
+  **[The Quest for Formally Secure Compartmentalizing Compilation](https://catalin-hritcu.github.io/publications/catalin_habil.pdf)**
+  Habilitation Thesis, ENS Paris, January 2019.
 
 - [Carmine Abate],
   [Roberto Blanco],
