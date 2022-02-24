@@ -218,7 +218,7 @@ secure source-level semantics.
   [Philipp G. Haselwarter],
   [Exequiel Rivas],
   [Antoine Van Muylder],
-  [Théo Winterhalter],
+  [Théo Winterhalter],
   [Cătălin Hriţcu],
   [Kenji Maillard], and
   [Bas Spitters].
@@ -378,6 +378,8 @@ secure source-level semantics.
 [Exequiel Rivas]: https://dcc.fceia.unr.edu.ar/~erivas
 [Antoine Van Muylder]: https://antoinevanmuylder.github.io
 [Bas Spitters]: https://cs.au.dk/~spitters
+[Sean Noble Anderson]: https://www.linkedin.com/in/sean-noble-anderson/
+[Leonidas Lampropoulos]: https://lemonidas.github.io/
 
 ## Talks on SECOMP
 - [CS @ Max Planck Open House](https://www.cis.mpg.de/graduate-programs/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.pdf) and [video](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.mp4) (2020-04-03)
