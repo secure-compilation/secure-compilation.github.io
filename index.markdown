@@ -52,12 +52,7 @@ a series of Dagstuhl Seminars on secure compilation
 - [Akram El-Korashy] (PhD Student, [MPI-SWS])
 - [Marco Patrignani] (Visiting Assistant Professor, [Stanford University] and [CISPA])
 - [Nikhil Swamy] (Senior Researcher, [Microsoft Research])
-<!-- - [Cédric Fournet] (Principal Researcher, [Microsoft Research]) -->
-<!-- - [André DeHon] (Professor, [University of Pennsylvania]) -->
-<!-- - [Chris Casinghino] (Research scientist, [Draper Labs]) -->
-<!-- - [Greg Sullivan] (Chief Scientist and Founder, [Dover Microsystems]) -->
-<!-- - [Howard E. Shrobe] (Principal Research Scientist, [MIT]) -->
-<!-- - [Ștefan Ciobâcă] (Associate Professor, [University of Iași]) -->
+- [Ștefan Ciobâcă] (Associate Professor, [University of Iași])
 
 #### Past members
 
@@ -194,29 +189,10 @@ secure source-level semantics.
   [Jérémy Thibault],
   [Adrien Durier],
   [Deepak Garg], and
-  [Cătălin Hrițcu].
+  [Cătălin Hriţcu].
   **[SecurePtrs: Proving Secure Compilation with Data-Flow Back-Translation and Turn-Taking Simulation](https://arxiv.org/abs/2110.01439)**.
   arXiv:2110.01439. October 2021.
     + [Coq development](https://github.com/secure-compilation/when-good-components-go-bad/tree/memory-sharing)
-
-- [Carmine Abate],
-  [Matteo Busi], and
-  [Stelios Tsampas].
-  **[Fully Abstract and Robust Compilation and How to Reconcile the Two, Abstractly]**.
-  In [19th Asian Symposium on Programming Languages and Systems (APLAS)](https://conf.researchr.org/home/aplas-2021). October 2021.
-
-- [Carmine Abate],
-  [Philipp G. Haselwarter],
-  [Exequiel Rivas],
-  [Antoine Van Muylder],
-  [Théo Winterhalter],
-  [Cătălin Hrițcu],
-  [Kenji Maillard], and
-  [Bas Spitters].
-  **[SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq](https://eprint.iacr.org/2021/397/20210526:113037)**.
-  In 34th IEEE Computer Security Foundations Symposium (CSF), pages 608--622. June 2021.
-  **Distinguished Paper Award.**
-    + [Coq development](https://github.com/SSProve/ssprove)
 
 - [Carmine Abate],
   [Roberto Blanco],
@@ -226,11 +202,38 @@ secure source-level semantics.
   [Marco Patrignani],
   [Éric Tanter], and
   [Jérémy Thibault].
-  **[An Extended Account of Trace-Relating Compiler Correctness and Secure Compilation](https://doi.org/10.1145/3460860)**. 
+  **[An Extended Account of Trace-Relating Compiler Correctness and Secure Compilation](https://doi.org/10.1145/3460860)**.
   ACM Transactions on Programming Languages and Systems (TOPLAS). Volume 43, Issue 4, pages 1-48. ACM, December 2021.
     + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation/tree/different_traces)
-    + A short version appeared at In [29th European Symposium on Programming (ESOP)](https://www.etaps.org/2020/esop).
-      **Nominated for EATCS Award for the best ETAPS 2020 paper in theoretical computer science.**
+    + A short version appeared at In [29th European Symposium on Programming (ESOP)](https://www.etaps.org/2020/esop)
+      and was **Nominated for EATCS Award for the best ETAPS 2020 paper in theoretical computer science.**
+
+- [Carmine Abate],
+  [Matteo Busi], and
+  [Stelios Tsampas].
+  **[Fully Abstract and Robust Compilation and How to Reconcile the Two, Abstractly](https://arxiv.org/abs/2006.14969)**.
+  In [19th Asian Symposium on Programming Languages and Systems (APLAS)](https://conf.researchr.org/home/aplas-2021). October 2021.
+
+- [Carmine Abate],
+  [Philipp G. Haselwarter],
+  [Exequiel Rivas],
+  [Antoine Van Muylder],
+  [Théo Winterhalter],
+  [Cătălin Hriţcu],
+  [Kenji Maillard], and
+  [Bas Spitters].
+  **[SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq](https://eprint.iacr.org/2021/397/20210526:113037)**.
+  In 34th IEEE Computer Security Foundations Symposium (CSF), pages 608--622. June 2021.
+  **Distinguished Paper Award.**
+    + [Coq development](https://github.com/SSProve/ssprove)
+
+- [Sean Noble Anderson],
+  [Leonidas Lampropoulos],
+  [Roberto Blanco],
+  [Benjamin C. Pierce], and
+  [Andrew Tolmach].
+  **[Security Properties for Stack Safety](https://arxiv.org/abs/2105.00417)**.
+  arXiv 2105.00417. May 2021.
 
 - [Cătălin Hriţcu].
   **[The Quest for Formally Secure Compartmentalizing Compilation](https://catalin-hritcu.github.io/publications/catalin_habil.pdf)**
@@ -351,24 +354,30 @@ secure source-level semantics.
 [Maxime Dénès]: http://www.maximedenes.fr/
 [Nick Giannarakis]: http://scholar.princeton.edu/nick/home
 [Udit Dhawan]: https://www.linkedin.com/in/udit-dhawan-016ab67
-[Nikos Vasilakis]: http://nikos.vasilak.is/
-[Raphael Rubin]: https://www.seas.upenn.edu/~rafi/
+[Nikos Vasilakis]: http://nikos.vasilak.is
+[Raphael Rubin]: https://www.seas.upenn.edu/~rafi
 [Silviu Chiricescu]: https://www.linkedin.com/in/silviuchiricescu
-[Jonathan M. Smith]: https://www.cis.upenn.edu/~jms/
+[Jonathan M. Smith]: https://www.cis.upenn.edu/~jms
 [Thomas F. Knight, Jr.]: https://en.wikipedia.org/wiki/Tom_Knight_(scientist)
-[André DeHon]: https://www.seas.upenn.edu/~andre/
-[Nathan Collins]: https://galois.com/team/nathan-collins/
-[Delphine Demange]: https://www.irisa.fr/celtique/demange/
-[David Pichardie]: https://www.irisa.fr/celtique/pichardie/
-[Randy Pollack]: http://homepages.inf.ed.ac.uk/rpollack/
-[Karthikeyan Bhargavan]: http://prosecco.gforge.inria.fr/personal/karthik/
-[Antoine Delignat-Lavaud]: http://antoine.delignat-lavaud.fr/
-[Jonathan Protzenko]: https://jonathan.protzenko.fr/
-[Tahina Ramananandro]: https://www.normalesup.org/~ramanana/
-[Aseem Rastogi]: https://www.microsoft.com/en-us/research/people/aseemr/
-[Peng Wang]: https://people.csail.mit.edu/wangpeng/
-[Santiago Zanella-Béguelin]: https://www.microsoft.com/en-us/research/people/santiago/
+[André DeHon]: https://www.seas.upenn.edu/~andre
+[Nathan Collins]: https://galois.com/team/nathan-collins
+[Delphine Demange]: https://www.irisa.fr/celtique/demange
+[David Pichardie]: https://www.irisa.fr/celtique/pichardie
+[Randy Pollack]: http://homepages.inf.ed.ac.uk/rpollack
+[Karthikeyan Bhargavan]: http://prosecco.gforge.inria.fr/personal/karthik
+[Antoine Delignat-Lavaud]: http://antoine.delignat-lavaud.fr
+[Jonathan Protzenko]: https://jonathan.protzenko.fr
+[Tahina Ramananandro]: https://www.normalesup.org/~ramanana
+[Aseem Rastogi]: https://www.microsoft.com/en-us/research/people/aseemr
+[Peng Wang]: https://people.csail.mit.edu/wangpeng
+[Santiago Zanella-Béguelin]: https://www.microsoft.com/en-us/research/people/santiago
 [Jean-Karim Zinzindohoué]: https://github.com/jkzinzindohoue
+[Matteo Busi]: https://matteobusi.github.io/
+[Stelios Tsampas]: https://scholar.google.com/citations?user=P_acVKwAAAAJ&hl=en
+[Philipp G. Haselwarter]: https://haselwarter.org
+[Exequiel Rivas]: https://dcc.fceia.unr.edu.ar/~erivas
+[Antoine Van Muylder]: https://antoinevanmuylder.github.io
+[Bas Spitters]: https://cs.au.dk/~spitters
 
 ## Talks on SECOMP
 - [CS @ Max Planck Open House](https://www.cis.mpg.de/graduate-programs/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.pdf) and [video](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.mp4) (2020-04-03)
