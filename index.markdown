@@ -180,9 +180,16 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
 [F\*]: https://www.fstar-lang.org/
 [Low\*]: http://arxiv.org/abs/1703.00053
 
-## Github Repo
-
-- <https://github.com/secure-compilation>
+## Github Repos
+- <https://github.com/secure-compilation/CompCert>
+- <https://github.com/secure-compilation/when-good-components-go-bad>
+- <https://github.com/secure-compilation/when-good-components-go-bad/tree/memory-sharing>
+- <https://github.com/secure-compilation/exploring-robust-property-preservation>
+- <https://github.com/secure-compilation/different_traces>
+- <https://github.com/FStarLang/FStar>
+- <https://github.com/SSProve/ssprove>
+- <https://github.com/QuickChick>
+- <https://github.com/arthuraa/memory-safe-language>
 
 ## Chatting
 
@@ -210,7 +217,7 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
   [Jérémy Thibault].
   **[An Extended Account of Trace-Relating Compiler Correctness and Secure Compilation](https://doi.org/10.1145/3460860)**.
   ACM Transactions on Programming Languages and Systems (TOPLAS). Volume 43, Issue 4, pages 1-48. ACM, December 2021.
-    + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation/tree/different_traces)
+    + [Coq development](https://github.com/secure-compilation/different_traces)
     + A short version appeared at In [29th European Symposium on Programming (ESOP)](https://www.etaps.org/2020/esop)
       and was **Nominated for EATCS Award for the best ETAPS 2020 paper in theoretical computer science.**
 
