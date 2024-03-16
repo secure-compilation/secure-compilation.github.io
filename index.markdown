@@ -19,7 +19,7 @@ funded for 5 years (until the end of 2021) by an [ERC Starting Grant].
 [Inria Paris]: https://www.inria.fr/en/centre/paris
 [Bochum, Germany]: https://prosecco.gforge.inria.fr/personal/hritcu/
 
-# Current Team {#team}
+# Team {#team}
 
 The core SECOMP team is located at [MPI-SP] in [Bochum, Germany], and currently
 includes [Cătălin Hriţcu], several students, and one postdoc.
@@ -33,7 +33,7 @@ a series of Dagstuhl Seminars on secure compilation
 
 [the PriSC workshop @ POPL]: https://popl20.sigplan.org/home/prisc-2020
 
-#### Core team at [MPI-SP] {#core}
+#### Core team at [MPI-SP] as of end of 2021 {#core}
 
 - [Cătălin Hriţcu] (SECOMP PI, Tenured Faculty)
 - [Carmine Abate] (PhD Student)
@@ -62,14 +62,12 @@ a series of Dagstuhl Seminars on secure compilation
 - [Kenji Maillard] (PhD Student)
 - [Danel Ahman] (PostDoc)
 - [Marco Stronati] (PostDoc)
+- [Guido Martínez] (PhD Student at [CIFASIS-CONICET] and [UNR])
 - [Guglielmo Fachini] (Research Engineer)
 - [Yannis Juglaret] (Student at Inria and Paris 7)
-<!-- - [Arthur Azevedo de Amorim] (Research Intern at Inria, -->
-<!--     PhD at [University of Pennsylvania]) -->
 - [Boris Eng] (Research Intern at Inria, undergraduate student at Paris 8)
 - [Ana Nora Evans] (Visiting Researcher at Inria, PhD Student at [University of Virginia])
 - [Florian Groult] (Research Intern/Engineer, Orléans University)
-<!-- - [Ramkumar Ramachandra] (Research Intern/Engineer) -->
 - [Victor Dumitrescu] (Research Engineer)
 - [Théo Laurent] (Research Intern at Inria, ENS Paris)
 - [Clément Pit-Claudel] (Research Intern at Inria, [MIT])
@@ -133,6 +131,12 @@ a series of Dagstuhl Seminars on secure compilation
 [Ramkumar Ramachandra]: https://artagnon.com
 [Akram El-Korashy]: https://people.mpi-sws.org/~elkorashy
 [Théo Winterhalter]: https://theowinterhalter.github.io
+[Dongjae Lee]: https://mori1116.github.io
+[Sven Argo]: https://informatik.rub.de/seceng/personen/argo
+[Aïna Linn Georges]: https://people.mpi-sws.org/~algeorges
+[Guido Martínez]: https://mtzguido.github.io
+[CIFASIS-CONICET]: https://www.cifasis-conicet.gov.ar
+[UNR]: https://unr.edu.ar
 
 # SECOMP Project {#project}
 
@@ -197,6 +201,46 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
 
 ## Most Relevant Publications {#publications}
 
+- [Jérémy Thibault],
+  [Roberto Blanco],
+  [Dongjae Lee],
+  [Sven Argo],
+  [Arthur Azevedo de Amorim],
+  [Aïna Linn Georges],
+  [Cătălin Hriţcu], and
+  [Andrew Tolmach].
+  **[SECOMP: Formally Secure Compilation of Compartmentalized C Programs](http://arxiv.org/abs/2401.16277)**.
+    Draft, January 2024.
+    + [Coq development](https://github.com/secure-compilation/CompCert)
+    + [An extended abstract](https://catalin-hritcu.github.io/publications/SECOMP2CHERI-PriSC23.pdf)
+      about this work was presented at [PriSC'23](https://popl23.sigplan.org/home/prisc-2023)
+
+- [Cezar-Constantin Andrici],
+  [Ștefan Ciobâcă],
+  [Cătălin Hriţcu],
+  [Guido Martínez],
+  [Exequiel Rivas],
+  [Éric Tanter], and
+  [Théo Winterhalter].
+  **[Securing Verified IO Programs Against Unverified Code in F*](https://arxiv.org/abs/2303.01350)**.
+    PACMPL, 8([POPL](https://popl24.sigplan.org/)):74:1--74:34, January 2024.
+    + [F* development](http://github.com/andricicezar/fstar-io)
+    + [An extended abstract](https://cezarandrici.com/wp-content/uploads/2022/11/prisc23.pdf)
+       about this work was presented at [PriSC'23](https://popl23.sigplan.org/home/prisc-2023)
+
+- [Sean Noble Anderson],
+  [Leonidas Lampropoulos],
+  [Roberto Blanco],
+  [Benjamin C. Pierce], and
+  [Andrew Tolmach].
+  **[Formalizing Stack Safety as a Security Property](https://arxiv.org/abs/2105.00417)**.
+    In [36th IEEE Computer Security Foundations Symposium (CSF)](https://www.ieee-security.org/TC/CSF2023/),
+    July 2023.
+
+- [Carmine Abate].
+  **[A Formal Framework for Correct and Secure Compilation](https://doi.org/10.13154/294-9870)**
+  PhD Thesis, Ruhr University Bochum, October 2022.
+
 - [Akram El-Korashy],
   [Roberto Blanco],
   [Jérémy Thibault],
@@ -204,7 +248,8 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
   [Deepak Garg], and
   [Cătălin Hriţcu].
   **[SecurePtrs: Proving Secure Compilation with Data-Flow Back-Translation and Turn-Taking Simulation](https://arxiv.org/abs/2110.01439)**.
-  arXiv:2110.01439. October 2021.
+    In [35th IEEE Computer Security Foundations Symposium (CSF)](https://www.ieee-security.org/TC/CSF2022/),
+    August 2022.
     + [Coq development](https://github.com/secure-compilation/when-good-components-go-bad/tree/memory-sharing)
 
 - [Carmine Abate],
@@ -240,14 +285,6 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
   **Distinguished Paper Award.**
     + [Coq development](https://github.com/SSProve/ssprove)
 
-- [Sean Noble Anderson],
-  [Leonidas Lampropoulos],
-  [Roberto Blanco],
-  [Benjamin C. Pierce], and
-  [Andrew Tolmach].
-  **[Security Properties for Stack Safety](https://arxiv.org/abs/2105.00417)**.
-  arXiv 2105.00417. May 2021.
-
 - [Cătălin Hriţcu].
   **[The Quest for Formally Secure Compartmentalizing Compilation](https://catalin-hritcu.github.io/publications/catalin_habil.pdf)**
   Habilitation Thesis, ENS Paris, January 2019.
@@ -260,7 +297,7 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
   [Jérémy Thibault].
   **[Journey Beyond Full Abstraction: Exploring Robust Property Preservation for Secure Compilation](http://arxiv.org/abs/1807.04603)**.
   In [32nd IEEE Computer Security Foundations Symposium (CSF)](https://web.stevens.edu/csf2019/index.html), June 2019.
-  **Distinguished Paper Award**
+  **Distinguished Paper Award**.
     + [Coq development](https://github.com/secure-compilation/exploring-robust-property-preservation)
     + A previous extended abstract was called
     [Robust hyperproperty preservation for secure compilation](https://arxiv.org/abs/1710.07309)
@@ -395,7 +432,12 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
 [Leonidas Lampropoulos]: https://lemonidas.github.io/
 
 ## Talks on SECOMP
-- [CS @ Max Planck Open House](https://www.cis.mpg.de/graduate-programs/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.pdf) and [video](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.mp4) (2020-04-03)
+- [CASA Summer School 2023](https://casa.rub.de/en/events/casa-summer-school): [slides](https://catalin-hritcu.github.io/talks/2023-08-14-CASA-Summer-School.pdf) (2023-08-14)
+- [MPI-SP](https://www.mpi-sp.org/) Scientific Advisory Board visit: [slides](https://catalin-hritcu.github.io/talks/2023-05-11-SAB-MPI-SP-evaluation.pdf) (2023-05-11)
+- [MPI-SWS Research Symposium](https://research-symposium.mpi-sws.org): [slides](https://catalin-hritcu.github.io/talks/2023-03-10-MPI-SWS-Research-Symposium.pdf) (2023-03-10)
+- [Dagstuhl Seminar 21481 on Secure Compilation](http://www.dagstuhl.de/21481): [slides](https://catalin-hritcu.github.io/talks/2021-12-01-Formally-verifying-a-secure-compilation-chain-for-unsafe-C-components-at-Dagstuhl.pdf) (2021-12-01)
+- Invited Talk at [HotSpot Workshop](http://hotspot.compute.dtu.dk/hotspot2020.html): [slides](https://catalin-hritcu.github.io/talks/2020-09-07-Journey-Beyond-Full-Abstraction-HotSpot.pdf) and **[video](https://youtu.be/hTLHDJGKKpc)** (2020-09-07)
+- [CS @ Max Planck Open House](https://www.cis.mpg.de/graduate-programs/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.pdf) and **[video](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-04-03-CS-at-Max-Planck-Open-House.mp4)** (2020-04-03)
 - [Formal Methods Working Group of GDR Security](http://gtmfsec.irisa.fr/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2020-01-30-When-Good-Components-Go-Bad-GDR-Security-Paris.pdf) (2020-01-30)
 - [Chalmers Security Seminar](https://www.cse.chalmers.se/research/group/security/talk/css-talk27/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-06-27-Journey-Beyond-Full-Abstraction-CSF.pdf) (2019-12-05)
 - [EPFL IC Colloquium](https://www.cse.chalmers.se/research/group/security/talk/css-talk27/): [slides](https://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-12-05-When-Good-Components-Go-Bad-Chalmers.pdf) (2019-09-26)
@@ -404,17 +446,17 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
 - CASA-MPI Distinguished Lecture at Ruhr University Bochm: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-05-13-When-Good-Components-Go-Bad-Bochum.pdf) (2019-05-13)
 - Habilitation defense, Inria Paris: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-29-Secure-Compilation-Habil.pdf) (2019-01-29)
 - [PriSC @ POPL'19](https://popl19.sigplan.org/track/prisc-2019): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2019-01-13-Journey-Beyond-Full-Abstraction-PriSC.pdf) (2019-01-13)
-- [CCS 2018](https://www.sigsac.org/ccs/CCS2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-10-18-When-Good-Components-Go-Bad-CCS.pdf) **[video](https://www.youtube.com/watch?v=Wwx-g513zFs)** (2018-10-18)
+- [CCS 2018](https://www.sigsac.org/ccs/CCS2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-10-18-When-Good-Components-Go-Bad-CCS.pdf) and **[video](https://www.youtube.com/watch?v=Wwx-g513zFs)** (2018-10-18)
 - [Working Formal Methods Symposium (FROM 2018)](https://fmse.info.uaic.ro/event/from-2018/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-06-20-Secure-Compilation-FROM.pdf) (2018-06-20)
 - [Dagstuhl Seminar on Secure Compilation](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18201): [slides1](http://prosecco.gforge.inria.fr/personal/hritcu/2018-05-14-Secure-Compilation-Goals-and-Attackers-Dagstuhl.pdf) [slides2](http://prosecco.gforge.inria.fr/personal/hritcu/talks/talks/2017-01-15-What-Is-Secure-Compilation-SCM.pdf) (2018-05-14)
 - IRIF, Paris 7: [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-26-Secure-Compilation-IRIF.pdf) (2018-02-26)
-- [SoSySec seminar: Software and Systems Security at IRISA](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf) **[video](https://videos-rennes.inria.fr/video/BkHzYy-jM)** (2018-02-05)
+- [SoSySec seminar: Software and Systems Security at IRISA](http://seminaire-dga.gforge.inria.fr/2017/CatalinHritcu_fr.html): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2018-02-05-Secure-Compilation-Rennes.pdf); **[video](https://videos-rennes.inria.fr/video/BkHzYy-jM)** (2018-02-05)
 - [PriSC'18 in LA](http://popl18.sigplan.org/track/prisc-2018): [slides](https://popl18.sigplan.org/event?action-call-with-get-request-type=1&action253048efca6aee4547702963143c6170288=1&__ajax_runtime_request__=1&context=POPL-2018&event=prisc-2018-formally-secure-compilation-of-unsafe-low-level-components) (2018-01-13)
 - [Infoiasi](https://www.info.uaic.ro/bin/Main/): [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-12-18-Secure-Compilation-Infoiasi.pdf) (2017-12-18)
 - [ESOP PC Workshop](http://www.ccs.neu.edu/home/weiss/esop18/pc.html): [slides](talks/2017-12-15-Secure-Compilation-ESOP-PC.pdf) (2017-12-15)
 - [Université Clermont Auvergne](http://confiance-numerique.clermont-universite.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-04-06-Secure-Compilation-Clermont-Ferrand.pdf)
-  **[video](http://webtv.u-clermont1.fr/media-MEDIA170410150815297)**
+  and **[video](http://webtv.u-clermont1.fr/media-MEDIA170410150815297)**
   (2017-04-06)
 - [LRI VALS seminar at University Paris-Sud](https://vals.lri.fr/):
   [slides](http://prosecco.gforge.inria.fr/personal/hritcu/talks/2017-03-17-Secure-Compilation-LRI.pdf)
@@ -454,13 +496,13 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
 <!-- TODO: update to add SSITH/HOPE -->
 <!-- TODO: add F* too -->
 
-- **Micro-Policies** is an ongoing project aimed at showing how a rich
+- **Micro-Policies** was a project aimed at showing how a rich
   set of _micro-policies_ -- instruction-level security monitoring
   mechanisms based on fine-grained metadata tags -- can be described as
   instances of a common dynamic monitoring framework, formalized and
   reasoned about with unified verification tools, and efficiently
   implemented using programmable metadata-propagation hardware. This
-  project is a collaboration between [Inria Paris],
+  project was a collaboration between [Inria Paris],
   [University of Pennsylvania], [MIT], [Portland State University],
   and [Draper Labs] (who have built [a RISC-V processor extended with
   support for micro-policies](https://www.youtube.com/watch?v=r5dIS1kDars)).
