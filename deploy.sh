@@ -10,7 +10,7 @@ set -x
 git checkout develop
 
 # Commit source changes
-git commit -am "Source update" | grep -q "nothing to commit, working tree clean"
+git commit -am "Source update" | grep -q "nothing to commit, working tree clean" || echo "DONE"
 
 # Build new files
 stack build
