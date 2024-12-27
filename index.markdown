@@ -185,7 +185,7 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
 [Low\*]: http://arxiv.org/abs/1703.00053
 
 ## Github Repos
-- <https://github.com/secure-compilation/CompCert>
+- <https://github.com/secure-compilation/SECOMP>
 - <https://github.com/secure-compilation/when-good-components-go-bad>
 - <https://github.com/secure-compilation/when-good-components-go-bad/tree/memory-sharing>
 - <https://github.com/secure-compilation/exploring-robust-property-preservation>
@@ -210,7 +210,8 @@ At the conclusion of the project, we have achieved and in some ways exceeded our
   [Cătălin Hriţcu], and
   [Andrew Tolmach].
   **[SECOMP: Formally Secure Compilation of Compartmentalized C Programs](http://arxiv.org/abs/2401.16277)**.
-    Draft, January 2024.
+    In [31th ACM SIGSAC Conference on Computer and Communications Security (CCS)](https://www.sigsac.org/ccs/CCS2024/),
+    pages 1061–1075. ACM, October 2024.
     + [Coq development](https://github.com/secure-compilation/CompCert)
     + [An extended abstract](https://catalin-hritcu.github.io/publications/SECOMP2CHERI-PriSC23.pdf)
       about this work was presented at [PriSC'23](https://popl23.sigplan.org/home/prisc-2023)

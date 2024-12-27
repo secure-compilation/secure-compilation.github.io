@@ -6,12 +6,11 @@
 set -e
 set -x
 
-# Temporarily store uncommited changes
-# (the `save -u` part is there to also save untracked files)
-git stash save -u
-
 # Verify correct branch
 git checkout develop
+
+# Commit source changes
+git commit -am "Source update"
 
 # Build new files
 stack build
@@ -34,4 +33,3 @@ git push origin master:master
 # Restoration
 git checkout develop
 git branch -D master
-git stash pop || true
